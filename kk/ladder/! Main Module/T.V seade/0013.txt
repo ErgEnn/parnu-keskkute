@@ -1,0 +1,7 @@
+// TV.(SP.-ga) kütmise alustamise abi ,temperatuuri valimine.
+[L] RISE_CONTACT MB210 " TV.kütte alustamise temp.lülitamine" -> STORE_DIRECT(MI59 "SP.-le saadetava temperatuuri näit.(aken F1-1)") => MI513 "TV.kütmise alustamiseks valitud kõrgem temp." [R]
+[L] CONTACT MB1450 "TV. Kütmise abi (Valiku lüliti)" [J2]
+[J2] INVERTED_CONTACT MB210 " TV.kütte alustamise temp.lülitamine" -> RESET_COIL MB525 "TV.kütmise abi temp.valik (kõrgem)" [R]
+[J2] CONTACT MB210 " TV.kütte alustamise temp.lülitamine" -> ADD(MI501 "TV.kütte temp. miinus 5-20°C (diferents)", D#4) => MI512 "TV. kütte alustamise abi temp." -> LESS_EQUAL(MI512 "TV. kütte alustamise abi temp.", MI513 "TV.kütmise alustamiseks valitud kõrgem temp.") [J3]
+[J3] SET_COIL MB525 "TV.kütmise abi temp.valik (kõrgem)" [R]
+[L] INVERTED_CONTACT MB1450 "TV. Kütmise abi (Valiku lüliti)" [J3]

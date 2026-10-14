@@ -1,0 +1,1 @@
+(CONTACT MB1320 "F3-3 (1.kellaga temp.seade miinuse nupp)" -> COIL T71 "PK. 1.temp. korrektsioon kellaga miinuse nupp" | CONTACT MB1322 "F3-3 (1.kellaga temp.seade plussi nupp)" -> COIL T70 "PK. 1.temp. korrektsioon kellaga plussi nupp")

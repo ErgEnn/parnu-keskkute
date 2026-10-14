@@ -1,0 +1,2 @@
+// Errori aknast tagasi vigasesse PIDi aknasse F2-2,F3-2
+EQUAL(SI252 "Current HMI Display Number (Standard Vision only)", D#100) -> RISE_CONTACT MB1142 "Nupp errori aknast tagasi vigasesse aknasse" -> EQUAL(MI12 "Täpsustav error", D#0) -> JUMP_TO_HMI_PAGE PAGE "2.KK.PID"

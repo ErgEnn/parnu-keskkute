@@ -1,0 +1,2 @@
+// Liikumine infoaknast  PID KK. või PK. aknasse
+RISE_CONTACT MB1132 "Tagasi nupp" -> (EQUAL(SI252 "Current HMI Display Number (Standard Vision only)", D#103) | EQUAL(SI252 "Current HMI Display Number (Standard Vision only)", D#105)) -> STORE_DIRECT(MI10 "PID akna aadres") => SI252 "Current HMI Display Number (Standard Vision only)"

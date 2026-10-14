@@ -1,0 +1,1 @@
+EQUAL(SI252 "Current HMI Display Number (Standard Vision only)", D#100) -> RISE_CONTACT MB1142 "Nupp errori aknast tagasi vigasesse aknasse" -> EQUAL(MI12 "Täpsustav error", D#9) -> JUMP_TO_HMI_PAGE PAGE "2.PK.PID"

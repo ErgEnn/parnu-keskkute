@@ -1,0 +1,1 @@
+(CONTACT MB22 "TV.pumba lülitamine joonisel" -> (COIL MB30 "TV.Tagasivool (MP-sse)" | COIL MB31 "TV.1.Pealevool(MP-st)") | INVERTED_CONTACT T55 "vee voolu min.kiiruse viide" -> CONTACT MB38 "SP.pumba lülitamine joonisel" -> CONTACT I82 "SP.3Tventiil KK/PK suunas avatud" -> (COIL MB32 "TV.2.Pealevool (SP-st)" | COIL MB35 "TV.Tagasivool (SP-sse)"))

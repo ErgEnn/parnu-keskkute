@@ -1,0 +1,2 @@
+// AUTO TUNE töötab
+CONTACT MB412 "AUTO TUNE töötab" -> GREATER_EQUAL(MI424 "PID: PID Status", D#0) -> PID A.TUNE.AUTO-TUNE(D#3) => MB411 "AUTO TUNE tehtud" [param=2] [bin <2 bytes sha1:a02431cf7c50>]

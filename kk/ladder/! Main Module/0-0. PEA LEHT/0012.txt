@@ -1,0 +1,2 @@
+// MIN/MAX Temperatuuride salvestamine
+((RISE_CONTACT MB1158 "Põrandakütte temp min nupp" | LESS_THAN(MI199 "P.Kütte temp. peale korrektsiooni", MI1158 "Põrandakütte temp min")) -> STORE_DIRECT(MI199 "P.Kütte temp. peale korrektsiooni") => MI1158 "Põrandakütte temp min" | (RISE_CONTACT MB1159 "Põrandakütte temp max nupp" | GREATER_THAN(MI199 "P.Kütte temp. peale korrektsiooni", MI1159 "Põrandakütte temp max")) -> STORE_DIRECT(MI199 "P.Kütte temp. peale korrektsiooni") => MI1159 "Põrandakütte temp max")

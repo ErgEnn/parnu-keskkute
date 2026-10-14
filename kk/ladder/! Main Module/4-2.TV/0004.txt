@@ -1,0 +1,2 @@
+// 2.Temperatuuri valimine
+((RISE_CONTACT MB1416 "F4-2 (2.kellaga temp.seade plussi nupp)" -> INVERTED_CONTACT T82 "TV. 2.temp. korrektsioon kellaga plussi nupp" | RISE_CONTACT SB7 "100 mS pulse" -> CONTACT T82 "TV. 2.temp. korrektsioon kellaga plussi nupp") -> LESS_THAN(MI162 "TV.2.Temp.seade", D#60) -> INCREMENT_ELEMENT => MI162 "TV.2.Temp.seade" | GREATER_EQUAL(MI162 "TV.2.Temp.seade", D#60) -> COIL MB1417 "F4-2 (2.kellaga temp.seade plussi nupu peitmine)" -> STORE_DIRECT(D#60) => MI162 "TV.2.Temp.seade")

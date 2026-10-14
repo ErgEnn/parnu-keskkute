@@ -1,0 +1,1 @@
+CONTACT T15 "Toa temp. korrektor töötab" -> COIL MB327 "TE15 aja pikendaja"

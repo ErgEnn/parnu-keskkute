@@ -1,0 +1,6 @@
+// Vee voolu min.kiiruse valimine
+[L] CONTACT MB1123 "SP.Lüliti" -> CONTACT O103 "SP.Tsirk.pump" [J2]
+[J2] LESS_EQUAL(MI611 "Veemõõtja näit L/Min", MI616 "Veevoolu min. kiiruse astmed") -> COIL T55 "vee voolu min.kiiruse viide" [R]
+[J2] GREATER_THAN(MI611 "Veemõõtja näit L/Min", MI616 "Veevoolu min. kiiruse astmed") [J3]
+[J3] RESET_COIL T55 "vee voolu min.kiiruse viide" [R]
+[L] CONTACT MB1510 "F5-1Veevoolumõõtja blokeerimine" [J3]

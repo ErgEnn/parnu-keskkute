@@ -1,0 +1,1 @@
+(RISE_CONTACT I92 "Toa seade aktiveerimine ja veateadete nullimine" -> CONTACT MB327 "TE15 aja pikendaja" -> SET_COIL MB328 "Toa temp. näidik" | INVERTED_CONTACT MB327 "TE15 aja pikendaja" -> RESET_COIL MB328 "Toa temp. näidik")

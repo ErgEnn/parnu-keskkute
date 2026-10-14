@@ -1,0 +1,2 @@
+// Informatsiooni reziimi salasõna
+SET_INFO_PASS(MI27 "Informatsiooni reziimi salaõna") => MB7 "Informatsiooni reziimi staatus" [bin <2 bytes sha1:1489f923c4dc>]

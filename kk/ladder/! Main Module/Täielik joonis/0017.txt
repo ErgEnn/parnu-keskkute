@@ -1,0 +1,2 @@
+// Veemõõtja töötab
+(CONTACT MB38 "SP.pumba lülitamine joonisel" -> CONTACT T55 "vee voolu min.kiiruse viide" -> COIL MB53 "hüüumärgi lüliti" | RISE_CONTACT SB3 "1 second pulse ( a squarewave of 1 second duration, with a 50% duty cycle)" -> COIL MB51 "hüüumärk" | INVERTED_CONTACT T59 "Veemõõtja sümboli keerutaja (RES)" -> COIL T58 "Veemõõtja sümboli keerutaja")

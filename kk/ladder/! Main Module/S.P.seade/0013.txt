@@ -1,0 +1,2 @@
+// SP.hädaseis (Vee voolukiirus liiga väike)
+CONTACT T55 "vee voolu min.kiiruse viide" -> SET_COIL MB617 "SP.kompressori hädaseis (SET/RES.)"

@@ -1,0 +1,1 @@
+INVERTED_CONTACT T25 "Leg.reziimi järgus pausi alustamise viide.(2min.)" -> (STORE_ZERO_NUMERIC MI260 "Leg.järgse taimeri aja liitmine." | STORE_DIRECT(D#0) => MI56 "Leg. järgse pausi taimeri aja näit")

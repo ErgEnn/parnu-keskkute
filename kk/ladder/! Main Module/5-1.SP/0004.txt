@@ -1,0 +1,2 @@
+// KK.3TKraani asend
+(LESS_THAN(MI5 "KK.Kraani asend (0-100%)", D#5) -> COIL MB316 "KK.3T kraan suletud" | GREATER_EQUAL(MI5 "KK.Kraani asend (0-100%)", D#5) -> COIL MB317 "KK.3T kraan osaliselt avatud")

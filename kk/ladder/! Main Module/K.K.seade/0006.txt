@@ -1,0 +1,2 @@
+// Enkooderi dekodeerija
+(CONTACT I90 "Toa temp.korrektori+" -> INVERTED_CONTACT I91 "Toa temp.korrektori-" -> (RISE_CONTACT I90 "Toa temp.korrektori+" -> SET_COIL MB342 "Toa temp. korrek. +" | RESET_COIL MB343 "Toa temp. korrek. -") | CONTACT I91 "Toa temp.korrektori-" -> INVERTED_CONTACT I90 "Toa temp.korrektori+" -> (RISE_CONTACT I91 "Toa temp.korrektori-" -> SET_COIL MB343 "Toa temp. korrek. -" | RESET_COIL MB342 "Toa temp. korrek. +"))

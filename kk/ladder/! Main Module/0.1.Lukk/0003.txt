@@ -1,0 +1,1 @@
+CONTACT MB1100 "taba asend" -> EQUAL(SI40 "Touchscreen is being touched - X coordinates", D#-1) -> COIL MB1102 "Tagasi eelmisse aknasse"

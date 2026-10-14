@@ -1,0 +1,2 @@
+// SP.Tsirkulatsioonipump
+((CONTACT MB1123 "SP.Lüliti" -> (CONTACT I81 "3T Ventii suure MP. asendis" | CONTACT I82 "SP.3Tventiil KK/PK suunas avatud") | CONTACT T50 "SP.Tsirk.pumba stopi viide") -> CONTACT I80 "SP.tsirk.pumba käivitamise käsk" | CONTACT T41 ".Tsirk.pumba aegrelee (pumba intervall 1kuu)") -> COIL O103 "SP.Tsirk.pump" -> COIL MB38 "SP.pumba lülitamine joonisel"

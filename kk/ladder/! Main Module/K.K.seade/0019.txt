@@ -1,0 +1,2 @@
+//  KK.lülitamine ootereziimile
+(LESS_EQUAL(MI310 "KK.korrigeeritud temp.(10,0-65,0°C)", MI382 "Toa temp.miinus 2,0°C") -> SET_COIL MB307 "Küte ooterežiimil" | GREATER_EQUAL(MI310 "KK.korrigeeritud temp.(10,0-65,0°C)", MI197 "Toa temp. peale korrektsiooni") -> RESET_COIL MB307 "Küte ooterežiimil")

@@ -1,0 +1,1 @@
+RISE_CONTACT MB424 "PK.PIDi error" -> STORE_DIRECT(D#3) => MI11 "Errori tekstid" -> STORE_DIRECT(D#9) => MI12 "Täpsustav error" -> JUMP_TO_HMI_PAGE PAGE "3.Error" -> COIL MB430 "PK.PIDi vea teade lisaekraani jaoks"

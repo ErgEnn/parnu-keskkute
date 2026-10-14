@@ -1,0 +1,2 @@
+// TV.temperatuuri saatmine SP.-le.
+CONTACT MB210 " TV.kütte alustamise temp.lülitamine" -> (CONTACT T21 " TV.kütte alustamise temp.lülitamise viide" -> (CONTACT MB525 "TV.kütmise abi temp.valik (kõrgem)" | INVERTED_CONTACT T20 "KK.võiPK. temp.lülitamise viide") | CONTACT T90 "TV.kütte temp.lülitamise viide") -> (INVERTED_CONTACT MB192 "F4-6 des.aeg sees,väljas" -> COIL T23 "SP.tarbevee kütte sisse lülitamise viide" -> COIL MB520 "TV.valitud temp.SP-le" | CONTACT MB192 "F4-6 des.aeg sees,väljas" -> COIL MB521 "Legionella tõrje käivitus käsk SP-le.")

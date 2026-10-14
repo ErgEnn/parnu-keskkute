@@ -1,0 +1,1 @@
+CONTACT MB522 "Legionella tõrje imp.sees/väljas" -> COIL T24 "TV.Legionella tõrje imp.lõpetamine"

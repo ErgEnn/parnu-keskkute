@@ -1,0 +1,2 @@
+// Liivakell seisab
+CONTACT MB311 "AUTO TUNE tehtud" -> STORE_DIRECT(D#14) => MI360 "Liivakell F2-2"

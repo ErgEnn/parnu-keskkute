@@ -1,0 +1,2 @@
+// SP.Ventiilide asend joonisel (ajami lisakontakti järgi)
+(INVERTED_CONTACT I81 "3T Ventii suure MP. asendis" -> COIL MB41 "SP. Mootorkraan" | CONTACT I82 "SP.3Tventiil KK/PK suunas avatud" -> COIL MB42 "SP. 3T kraan")

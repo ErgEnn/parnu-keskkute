@@ -1,0 +1,2 @@
+// Toa temp.korrektori kiirendaja
+(ADD(MI301 "Toa seade korrektsioon kellaga", D#10) => MI308 "Toa seade korrektsioon +2°C" -> LESS_THAN(MI308 "Toa seade korrektsioon +2°C", MI197 "Toa temp. peale korrektsiooni") -> COIL MB304 "Temp.korrektsioon +/-1°C" | SUB(MI301 "Toa seade korrektsioon kellaga", D#10) => MI309 "Toa seade korrektsioon -2°C" -> GREATER_THAN(MI309 "Toa seade korrektsioon -2°C", MI197 "Toa temp. peale korrektsiooni") -> COIL MB304 "Temp.korrektsioon +/-1°C")

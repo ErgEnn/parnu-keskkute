@@ -1,0 +1,1 @@
+CONTACT MB26 "Kollektori ringvoolu ahel ja KK ahel" -> CONTACT MB28 "Kollektori nooled" -> (CONTACT MB415 "PK.3Tkraan avatud" | CONTACT MB417 "PK.3T kraan osaliselt avatud") -> (STORE_DIRECT(D#3) => MI465 "F3-1Sisendi kolmik joonisel" | STORE_DIRECT(D#3) => MI466 "F3-1Väljundi kolmik joonisel")

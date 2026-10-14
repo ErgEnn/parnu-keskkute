@@ -1,0 +1,1 @@
+(INVERTED_CONTACT MB1123 "SP.Lüliti" | CONTACT MB1140 "SP.kompressori hädaseisu nullimine") -> RESET_COIL T55 "vee voolu min.kiiruse viide" -> RESET_COIL MB617 "SP.kompressori hädaseis (SET/RES.)" -> RESET_COIL MB638 "SP.veemõõtja error"

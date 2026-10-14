@@ -1,0 +1,2 @@
+// Ekraani valgustuse valikud
+(CONTACT T1 "Heledus taimer" -> STORE_DIRECT(D#100) => SI9 "LCD Backlight intensity" | INVERTED_CONTACT T1 "Heledus taimer" -> GREATER_THAN(SI9 "LCD Backlight intensity", D#0) -> RISE_CONTACT SB7 "100 mS pulse" -> SUB(SI9 "LCD Backlight intensity", D#2) => SI9 "LCD Backlight intensity" -> COIL MB1103 "tagasi luku aknasse")

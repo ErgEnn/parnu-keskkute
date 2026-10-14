@@ -1,0 +1,2 @@
+// PK.korrigeeritud temperatuuri piiramine.(max 50,0C°)
+(INVERTED_CONTACT MB401 "PK. graafiku korrektsiooni piiraja (max 50,0°C)" -> STORE_DIRECT(MI405 "PK. graafiku korrektsioon kellaga (25,0-55,0°C") => MI401 "PK. graafiku korrektsioon kellaga (25,0-50,0°C)" | CONTACT MB401 "PK. graafiku korrektsiooni piiraja (max 50,0°C)" -> STORE_DIRECT(D#500) => MI401 "PK. graafiku korrektsioon kellaga (25,0-50,0°C)")

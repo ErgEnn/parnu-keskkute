@@ -1,0 +1,2 @@
+// Noolde vilkumise sagedus
+CONTACT SB13 "ON at Rising Edge of SB3 (1sec pulse)" -> INCREMENT_ELEMENT => MI3 "Noolte vilkumise takt" -> GREATER_EQUAL(MI3 "Noolte vilkumise takt", D#3) -> TOGGLE_COIL MB58 "Noolte vilkumise takt" -> STORE_ZERO_NUMERIC MI3 "Noolte vilkumise takt"

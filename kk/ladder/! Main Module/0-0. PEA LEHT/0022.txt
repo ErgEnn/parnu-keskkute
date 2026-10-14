@@ -1,0 +1,2 @@
+// Hetke tarbimine
+RISE_CONTACT I94 "Voolumõõtja" -> STORE_DIRECT(SDW43 "10mS Timer Counter, Stable, updates at beginning of program scan only") => DW20 "Voolumõõtja viimase impulsi ajahetk" -> STORE_DIRECT(MI23 "Vatid viimasest impulsist") => MI24 "Eelmised vatid"

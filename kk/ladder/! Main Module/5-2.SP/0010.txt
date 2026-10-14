@@ -1,0 +1,2 @@
+// Lisakütte taimeri töö näitamine (liivakell töötab)
+INVERTED_CONTACT I83 "SP.Sulatus" -> CONTACT O106 "Sulatuse lisaküte" -> RISE_CONTACT SB3 "1 second pulse ( a squarewave of 1 second duration, with a 50% duty cycle)" -> (INCREMENT_ELEMENT => MI55 "2.Liivakell F5-2" | GREATER_EQUAL(MI55 "2.Liivakell F5-2", D#14) -> STORE_ZERO_NUMERIC MI55 "2.Liivakell F5-2")

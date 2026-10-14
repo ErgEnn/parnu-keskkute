@@ -1,0 +1,36 @@
+ID=3072 Content="N" FontCRC=282392660
+ID=3073 Content="Y" FontCRC=282392660
+ID=3074 Content="Low" FontCRC=282392660
+ID=3075 Content="Med" FontCRC=282392660
+ID=3076 Content="High" FontCRC=282392660
+ID=3077 Content="Critical" FontCRC=282392660
+ID=3078 Content="<<" FontCRC=282392660
+ID=3079 Content=">>" FontCRC=282392660
+ID=3080 Content="ESC" FontCRC=89352336
+ID=3081 Content="Ack" FontCRC=282392660
+ID=3082 Content="Reset" FontCRC=282392660
+ID=3083 Content="Refresh" FontCRC=282392660
+ID=3084 Content="Date" FontCRC=89352336
+ID=3085 Content="Count" FontCRC=89352336
+ID=3086 Content="Active" FontCRC=89352336
+ID=3087 Content="ID" FontCRC=89352336
+ID=3088 Content="Group" FontCRC=89352336
+ID=3089 Content="Priority" FontCRC=89352336
+ID=3090 Content="Groups with Pending Alarms" FontCRC=89352336
+ID=3091 Content="Group Name" FontCRC=89352336
+ID=3092 Content="Count" FontCRC=89352336
+ID=3093 Content="Details" FontCRC=89352336
+ID=3094 Content="Rst" FontCRC=89352336
+ID=3095 Content="Alarm Details" FontCRC=89352336
+ID=3096 Content="Alarms in Group" FontCRC=89352336
+ID=3097 Content="Ack" FontCRC=89352336
+ID=3098 Content="Alarm Name" FontCRC=89352336
+ID=3099 Content="Group ID" FontCRC=89352336
+ID=3100 Content="Time On" FontCRC=89352336
+ID=3102 Content="General Collection" FontCRC=282392660
+ID=3103 Content="Alarm History" FontCRC=246995310
+ID=3104 Content="Trigger Rise Time" FontCRC=282392660
+ID=3105 Content="Trigger Fall Time" FontCRC=282392660
+ID=3106 Content="Ack. Time" FontCRC=282392660
+ID=3107 Content="Reset Time" FontCRC=282392660
+ID=3108 Content="Duration" FontCRC=89352336

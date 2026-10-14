@@ -1,0 +1,2 @@
+// MIN/MAX Kw/h salvestamine
+((RISE_CONTACT MB1174 "Voolumõõtja Kw/h min.nupp" | LESS_THAN(MI21 "Hetke näit Kw/h", MI1174 "Voolumõõtja Kw/h min.")) -> STORE_DIRECT(MI21 "Hetke näit Kw/h") => MI1174 "Voolumõõtja Kw/h min." | (RISE_CONTACT MB1175 "Voolumõõtja Kw/h max nupp" | GREATER_THAN(MI21 "Hetke näit Kw/h", MI1175 "Voolumõõtja Kw/h max")) -> STORE_DIRECT(MI21 "Hetke näit Kw/h") => MI1175 "Voolumõõtja Kw/h max")

@@ -1,0 +1,2 @@
+// Mahupaak (2.Booster joonisel)
+DIV(MI206 "V.M.Paagi temp. 0-100,0°C", D#10) => MI217 "S.Pumba temp. teisendamine täis kraadideks" -> GREATER_EQUAL(MI217 "S.Pumba temp. teisendamine täis kraadideks", D#30) -> COIL MB33 "2.MP.Temp.alla 30°C"

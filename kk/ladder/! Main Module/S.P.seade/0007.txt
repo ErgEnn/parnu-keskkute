@@ -1,0 +1,1 @@
+CONTACT T42 "MP. sees/väljas viide" -> COIL O105 "SP. Ventiil (sulgeb SP.ja avaneb S.MP.suunas)"

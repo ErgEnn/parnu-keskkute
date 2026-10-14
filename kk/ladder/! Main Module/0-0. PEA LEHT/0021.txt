@@ -1,0 +1,1 @@
+EQUAL(SI36 "RTC Current Minute, 0-59", D#0) -> COIL MB3 "Täistunni impulss."

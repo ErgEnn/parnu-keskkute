@@ -1,0 +1,2 @@
+// PK.Tsirkulatsioonipump
+(CONTACT MB405 "PK lüliti peale kõiki blokeeringuid" -> (INVERTED_CONTACT I81 "3T Ventii suure MP. asendis" | CONTACT MB1123 "SP.Lüliti") | CONTACT T35 "PK.Tsirk.pumba aegrelee (pumba intervall 1kuu)") -> COIL O101 "PK.Tsirk.pump" -> COIL MB15 "PK.pumba lülitamine joonisel"

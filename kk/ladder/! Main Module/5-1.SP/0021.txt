@@ -1,0 +1,1 @@
+CONTACT MB38 "SP.pumba lülitamine joonisel" -> INVERTED_CONTACT MB53 "hüüumärgi lüliti" -> RISE_CONTACT T58 "Veemõõtja sümboli keerutaja" -> (INCREMENT_ELEMENT => MI610 "Veemõõtja (joonisel F5-1)" | GREATER_EQUAL(MI610 "Veemõõtja (joonisel F5-1)", D#3) -> STORE_ZERO_NUMERIC MI610 "Veemõõtja (joonisel F5-1)")

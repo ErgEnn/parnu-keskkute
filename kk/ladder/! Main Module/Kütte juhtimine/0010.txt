@@ -1,0 +1,2 @@
+// TV.kütmise alustamise abi temp.teisendamine (4-20 mA) ja saatmine SP.le
+(LINEAR(D#10, D#819, D#60, D#4095, MI512 "TV. kütte alustamise abi temp.") => MI515 "TV.kütmise abiks valitud temp.teisendatud (4-20mA)" | CONTACT MB519 "TV.kütmise alustamise abi temp.SP.-le" -> STORE_DIRECT(MI512 "TV. kütte alustamise abi temp.") => MI59 "SP.-le saadetava temperatuuri näit.(aken F1-1)" -> STORE_DIRECT(MI515 "TV.kütmise abiks valitud temp.teisendatud (4-20mA)") => MI60 "Soojuspumbale")

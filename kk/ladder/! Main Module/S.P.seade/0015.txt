@@ -1,0 +1,1 @@
+CONTACT MB617 "SP.kompressori hädaseis (SET/RES.)" -> COIL O99 "SP. sees/väljas (vee tsirk. viga)"

@@ -1,0 +1,2 @@
+// SP.analoog sisendi temp.(4-20mA-10-60°C)
+LINEAR(D#818, D#10, D#4095, D#60, MI60 "Soojuspumbale") => MI51 "SP.analoog sisendi temp.(4-20mA-10-60°C)"

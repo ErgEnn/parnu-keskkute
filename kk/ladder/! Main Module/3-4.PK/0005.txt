@@ -1,0 +1,2 @@
+// 1.Temp.taimer
+CONTACT MB1034 "F3-4.PK.Kella seade" -> EQUAL(SI42 "Active Keypad Entry variable, contains number of active var. Write to activate another var.", D#10) -> RISE_CONTACT SB94 "Keypad Entry Var Complete (ON for 1 scan) (Enhanced Vision)" -> COIL T76 "F3-4  1.Temp.taimer"

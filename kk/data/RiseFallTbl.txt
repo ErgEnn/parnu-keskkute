@@ -1,0 +1,225 @@
+RiseFallID=1 ElementID=4949 StripID=46 Check=true
+RiseFallID=10 ElementID=2530 StripID=35 Check=true
+RiseFallID=100 ElementID=5401 StripID=281 Check=true Index=1
+RiseFallID=101 ElementID=4793 StripID=578 Check=true
+RiseFallID=102 ElementID=4797 StripID=592 Check=true
+RiseFallID=103 ElementID=4422 StripID=723 Check=true
+RiseFallID=104 ElementID=4426 StripID=723 Check=true Index=1
+RiseFallID=105 ElementID=4205 StripID=859 Check=true
+RiseFallID=106 ElementID=4187 StripID=864 Check=true
+RiseFallID=107 ElementID=4451 StripID=889 Check=true
+RiseFallID=108 ElementID=4463 StripID=890 Check=true
+RiseFallID=109 ElementID=4475 StripID=891 Check=true
+RiseFallID=11 ElementID=8248 StripID=1407 Check=true
+RiseFallID=110 ElementID=4496 StripID=894 Check=true
+RiseFallID=111 ElementID=4537 StripID=894 Check=true Index=1
+RiseFallID=112 ElementID=4508 StripID=895 Check=true
+RiseFallID=113 ElementID=4533 StripID=895 Check=true Index=1
+RiseFallID=114 ElementID=4548 StripID=896 Check=true
+RiseFallID=115 ElementID=4584 StripID=896 Check=true Index=1
+RiseFallID=116 ElementID=4560 StripID=897 Check=true
+RiseFallID=117 ElementID=4588 StripID=897 Check=true Index=1
+RiseFallID=118 ElementID=4598 StripID=899 Check=true
+RiseFallID=119 ElementID=4627 StripID=899 Check=true Index=1
+RiseFallID=12 ElementID=6135 StripID=1261 Check=true
+RiseFallID=120 ElementID=4608 StripID=900 Check=true
+RiseFallID=121 ElementID=4631 StripID=900 Check=true Index=1
+RiseFallID=122 ElementID=4662 StripID=905 Check=true
+RiseFallID=123 ElementID=4694 StripID=905 Check=true Index=1
+RiseFallID=124 ElementID=4671 StripID=906 Check=true
+RiseFallID=125 ElementID=4690 StripID=906 Check=true Index=1
+RiseFallID=126 ElementID=4705 StripID=907 Check=true
+RiseFallID=127 ElementID=4734 StripID=907 Check=true Index=1
+RiseFallID=128 ElementID=4714 StripID=908 Check=true
+RiseFallID=129 ElementID=4738 StripID=908 Check=true Index=1
+RiseFallID=13 ElementID=6147 StripID=1265 Check=true
+RiseFallID=130 ElementID=4748 StripID=911 Check=true
+RiseFallID=131 ElementID=4777 StripID=911 Check=true Index=1
+RiseFallID=132 ElementID=4758 StripID=912 Check=true
+RiseFallID=133 ElementID=4781 StripID=912 Check=true Index=1
+RiseFallID=134 ElementID=5080 StripID=1207 Check=true
+RiseFallID=135 ElementID=5080 StripID=1207 Check=true Index=1
+RiseFallID=136 ElementID=5088 StripID=1209 Check=true
+RiseFallID=137 ElementID=5088 StripID=1209 Check=true Index=1
+RiseFallID=138 ElementID=5206 StripID=1223 Check=true
+RiseFallID=139 ElementID=5206 StripID=1223 Check=true Index=1
+RiseFallID=14 ElementID=6159 StripID=1267 Check=true
+RiseFallID=140 ElementID=5411 StripID=1237 Check=true
+RiseFallID=141 ElementID=5411 StripID=1237 Check=true Index=1
+RiseFallID=142 ElementID=7789 StripID=227 Check=true
+RiseFallID=143 ElementID=12544 StripID=1893 Check=true Index=1
+RiseFallID=144 ElementID=8410 StripID=1401 Check=true
+RiseFallID=145 ElementID=7817 StripID=1333 Check=true
+RiseFallID=146 ElementID=7825 StripID=1336 Check=true
+RiseFallID=147 ElementID=16309 StripID=1983 Check=true Index=1
+RiseFallID=148 ElementID=8483 StripID=1396 Check=true
+RiseFallID=149 ElementID=8061 StripID=1368 Check=true
+RiseFallID=15 ElementID=10758 StripID=23 Check=true
+RiseFallID=150 ElementID=8056 StripID=1367 Check=true
+RiseFallID=151 ElementID=8076 StripID=1373 Check=true
+RiseFallID=152 ElementID=8105 StripID=1378 Check=true
+RiseFallID=153 ElementID=8125 StripID=1382 Check=true
+RiseFallID=154 ElementID=8068 StripID=1371 Check=true
+RiseFallID=155 ElementID=8121 StripID=1381 Check=true
+RiseFallID=156 ElementID=8128 StripID=1383 Check=true
+RiseFallID=157 ElementID=8153 StripID=1385 Check=true
+RiseFallID=158 ElementID=16350 StripID=1986 Check=true
+RiseFallID=159 ElementID=16355 StripID=1986 Check=true Index=1
+RiseFallID=16 ElementID=10759 StripID=23 Check=true Index=2
+RiseFallID=160 ElementID=8675 StripID=1416 Check=true
+RiseFallID=161 ElementID=8685 StripID=1417 Check=true
+RiseFallID=162 ElementID=8839 StripID=1422 Check=true
+RiseFallID=163 ElementID=8842 StripID=1422 Check=true Index=1
+RiseFallID=164 ElementID=16288 StripID=1998 Check=true
+RiseFallID=165 ElementID=7447 StripID=1310 Check=true Index=1
+RiseFallID=166 ElementID=7382 StripID=1310 Check=true Index=2
+RiseFallID=167 ElementID=9014 StripID=1433 Check=true
+RiseFallID=168 ElementID=14707 StripID=1894 Check=true
+RiseFallID=169 ElementID=8952 StripID=1431 Check=true
+RiseFallID=17 ElementID=6171 StripID=1269 Check=true
+RiseFallID=170 ElementID=8958 StripID=1431 Check=true Index=1
+RiseFallID=171 ElementID=10048 StripID=1434 Check=true
+RiseFallID=172 ElementID=10049 StripID=1434 Check=true Index=1
+RiseFallID=173 ElementID=10052 StripID=1449 Check=true
+RiseFallID=174 ElementID=10053 StripID=1449 Check=true Index=1
+RiseFallID=175 ElementID=10038 StripID=1453 Check=true
+RiseFallID=176 ElementID=10043 StripID=1453 Check=true Index=1
+RiseFallID=177 ElementID=10101 StripID=1491 Check=true
+RiseFallID=178 ElementID=10108 StripID=1491 Check=true Index=1
+RiseFallID=179 ElementID=10113 StripID=1505 Check=true
+RiseFallID=18 ElementID=6183 StripID=1271 Check=true
+RiseFallID=180 ElementID=10114 StripID=1505 Check=true Index=1
+RiseFallID=181 ElementID=10117 StripID=1506 Check=true
+RiseFallID=182 ElementID=10118 StripID=1506 Check=true Index=1
+RiseFallID=183 ElementID=10190 StripID=1530 Check=true
+RiseFallID=184 ElementID=10177 StripID=1544 Check=true
+RiseFallID=185 ElementID=10178 StripID=1544 Check=true Index=1
+RiseFallID=186 ElementID=10163 StripID=1548 Check=true
+RiseFallID=187 ElementID=10168 StripID=1548 Check=true Index=1
+RiseFallID=188 ElementID=10199 StripID=1552 Check=true
+RiseFallID=189 ElementID=10181 StripID=1553 Check=true
+RiseFallID=19 ElementID=259 StripID=364 Check=true
+RiseFallID=190 ElementID=10182 StripID=1553 Check=true Index=1
+RiseFallID=191 ElementID=10280 StripID=1574 Check=true
+RiseFallID=192 ElementID=10272 StripID=1588 Check=true
+RiseFallID=193 ElementID=10273 StripID=1588 Check=true Index=1
+RiseFallID=194 ElementID=10276 StripID=1589 Check=true
+RiseFallID=195 ElementID=10277 StripID=1589 Check=true Index=1
+RiseFallID=196 ElementID=10258 StripID=1592 Check=true
+RiseFallID=197 ElementID=10263 StripID=1592 Check=true Index=1
+RiseFallID=198 ElementID=10294 StripID=1596 Check=true
+RiseFallID=199 ElementID=16289 StripID=1998 Check=true Index=1
+RiseFallID=2 ElementID=4949 StripID=46 Check=true Index=1
+RiseFallID=20 ElementID=19464 StripID=1959 Check=true
+RiseFallID=200 ElementID=12432 StripID=537 Check=true
+RiseFallID=201 ElementID=15112 StripID=537 Check=true Index=1
+RiseFallID=202 ElementID=15006 StripID=1894 Check=true Index=1
+RiseFallID=203 ElementID=15114 StripID=1894 Check=true Index=2
+RiseFallID=204 ElementID=10988 StripID=1922 Check=true
+RiseFallID=205 ElementID=14860 StripID=1931 Check=true
+RiseFallID=206 ElementID=15095 StripID=1931 Check=true Index=1
+RiseFallID=207 ElementID=14909 StripID=1940 Check=true
+RiseFallID=208 ElementID=15003 StripID=1948 Check=true
+RiseFallID=209 ElementID=15021 StripID=1954 Check=true
+RiseFallID=21 ElementID=5401 StripID=281 Check=true
+RiseFallID=210 ElementID=15029 StripID=1955 Check=true
+RiseFallID=211 ElementID=15039 StripID=1956 Check=true
+RiseFallID=212 ElementID=15047 StripID=1957 Check=true
+RiseFallID=213 ElementID=16324 StripID=2000 Check=true
+RiseFallID=214 ElementID=16325 StripID=2000 Check=true Index=1
+RiseFallID=215 ElementID=16370 StripID=2003 Check=true
+RiseFallID=216 ElementID=16375 StripID=2003 Check=true Index=1
+RiseFallID=217 ElementID=16410 StripID=2023 Check=true
+RiseFallID=218 ElementID=17994 StripID=1898 Check=true
+RiseFallID=22 ElementID=6195 StripID=1273 Check=true
+RiseFallID=221 ElementID=18096 StripID=1899 Check=true
+RiseFallID=222 ElementID=17980 StripID=1950 Check=true
+RiseFallID=223 ElementID=18041 StripID=2120 Check=true
+RiseFallID=224 ElementID=5315 StripID=2124 Check=true
+RiseFallID=225 ElementID=5315 StripID=2124 Check=true Index=1
+RiseFallID=226 ElementID=18113 StripID=2132 Check=true
+RiseFallID=227 ElementID=18123 StripID=2135 Check=true
+RiseFallID=23 ElementID=6207 StripID=1275 Check=true
+RiseFallID=24 ElementID=6219 StripID=1277 Check=true
+RiseFallID=25 ElementID=6231 StripID=1279 Check=true
+RiseFallID=26 ElementID=6279 StripID=792 Check=true
+RiseFallID=27 ElementID=6141 StripID=1261 Check=true Index=1
+RiseFallID=28 ElementID=6153 StripID=1265 Check=true Index=1
+RiseFallID=29 ElementID=6165 StripID=1267 Check=true Index=1
+RiseFallID=3 ElementID=4437 StripID=59 Check=true
+RiseFallID=30 ElementID=6177 StripID=1269 Check=true Index=1
+RiseFallID=31 ElementID=6189 StripID=1271 Check=true Index=1
+RiseFallID=32 ElementID=6201 StripID=1273 Check=true Index=1
+RiseFallID=33 ElementID=6213 StripID=1275 Check=true Index=1
+RiseFallID=34 ElementID=6225 StripID=1277 Check=true Index=1
+RiseFallID=35 ElementID=6237 StripID=1279 Check=true Index=1
+RiseFallID=36 ElementID=8209 StripID=1397 Check=true
+RiseFallID=37 ElementID=2903 StripID=718 Check=true
+RiseFallID=38 ElementID=7225 StripID=318 Check=true
+RiseFallID=39 ElementID=7226 StripID=318 Check=true Index=1
+RiseFallID=4 ElementID=19455 StripID=1958 Check=true
+RiseFallID=40 ElementID=7227 StripID=318 Check=true Index=2
+RiseFallID=41 ElementID=7368 StripID=1308 Check=true
+RiseFallID=42 ElementID=7375 StripID=1308 Check=true Index=1
+RiseFallID=43 ElementID=10738 StripID=23 Check=true Index=4
+RiseFallID=44 ElementID=10740 StripID=23 Check=true Index=5
+RiseFallID=45 ElementID=10774 StripID=1401 Check=true Index=1
+RiseFallID=46 ElementID=10673 StripID=1773 Check=true
+RiseFallID=47 ElementID=10674 StripID=1773 Check=true Index=1
+RiseFallID=48 ElementID=19512 StripID=2158 Check=true
+RiseFallID=49 ElementID=10985 StripID=515 Check=true
+RiseFallID=5 ElementID=8235 StripID=1395 Check=true
+RiseFallID=50 ElementID=12658 StripID=516 Check=true
+RiseFallID=51 ElementID=10996 StripID=1809 Check=true
+RiseFallID=52 ElementID=17985 StripID=1895 Check=true
+RiseFallID=53 ElementID=16272 StripID=1981 Check=true
+RiseFallID=54 ElementID=7446 StripID=1310 Check=true
+RiseFallID=55 ElementID=8199 StripID=1391 Check=true
+RiseFallID=56 ElementID=16273 StripID=1981 Check=true Index=1
+RiseFallID=57 ElementID=16308 StripID=1983 Check=true
+RiseFallID=58 ElementID=19513 StripID=2158 Check=true Index=1
+RiseFallID=59 ElementID=12579 StripID=1818 Check=true
+RiseFallID=6 ElementID=914 StripID=23 Check=true Index=1
+RiseFallID=60 ElementID=7581 StripID=494 Check=true
+RiseFallID=61 ElementID=7582 StripID=494 Check=true Index=1
+RiseFallID=62 ElementID=7589 StripID=495 Check=true
+RiseFallID=63 ElementID=7590 StripID=495 Check=true Index=1
+RiseFallID=64 ElementID=1441 StripID=575 Check=true
+RiseFallID=65 ElementID=1444 StripID=576 Check=true
+RiseFallID=66 ElementID=1524 StripID=619 Check=true
+RiseFallID=67 ElementID=1526 StripID=624 Check=true
+RiseFallID=68 ElementID=1529 StripID=625 Check=true
+RiseFallID=69 ElementID=12600 StripID=1819 Check=true
+RiseFallID=7 ElementID=915 StripID=23 Check=true Index=3
+RiseFallID=70 ElementID=12398 StripID=1883 Check=true
+RiseFallID=71 ElementID=12401 StripID=1883 Check=true Index=1
+RiseFallID=72 ElementID=12452 StripID=1888 Check=true
+RiseFallID=73 ElementID=12527 StripID=1892 Check=true
+RiseFallID=74 ElementID=12515 StripID=1893 Check=true
+RiseFallID=75 ElementID=2254 StripID=668 Check=true
+RiseFallID=76 ElementID=2259 StripID=668 Check=true Index=1
+RiseFallID=77 ElementID=2278 StripID=670 Check=true
+RiseFallID=78 ElementID=2283 StripID=670 Check=true Index=1
+RiseFallID=79 ElementID=2623 StripID=700 Check=true
+RiseFallID=8 ElementID=1439 StripID=32 Check=true
+RiseFallID=80 ElementID=2613 StripID=701 Check=true
+RiseFallID=81 ElementID=2653 StripID=705 Check=true
+RiseFallID=82 ElementID=2643 StripID=706 Check=true
+RiseFallID=83 ElementID=2892 StripID=716 Check=true
+RiseFallID=84 ElementID=2893 StripID=716 Check=true Index=1
+RiseFallID=85 ElementID=2894 StripID=717 Check=true
+RiseFallID=86 ElementID=2895 StripID=717 Check=true Index=1
+RiseFallID=87 ElementID=2896 StripID=717 Check=true Index=2
+RiseFallID=88 ElementID=2723 StripID=733 Check=true
+RiseFallID=89 ElementID=2713 StripID=734 Check=true
+RiseFallID=9 ElementID=2561 StripID=34 Check=true
+RiseFallID=90 ElementID=2951 StripID=751 Check=true
+RiseFallID=91 ElementID=3540 StripID=759 Check=true
+RiseFallID=92 ElementID=7565 StripID=499 Check=true
+RiseFallID=93 ElementID=7566 StripID=499 Check=true Index=1
+RiseFallID=94 ElementID=7573 StripID=501 Check=true
+RiseFallID=95 ElementID=7574 StripID=501 Check=true Index=1
+RiseFallID=96 ElementID=7771 StripID=210 Check=true
+RiseFallID=97 ElementID=4053 StripID=366 Check=true
+RiseFallID=98 ElementID=4047 StripID=791 Check=true
+RiseFallID=99 ElementID=4057 StripID=808 Check=true

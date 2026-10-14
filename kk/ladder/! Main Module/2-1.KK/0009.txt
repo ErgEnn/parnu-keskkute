@@ -1,0 +1,2 @@
+// Kliimaseadme tekst joonisel
+CONTACT MB1120 "KK lüliti" -> CONTACT T3 "KK.kütte plokeeringu viide (kliima)" -> CONTACT SB3 "1 second pulse ( a squarewave of 1 second duration, with a 50% duty cycle)" -> COIL MB306 "Kliima tekst KK.joonistel"

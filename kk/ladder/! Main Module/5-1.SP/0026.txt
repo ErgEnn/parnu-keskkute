@@ -1,0 +1,2 @@
+// Soojuspumba pilt joonisel
+CONTACT MB38 "SP.pumba lülitamine joonisel" -> INVERTED_CONTACT O99 "SP. sees/väljas (vee tsirk. viga)" -> RISE_CONTACT SB7 "100 mS pulse" -> INCREMENT_ELEMENT => MI623 "F5-1Soojuspump (joonisel)" -> GREATER_EQUAL(MI623 "F5-1Soojuspump (joonisel)", D#4) -> STORE_ZERO_NUMERIC MI623 "F5-1Soojuspump (joonisel)"

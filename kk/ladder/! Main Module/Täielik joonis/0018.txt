@@ -1,0 +1,1 @@
+CONTACT T58 "Veemõõtja sümboli keerutaja" -> COIL T59 "Veemõõtja sümboli keerutaja (RES)"

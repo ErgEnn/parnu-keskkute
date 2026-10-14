@@ -1,0 +1,1 @@
+FALL_CONTACT T43 "Õhusiibri käsitsi avamine" -> CONTACT MB59 "Katla õhusiibri reset impulss" -> RESET_COIL O107 "Katla õhusiiber"

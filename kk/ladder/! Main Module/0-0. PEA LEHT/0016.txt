@@ -1,0 +1,2 @@
+// MIN/MAX Temperatuuride salvestamine
+((RISE_CONTACT MB1166 "Trassi vee temp min nupp" | LESS_THAN(MI204 "Trassivee temp. peale korrektsiooni", MI1166 "Trassi vee temp min")) -> STORE_DIRECT(MI204 "Trassivee temp. peale korrektsiooni") => MI1166 "Trassi vee temp min" | (RISE_CONTACT MB1167 "Trassi vee temp max nupp" | GREATER_THAN(MI204 "Trassivee temp. peale korrektsiooni", MI1167 "Trassi vee temp max")) -> STORE_DIRECT(MI204 "Trassivee temp. peale korrektsiooni") => MI1167 "Trassi vee temp max")

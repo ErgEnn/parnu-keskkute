@@ -1,0 +1,2 @@
+// PK.võrdlemine KK.temperatuuriga ,elektrilise PK.lülitamiseks.
+ADD(MI312 "KK.korrigeeritud temp.lüliti", MI490 "EL.põrandaküte SEES") => MI491 "KK.+lisatud kraadid elektri PKsisse lülitamiseks" -> ADD(MI312 "KK.korrigeeritud temp.lüliti", MI492 "EL.põrandaküte VÄLJAS") => MI493 "KK.+lisatud kraadid elektri PKvälja lülitamiseks"

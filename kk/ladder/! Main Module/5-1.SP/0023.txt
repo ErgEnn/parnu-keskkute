@@ -1,0 +1,2 @@
+// Lisaküte (1.Booster joonisel)
+(INVERTED_CONTACT MB50 "SP. nooled" -> STORE_DIRECT(D#0) => MI625 "F5-1lisakütte tenn joonisel" | CONTACT MB50 "SP. nooled" -> STORE_DIRECT(D#1) => MI625 "F5-1lisakütte tenn joonisel" | CONTACT MB50 "SP. nooled" -> CONTACT I85 "1.Lisaküte (booster) sees" -> STORE_DIRECT(D#2) => MI625 "F5-1lisakütte tenn joonisel")

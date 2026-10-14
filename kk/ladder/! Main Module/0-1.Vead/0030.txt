@@ -1,0 +1,2 @@
+// SP.
+CONTACT MB638 "SP.veemõõtja error" -> LESS_THAN(MI675 "SP.veemõõtja errori kodeerija", D#5) -> COIL MB639 "SP.veemõõtja errori kood" -> CONTACT SB3 "1 second pulse ( a squarewave of 1 second duration, with a 50% duty cycle)" -> COIL MB641 "SP Lisaekraani valgustus"

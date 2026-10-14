@@ -1,0 +1,2 @@
+// Errori aknast tagasi vigasesse aknasse F5-1
+EQUAL(SI252 "Current HMI Display Number (Standard Vision only)", D#100) -> RISE_CONTACT MB1142 "Nupp errori aknast tagasi vigasesse aknasse" -> EQUAL(MI12 "Täpsustav error", D#22) -> COIL MB71 "F5-1 errori aknast vigasesse aknasse" -> RESET_COIL MB638 "SP.veemõõtja error"

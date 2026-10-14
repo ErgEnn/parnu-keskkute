@@ -1,0 +1,2 @@
+// Põrandakütte kella märgi lüliti
+(CONTACT MB80 "F3-4 1temp. 1.kell sees,väljas" | CONTACT MB81 "F3-4 1temp. 2.kell sees,väljas" | CONTACT MB82 "F3-5 2 .temp. 1.kell sees,väljas" | CONTACT MB83 "F3-5  2.temp. 2.kell sees,väljas" | CONTACT MB181 "F3-4 1.temp.taimer" | CONTACT MB183 "F3-5  2.temp.taimer") -> (CONTACT SB3 "1 second pulse ( a squarewave of 1 second duration, with a 50% duty cycle)" | INVERTED_CONTACT MB401 "PK. graafiku korrektsiooni piiraja (max 50,0°C)") -> COIL MB95 "F3-4-F3-5 kell sees/väljas"

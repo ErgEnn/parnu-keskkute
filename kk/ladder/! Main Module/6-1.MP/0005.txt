@@ -1,0 +1,2 @@
+// MP Joonisel
+INVERTED_CONTACT MB122 "F6-2 MP.sees/väljas (KK.,PK.)" -> (INVERTED_CONTACT MB54 "Katla pumba lülitamine joonisel" -> (INVERTED_CONTACT I89 "MP.Elektriküte sees" -> STORE_DIRECT(D#0) => MI171 "Mahupaak joonisel" | CONTACT I89 "MP.Elektriküte sees" -> STORE_DIRECT(D#1) => MI171 "Mahupaak joonisel") | CONTACT MB54 "Katla pumba lülitamine joonisel" -> STORE_DIRECT(D#4) => MI171 "Mahupaak joonisel")

@@ -1,0 +1,2 @@
+// Liivakell seisab
+INVERTED_CONTACT O106 "Sulatuse lisaküte" -> STORE_DIRECT(D#14) => MI55 "2.Liivakell F5-2"

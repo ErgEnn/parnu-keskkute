@@ -1,0 +1,2 @@
+// MIN/MAX Temperatuuride salvestamine
+((RISE_CONTACT MB1160 "Tarbevee küte min nupp" | LESS_THAN(MI201 "T.V.Küte  temp. 0-100,0°C", MI1160 "Tarbevee küte min")) -> STORE_DIRECT(MI201 "T.V.Küte  temp. 0-100,0°C") => MI1160 "Tarbevee küte min" | (RISE_CONTACT MB1161 "Tarbevee küte max nupp" | GREATER_THAN(MI201 "T.V.Küte  temp. 0-100,0°C", MI1161 "Tarbevee küte max")) -> STORE_DIRECT(MI201 "T.V.Küte  temp. 0-100,0°C") => MI1161 "Tarbevee küte max")

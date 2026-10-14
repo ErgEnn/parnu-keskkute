@@ -1,0 +1,2 @@
+// Toa seade korrektsioon kellaga
+ADD(MI362 "Toa Seade 15,0-30,0°C", MI302 "1.Temp.muutmine +/-3,0°C") => MI303 "1.Temp.valik" -> ADD(MI362 "Toa Seade 15,0-30,0°C", MI304 "2.Temp.muutmine +/-3°C") => MI305 "2.Temp.valik"

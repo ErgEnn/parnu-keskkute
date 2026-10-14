@@ -1,0 +1,2 @@
+// 1.MP.ringid
+INVERTED_CONTACT I82 "SP.3Tventiil KK/PK suunas avatud" -> CONTACT MB22 "TV.pumba lülitamine joonisel" -> COIL MB46 "2.Nooled ja klapp"

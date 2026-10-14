@@ -1,0 +1,1 @@
+(LESS_EQUAL(MI300 "K.K.S.+/-", D#-150) -> COIL MB1229 "F2-3 (käsi valik temp.seade miinuse nupu peit" | STORE_DIRECT(MI300 "K.K.S.+/-") => ML2 "F2-3 3.Temp.seade")

@@ -1,0 +1,4 @@
+MethodID=120401 MethodName="Configuration Parameters" MethodTitle="CONFIG" VisibleInCount=2 VisibleOutCount=2 HexFileVersion=120
+MethodID=120402 MethodName="Run Auto-tune" MethodTitle="AUTO-TUNE" VisibleInCount=1 VisibleOutCount=1 HexFileVersion=120
+MethodID=120403 MethodName="Run PID" MethodTitle="RUN" HexFileVersion=120
+MethodID=120409 MethodName="Read Control Components" MethodTitle="READ.CC" VisibleInCount=1 VisibleOutCount=3 HexFileVersion=120

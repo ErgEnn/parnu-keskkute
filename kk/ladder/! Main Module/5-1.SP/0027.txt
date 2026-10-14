@@ -1,0 +1,2 @@
+// SP.Töörezimi näitamine
+(INVERTED_CONTACT MB1123 "SP.Lüliti" -> STORE_DIRECT(D#0) => MI58 "Tööreziimi näit (F5-1)" | CONTACT MB1123 "SP.Lüliti" -> INVERTED_CONTACT T25 "Leg.reziimi järgus pausi alustamise viide.(2min.)" -> STORE_DIRECT(D#1) => MI58 "Tööreziimi näit (F5-1)" | CONTACT MB1123 "SP.Lüliti" -> CONTACT T25 "Leg.reziimi järgus pausi alustamise viide.(2min.)" -> STORE_DIRECT(D#2) => MI58 "Tööreziimi näit (F5-1)")

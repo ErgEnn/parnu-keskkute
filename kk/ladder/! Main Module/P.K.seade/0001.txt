@@ -1,0 +1,2 @@
+// PK.Temp.graafiku korrektsioon +/-15,0°C
+ADD(MI191 "PK.Seade (temp.graafik 45,0-35,0°C)", MI406 "PK. korrektsioon temp.+,-") => MI400 "PK.graafiku korrektsioon+/-10,0°C"

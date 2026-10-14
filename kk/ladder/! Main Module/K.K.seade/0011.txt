@@ -1,0 +1,1 @@
+INVERTED_CONTACT MB90 "F2-4 kell sees/väljas" -> INVERTED_CONTACT MB91 "F2-5,F2-6,F2-7 kell sees/väljas" -> STORE_DIRECT(MI362 "Toa Seade 15,0-30,0°C") => MI301 "Toa seade korrektsioon kellaga"

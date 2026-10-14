@@ -1,0 +1,1 @@
+INVERTED_CONTACT I83 "SP.Sulatus" -> CONTACT O106 "Sulatuse lisaküte" -> EQUAL(MI601, D#25) -> STORE_DIRECT(D#6) => MI52 "SP.tekstid (SULATUS)"

@@ -1,0 +1,1 @@
+CONTACT MB71 "F5-1 errori aknast vigasesse aknasse" -> JUMP_TO_HMI_PAGE PAGE "1.SP.Joonis"

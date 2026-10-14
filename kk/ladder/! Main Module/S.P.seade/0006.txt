@@ -1,0 +1,2 @@
+// SP.Ventiili juhtimine
+CONTACT MB122 "F6-2 MP.sees/väljas (KK.,PK.)" -> COIL T42 "MP. sees/väljas viide"

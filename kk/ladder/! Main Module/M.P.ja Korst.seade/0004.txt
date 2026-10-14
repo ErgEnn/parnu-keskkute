@@ -1,0 +1,1 @@
+(GREATER_EQUAL(MI218 "M.Paagi temp.teisendus täis kraadideks", D#70) -> INVERTED_CONTACT MB125 "MP manuaal blokeering" -> SET_COIL MB124 "F6-2MP.sees/väljas (TV.Legionella 60C°)" | LESS_THAN(MI218 "M.Paagi temp.teisendus täis kraadideks", D#65) -> RESET_COIL MB124 "F6-2MP.sees/väljas (TV.Legionella 60C°)")

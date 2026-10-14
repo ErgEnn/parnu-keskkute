@@ -1,0 +1,2 @@
+// MIN/MAX Temperatuuride salvestamine
+((RISE_CONTACT MB1168 "Soojuspumba temp min nupp" | LESS_THAN(MI205 "S.Pumba temp. peale korrektsiooni", MI1168 "Soojuspumba temp min")) -> STORE_DIRECT(MI205 "S.Pumba temp. peale korrektsiooni") => MI1168 "Soojuspumba temp min" | (RISE_CONTACT MB1169 "Soojuspumba temp max nupp" | GREATER_THAN(MI205 "S.Pumba temp. peale korrektsiooni", MI1169 "Soojuspumba temp max")) -> STORE_DIRECT(MI205 "S.Pumba temp. peale korrektsiooni") => MI1169 "Soojuspumba temp max")

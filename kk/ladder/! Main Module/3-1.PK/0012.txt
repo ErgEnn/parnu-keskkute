@@ -1,0 +1,2 @@
+// Kellag PK.lülitamise vilkuva teksti näitamine PK.joonisel
+CONTACT MB1360 "Lüliti PK.kellaga juhtimiseks" -> (CONTACT MB84 "F3-6 PK.kell sees,väljas" | CONTACT SB3 "1 second pulse ( a squarewave of 1 second duration, with a 50% duty cycle)") -> COIL MB407 "Kellaga lülitamise tekst PK.joonisel"

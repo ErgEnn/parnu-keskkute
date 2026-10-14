@@ -1,0 +1,2 @@
+// PK.lüliti blokeerimine kellaga või elektrilise PK.valimisel.
+CONTACT MB1121 "PK.Lüliti" -> (INVERTED_CONTACT MB1360 "Lüliti PK.kellaga juhtimiseks" | CONTACT MB84 "F3-6 PK.kell sees,väljas") -> (COIL MB404 "PK lüliti kella" | INVERTED_CONTACT MB460 "PK valik vesi või elektriküte" -> COIL MB405 "PK lüliti peale kõiki blokeeringuid" | CONTACT MB460 "PK valik vesi või elektriküte" -> COIL O109 "EL.Põrandaküte")

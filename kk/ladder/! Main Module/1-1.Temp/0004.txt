@@ -1,0 +1,2 @@
+// Tarbevee kella märgi lüliti
+(CONTACT MB85 "F4-3 1temp. 1.kell sees,väljas" | CONTACT MB86 "F4-3 1temp. 2.kell sees,väljas" | CONTACT MB87 "F4-4  2 .temp. 1.kell sees,väljas" | CONTACT MB88 "F4-4  2.temp. 2.kell sees,väljas" | CONTACT MB185 "F4-3 1.temp.taimer" | CONTACT MB187 "F4-4  2.temp.taimer") -> COIL MB98 "F4-3-F4-4 kell sees/väljas"

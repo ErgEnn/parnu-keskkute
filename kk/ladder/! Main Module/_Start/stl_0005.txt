@@ -1,0 +1,2 @@
+LABEL _PowerUp
+STL <1516 bytes sha1:13f302c59606>

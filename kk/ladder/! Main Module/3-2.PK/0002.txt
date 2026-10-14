@@ -1,0 +1,2 @@
+// Liivakell voolab
+CONTACT MB412 "AUTO TUNE töötab" -> RISE_CONTACT SB3 "1 second pulse ( a squarewave of 1 second duration, with a 50% duty cycle)" -> (INCREMENT_ELEMENT => MI460 "Liivakell F3-2" | GREATER_EQUAL(MI460 "Liivakell F3-2", D#14) -> STORE_ZERO_NUMERIC MI460 "Liivakell F3-2")

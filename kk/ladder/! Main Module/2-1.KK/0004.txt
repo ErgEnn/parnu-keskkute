@@ -1,0 +1,1 @@
+(CONTACT MB315 "KK.3T kraan avatud" | CONTACT MB317 "KK.3T kraan osaliselt avatud") -> CONTACT MB8 "KK.pumba lülitamine joonisel" -> COIL MB28 "Kollektori nooled"

@@ -1,0 +1,2 @@
+// Sulatuse lisaküte (taimeri SET.)
+(DIV(MI196 "Õue temp. peale korrektsiooni", D#10) => MI600 "Õue temp.(täis kraadides)" | IN_RANGE(MI600 "Õue temp.(täis kraadides)", D#-5, D#0) -> RISE_CONTACT I83 "SP.Sulatus" -> STORE_DIRECT(D#5) => MI601 -> SET_COIL O106 "Sulatuse lisaküte" | IN_RANGE(MI600 "Õue temp.(täis kraadides)", D#-10, D#-6) -> RISE_CONTACT I83 "SP.Sulatus" -> STORE_DIRECT(D#10) => MI601 -> SET_COIL O106 "Sulatuse lisaküte")

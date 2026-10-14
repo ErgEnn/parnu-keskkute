@@ -1,0 +1,1 @@
+(ADD(MI2283 "F2-7 tunnid sisse 5.", D#1) => MI2284 "F2-7 tunnid nullimine 5." | ADD(MI2286 "F2-7 tunnid välja 5.", D#1) => MI2287 "F2-7 tunnid nullimine 5.")

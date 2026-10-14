@@ -1,0 +1,1 @@
+CONTACT T21 " TV.kütte alustamise temp.lülitamise viide" -> CONTACT T20 "KK.võiPK. temp.lülitamise viide" -> INVERTED_CONTACT MB525 "TV.kütmise abi temp.valik (kõrgem)" -> COIL MB518 "TV.kütmise alustamise abi temp." -> COIL T90 "TV.kütte temp.lülitamise viide"

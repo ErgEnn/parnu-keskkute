@@ -1,0 +1,1 @@
+CONTACT MB122 "F6-2 MP.sees/väljas (KK.,PK.)" -> (INVERTED_CONTACT I89 "MP.Elektriküte sees" -> STORE_DIRECT(D#5) => MI171 "Mahupaak joonisel" | CONTACT I89 "MP.Elektriküte sees" -> STORE_DIRECT(D#6) => MI171 "Mahupaak joonisel")

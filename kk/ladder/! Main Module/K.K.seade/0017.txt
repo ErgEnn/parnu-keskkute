@@ -1,0 +1,2 @@
+// KK.temp.graafiku korrigeeritud väljund (graafiku temp.+korrektsjoon+10,0C°/-15,0C°)
+ADD(MI300 "K.K.S.+/-", MI190 "K.K.Seade (temp.graafik 55,0-28,0°C)") => MI310 "KK.korrigeeritud temp.(10,0-65,0°C)"

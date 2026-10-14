@@ -1,0 +1,2 @@
+// Legionella tõrje
+RISE_CONTACT MB521 "Legionella tõrje käivitus käsk SP-le." -> SET_COIL MB522 "Legionella tõrje imp.sees/väljas" -> SET_COIL MB523 "Legionella režiimis olek SET/RES"

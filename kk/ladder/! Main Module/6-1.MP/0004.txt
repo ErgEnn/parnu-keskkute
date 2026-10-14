@@ -1,0 +1,2 @@
+// Kolmik joonisel
+(INVERTED_CONTACT MB45 "1.Nool ja klapp" -> INVERTED_CONTACT MB46 "2.Nooled ja klapp" -> STORE_DIRECT(D#0) => MI172 "Kolmik MP. joonisel" | CONTACT MB45 "1.Nool ja klapp" -> STORE_DIRECT(D#1) => MI172 "Kolmik MP. joonisel" | INVERTED_CONTACT MB45 "1.Nool ja klapp" -> CONTACT MB46 "2.Nooled ja klapp" -> STORE_DIRECT(D#2) => MI172 "Kolmik MP. joonisel" | CONTACT MB45 "1.Nool ja klapp" -> CONTACT MB46 "2.Nooled ja klapp" -> STORE_DIRECT(D#3) => MI172 "Kolmik MP. joonisel")

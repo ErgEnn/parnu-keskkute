@@ -1,0 +1,2 @@
+// Toa seade korrektsioon
+(RISE_CONTACT I92 "Toa seade aktiveerimine ja veateadete nullimine" | CONTACT MB327 "TE15 aja pikendaja" -> (RISE_CONTACT I90 "Toa temp.korrektori+" | RISE_CONTACT I91 "Toa temp.korrektori-")) -> (COIL T15 "Toa temp. korrektor töötab" | COIL T16 "Näitab toa seade muutmist kellaga")

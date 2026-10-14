@@ -1,0 +1,1 @@
+((RISE_CONTACT T26 "Leg.reziimi järgus pausi aeg.(20min.)" | INVERTED_CONTACT MB1453 "Legionellatõrrje reziimi järgse pausi lüliti") -> RESET_COIL MB524 "Leg. reziimi järgse pausi SET/RES" | CONTACT MB524 "Leg. reziimi järgse pausi SET/RES" -> CONTACT SB3 "1 second pulse ( a squarewave of 1 second duration, with a 50% duty cycle)" -> COIL MB527 "Leg.järgse pausi tekst.")

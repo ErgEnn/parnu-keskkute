@@ -1,0 +1,2 @@
+// MIN/MAX Temperatuuride salvestamine
+((RISE_CONTACT MB1150 "Õue temp min nupp" | LESS_THAN(MI196 "Õue temp. peale korrektsiooni", MI1150 "Õue temp min")) -> STORE_DIRECT(MI196 "Õue temp. peale korrektsiooni") => MI1150 "Õue temp min" | (RISE_CONTACT MB1151 "Õue temp max nupp" | GREATER_THAN(MI196 "Õue temp. peale korrektsiooni", MI1151 "Õue temp max")) -> STORE_DIRECT(MI196 "Õue temp. peale korrektsiooni") => MI1151 "Õue temp max")

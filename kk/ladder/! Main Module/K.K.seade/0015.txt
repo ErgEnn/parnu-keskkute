@@ -1,0 +1,2 @@
+// Toa temp.korrektori takti aeg 15/30min
+(CONTACT MB304 "Temp.korrektsioon +/-1°C" -> INVERTED_CONTACT T11 "Imppulsi aeg" -> COIL T10 "Oote aeg" | INVERTED_CONTACT MB304 "Temp.korrektsioon +/-1°C" -> INVERTED_CONTACT T13 "Imppulsi aeg" -> COIL T12 "Oote aeg")

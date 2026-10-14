@@ -1,0 +1,1 @@
+INVERTED_CONTACT O107 "Katla õhusiiber" -> RISE_CONTACT MB1126 "Õhusiibri avamine lüliti" -> COIL T43 "Õhusiibri käsitsi avamine" -> SET_COIL O107 "Katla õhusiiber"

@@ -1,0 +1,1 @@
+RISE_CONTACT I92 "Toa seade aktiveerimine ja veateadete nullimine" -> RESET_COIL MB338 "KK.errorid" -> RESET_COIL MB438 "PK.errorid" -> RESET_COIL MB538 "TV.errorid" -> RESET_COIL MB638 "SP.veemõõtja error"

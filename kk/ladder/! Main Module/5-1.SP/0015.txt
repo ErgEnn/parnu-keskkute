@@ -1,0 +1,1 @@
+(INVERTED_CONTACT MB47 "1. Nool välja" -> STORE_DIRECT(D#0) => MI622 "F5-1kolmik (tagasivool)" | CONTACT MB47 "1. Nool välja" -> CONTACT MB34 "F5-1Tagasivool(2.MP.)" -> STORE_DIRECT(D#1) => MI622 "F5-1kolmik (tagasivool)" | CONTACT MB47 "1. Nool välja" -> CONTACT MB48 "2.Nool välja (mahupaaki)" -> STORE_DIRECT(D#2) => MI622 "F5-1kolmik (tagasivool)")

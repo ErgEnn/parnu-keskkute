@@ -1,0 +1,2 @@
+// KK.3Tkraani asendid joonisel
+(GREATER_EQUAL(MI5 "KK.Kraani asend (0-100%)", D#100) -> COIL MB315 "KK.3T kraan avatud" | LESS_EQUAL(MI5 "KK.Kraani asend (0-100%)", D#0) -> COIL MB316 "KK.3T kraan suletud" | (CONTACT MB315 "KK.3T kraan avatud" | INVERTED_CONTACT MB315 "KK.3T kraan avatud" -> INVERTED_CONTACT MB316 "KK.3T kraan suletud" -> CONTACT MB58 "Noolte vilkumise takt") -> COIL MB11 "KK.3TKraan joonisel")

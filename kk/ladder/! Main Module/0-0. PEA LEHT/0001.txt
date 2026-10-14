@@ -1,0 +1,2 @@
+// Termoanturite via korrektsioon
+(ADD(MI32 "Õue temp.", D#1) => MI196 "Õue temp. peale korrektsiooni" -> SUB(MI33 "Toa temp.", D#120) => MI197 "Toa temp. peale korrektsiooni" | SUB(MI34 "K.Kütte temp.", D#2) => MI198 "K.kütte temp. peale korrektsiooni" -> SUB(MI35 "P.Kütte temp.", D#3) => MI199 "P.Kütte temp. peale korrektsiooni")

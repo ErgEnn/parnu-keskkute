@@ -1,0 +1,2 @@
+// MP 6-2 aknas oleva mahupaagi blokeerimise nupu loogika
+CONTACT MB125 "MP manuaal blokeering" -> RESET_COIL MB122 "F6-2 MP.sees/väljas (KK.,PK.)" -> RESET_COIL MB123 "F6-2MP.sees/väljas (TV.)" -> RESET_COIL MB124 "F6-2MP.sees/väljas (TV.Legionella 60C°)"

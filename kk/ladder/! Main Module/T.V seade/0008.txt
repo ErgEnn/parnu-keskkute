@@ -1,0 +1,1 @@
+(INVERTED_CONTACT MB1122 "TV.Lüliti" | CONTACT I88 "TV.Lisakütte käsirežiim" | INVERTED_CONTACT MB501 "TV.kütte diferents (tsirk.pumbale ja EL.küttele)" | CONTACT I82 "SP.3Tventiil KK/PK suunas avatud") -> STORE_ZERO_NUMERIC MI184 "TV.kütmise ajaline piiramine"

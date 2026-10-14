@@ -1,0 +1,2 @@
+// KK.PIDi vea teate suunamine errori aknasse
+LESS_THAN(MI324 "PID: PID Status", D#0) -> COIL MB324 "KK.PIDi error"

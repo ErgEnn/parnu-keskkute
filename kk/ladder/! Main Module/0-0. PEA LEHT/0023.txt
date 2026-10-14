@@ -1,0 +1,1 @@
+SUB(SDW43 "10mS Timer Counter, Stable, updates at beginning of program scan only", DW20 "Voolumõõtja viimase impulsi ajahetk") => DW21 "Viimase voolumõõtja impulsi kaugus praegusest hetkes" -> STORE_DIRECT(DW21 "Viimase voolumõõtja impulsi kaugus praegusest hetkes") => MI22 "Aeg viimasest impulsist"

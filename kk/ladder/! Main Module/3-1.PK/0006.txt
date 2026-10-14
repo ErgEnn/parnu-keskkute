@@ -1,0 +1,2 @@
+// Nooled joonisel
+(CONTACT MB317 "KK.3T kraan osaliselt avatud" -> COIL MB26 "Kollektori ringvoolu ahel ja KK ahel" | ((CONTACT MB415 "PK.3Tkraan avatud" | CONTACT MB417 "PK.3T kraan osaliselt avatud") -> CONTACT MB15 "PK.pumba lülitamine joonisel" | CONTACT MB26 "Kollektori ringvoolu ahel ja KK ahel") -> COIL MB28 "Kollektori nooled")

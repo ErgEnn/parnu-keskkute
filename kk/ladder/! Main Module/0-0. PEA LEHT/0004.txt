@@ -1,0 +1,2 @@
+// KK.jaPK.temperatuuri graafikud
+LINEAR(D#-200, D#550, D#150, D#250, MI196 "Õue temp. peale korrektsiooni") => MI190 "K.K.Seade (temp.graafik 55,0-28,0°C)" -> LINEAR(D#-200, D#450, D#150, D#350, MI196 "Õue temp. peale korrektsiooni") => MI191 "PK.Seade (temp.graafik 45,0-35,0°C)"

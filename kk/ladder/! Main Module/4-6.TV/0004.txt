@@ -1,0 +1,1 @@
+INVERTED_CONTACT I82 "SP.3Tventiil KK/PK suunas avatud" -> COIL T47 "TV.Legionella alustamise lua viide (1min)"

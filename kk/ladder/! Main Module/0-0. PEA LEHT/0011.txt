@@ -1,0 +1,2 @@
+// MIN/MAX Temperatuuride salvestamine
+((RISE_CONTACT MB1156 "Keskütte temp min nupp" | LESS_THAN(MI198 "K.kütte temp. peale korrektsiooni", MI1156 "Keskkütte temp min")) -> STORE_DIRECT(MI198 "K.kütte temp. peale korrektsiooni") => MI1156 "Keskkütte temp min" | (RISE_CONTACT MB1157 "Keskkütte temp max nupp" | GREATER_THAN(MI198 "K.kütte temp. peale korrektsiooni", MI1157 "Keskkütte temp max")) -> STORE_DIRECT(MI198 "K.kütte temp. peale korrektsiooni") => MI1157 "Keskkütte temp max")

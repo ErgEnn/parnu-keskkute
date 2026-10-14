@@ -1,0 +1,1 @@
+CONTACT MB524 "Leg. reziimi järgse pausi SET/RES" -> COIL T25 "Leg.reziimi järgus pausi alustamise viide.(2min.)"

@@ -1,0 +1,2 @@
+// PID töötab (Run PID)
+CONTACT MB311 "AUTO TUNE tehtud" -> GREATER_EQUAL(MI324 "PID: PID Status", D#0) -> PID A.TUNE.RUN [param=1] [bin <2 bytes sha1:a02431cf7c50>] -> PID A.TUNE.READ.CC(MI357 "Resolution Factor") => MI358 "Control Value - The P Output", MI359 "Control Value - The I Output", MI364 "Control Value - The D Output" [param=1] [bin <2 bytes sha1:a02431cf7c50>]

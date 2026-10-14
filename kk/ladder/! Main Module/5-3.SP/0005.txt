@@ -1,0 +1,2 @@
+// SP-le lisa kraadide valimine.
+(RISE_CONTACT MB1532 "F5-3 (SP.lisakraadide.seade pluss nupp)" -> LESS_THAN(MI676 "SP.lisakraadid", D#5) -> ADD(MI676 "SP.lisakraadid", D#1) => MI676 "SP.lisakraadid" | GREATER_EQUAL(MI676 "SP.lisakraadid", D#5) -> COIL MB1533 "F5-3 (SP.lisakraadide plussi nupu peitmine)" -> STORE_DIRECT(D#5) => MI676 "SP.lisakraadid")

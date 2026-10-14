@@ -1,0 +1,1 @@
+(CONTACT MB438 "PK.errorid" -> RISE_CONTACT MB440 "PK.errori koodi loendurile" -> INCREMENT_ELEMENT => MI475 "PK.errori kodeerija" | INVERTED_CONTACT MB439 "PK.errori kood" -> GREATER_EQUAL(MI475 "PK.errori kodeerija", D#5) -> STORE_ZERO_NUMERIC MI475 "PK.errori kodeerija")

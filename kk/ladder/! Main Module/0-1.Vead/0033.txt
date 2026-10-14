@@ -1,0 +1,2 @@
+// Lisaekraani valgustuse aktiveerimine.
+(CONTACT MB327 "TE15 aja pikendaja" | CONTACT MB341 "KK Lisaekraani valgustus" | CONTACT MB441 "PK Lisaekraani valgustus" | CONTACT MB541 "TV  Lisaekraani valgustus" | CONTACT MB641 "SP Lisaekraani valgustus") -> COIL O108 "Lisaekraani valgustus"

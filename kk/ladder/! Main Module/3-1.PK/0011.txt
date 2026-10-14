@@ -1,0 +1,2 @@
+// Elektri PK.vilkuva teksti näitamine PK.joonisel
+CONTACT MB1370 "Lüliti vesi PK.ja vesi/elekter PK." -> (CONTACT MB460 "PK valik vesi või elektriküte" | CONTACT SB3 "1 second pulse ( a squarewave of 1 second duration, with a 50% duty cycle)") -> COIL MB406 "Elektrilise PK.tekst PK.joonisel"

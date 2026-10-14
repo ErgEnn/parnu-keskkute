@@ -1,0 +1,1 @@
+CONTACT T25 "Leg.reziimi järgus pausi alustamise viide.(2min.)" -> COIL T26 "Leg.reziimi järgus pausi aeg.(20min.)"

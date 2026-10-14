@@ -1,0 +1,1 @@
+RISE_CONTACT MB180 "F3-4 errori impuiss" -> CONTACT MB183 "F3-5  2.temp.taimer" -> STORE_DIRECT(D#1) => MI11 "Errori tekstid" -> STORE_DIRECT(D#12) => MI12 "Täpsustav error" -> JUMP_TO_HMI_PAGE PAGE "3.Error" -> COIL MB433 "PK.1temp.taimeri vea teade lisaekraani jaoks"

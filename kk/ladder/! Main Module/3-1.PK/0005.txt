@@ -1,0 +1,2 @@
+// KK ahela info
+CONTACT MB8 "KK.pumba lülitamine joonisel" -> LINEAR(D#819, D#0, D#4095, D#100, MI61 "K.K. 3T Ventiil (väljund O1.1)") => MI5 "KK.Kraani asend (0-100%)" -> GREATER_EQUAL(MI5 "KK.Kraani asend (0-100%)", D#5) -> COIL MB317 "KK.3T kraan osaliselt avatud"

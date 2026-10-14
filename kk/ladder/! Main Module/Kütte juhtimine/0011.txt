@@ -1,0 +1,2 @@
+// TV. temp.teisendamine (4-20 mA) ja saatmine SP.le
+(LINEAR(D#10, D#819, D#60, D#4095, MI500 "TV.kütte temp. kellaga või ajatu") => MI510 "TV.valitud temp.teisendatud (4-20mA)" | CONTACT MB520 "TV.valitud temp.SP-le" -> STORE_DIRECT(MI500 "TV.kütte temp. kellaga või ajatu") => MI59 "SP.-le saadetava temperatuuri näit.(aken F1-1)" -> STORE_DIRECT(MI510 "TV.valitud temp.teisendatud (4-20mA)") => MI60 "Soojuspumbale")

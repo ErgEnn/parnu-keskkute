@@ -1,0 +1,1 @@
+(CONTACT MB69 "F4-3 errori aknast vigasesse aknasse" -> JUMP_TO_HMI_PAGE PAGE "3.TV.Kella Seade" | CONTACT MB70 "F4-4 errori aknast vigasesse aknasse" -> JUMP_TO_HMI_PAGE PAGE "4.TV.Kella Seade")

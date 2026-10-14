@@ -1,0 +1,1 @@
+(INVERTED_CONTACT T77 "F3-5  2.Temp.taimer" -> INVERTED_CONTACT SB92 "Keypad Entry in Progress (ON during entry) (Enhanced Vision)" -> STORE_TIMER_PRESET(D#0) => T77 "F3-5  2.Temp.taimer" | CONTACT T77 "F3-5  2.Temp.taimer" -> COIL MB182 "F3-5 errori impuiss" -> INVERTED_CONTACT MB181 "F3-4 1.temp.taimer" -> COIL MB183 "F3-5  2.temp.taimer")

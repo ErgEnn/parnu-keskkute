@@ -1,0 +1,2 @@
+// Katla nooled
+CONTACT MB54 "Katla pumba lülitamine joonisel" -> COIL MB56 "Nooled"

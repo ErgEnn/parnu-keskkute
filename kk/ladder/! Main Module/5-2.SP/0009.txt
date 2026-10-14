@@ -1,0 +1,2 @@
+// Lisakütte taimeri aja näitamine
+DIV(MI603 "Taimeri aja liitjast", D#60) => MI54 "Taimeri aja teisendamine (sek.>min.)" -> SUB(MI601, MI54 "Taimeri aja teisendamine (sek.>min.)") => MI53 "Lisakütte taimeri aja näit"

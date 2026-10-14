@@ -1,0 +1,2 @@
+// KK.3T ventiili juhtimine
+(CONTACT MB321 "KK.PIDi väljundi juhtimine" -> STORE_DIRECT(MI323 "PID: väljund väärtus 2-10V") => MI61 "K.K. 3T Ventiil (väljund O1.1)" | CONTACT MB322 "KK.3T ventiil suletud" -> STORE_DIRECT(D#819) => MI61 "K.K. 3T Ventiil (väljund O1.1)")

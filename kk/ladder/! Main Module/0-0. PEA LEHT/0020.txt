@@ -1,0 +1,2 @@
+// Voolumõõtja Kw/h
+(RISE_CONTACT I94 "Voolumõõtja" -> INCREMENT_ELEMENT => MI20 "Voolumõõtja loendur" | RISE_CONTACT MB3 "Täistunni impulss." -> MUL(MI20 "Voolumõõtja loendur", D#2) => MI21 "Hetke näit Kw/h" -> STORE_ZERO_NUMERIC MI20 "Voolumõõtja loendur")

@@ -1,0 +1,2 @@
+// M.Paagi kasutamise teavitamine.
+(CONTACT MB122 "F6-2 MP.sees/väljas (KK.,PK.)" | CONTACT MB123 "F6-2MP.sees/väljas (TV.)" | CONTACT MB124 "F6-2MP.sees/väljas (TV.Legionella 60C°)" | CONTACT MB125 "MP manuaal blokeering") -> CONTACT SB3 "1 second pulse ( a squarewave of 1 second duration, with a 50% duty cycle)" -> COIL MB202 "M.Paak tähelepanu vilkumine"

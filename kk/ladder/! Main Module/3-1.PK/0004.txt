@@ -1,0 +1,2 @@
+// Põranda lülitamine joonjsel
+(CONTACT MB21 "PK.Nooled Sees" | CONTACT MB1121 "PK.Lüliti" -> (INVERTED_CONTACT MB1360 "Lüliti PK.kellaga juhtimiseks" | CONTACT MB84 "F3-6 PK.kell sees,väljas") -> CONTACT MB460 "PK valik vesi või elektriküte") -> COIL MB16 "PK.Põranda lülitamine joonisel"

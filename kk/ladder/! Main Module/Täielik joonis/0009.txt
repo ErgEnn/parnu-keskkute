@@ -1,0 +1,2 @@
+// TV.Pump joonisel
+CONTACT MB22 "TV.pumba lülitamine joonisel" -> CONTACT SB3 "1 second pulse ( a squarewave of 1 second duration, with a 50% duty cycle)" -> COIL MB24 "TV.Pump joonisel"

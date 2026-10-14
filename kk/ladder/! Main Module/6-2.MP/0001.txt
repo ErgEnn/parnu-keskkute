@@ -1,0 +1,2 @@
+// MP.Sisse ja välja lülitamiseks lisatud kraadide teisendamine (MI>MLiks)
+(STORE_DIRECT(MI164 "MP.SISSE lülitamise temp.seade") => ML40 "Mahupaagi sisse lülitamise lisa kraadid" | STORE_DIRECT(MI165 "MP.VÄLJA lülitamise temp.seade") => ML41 "Tarbevee kütmiseks lisatavad min. kraadid")

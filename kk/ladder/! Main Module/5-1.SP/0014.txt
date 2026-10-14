@@ -1,0 +1,2 @@
+// Tagasivoolu torud
+((CONTACT MB45 "1.Nool ja klapp" | CONTACT MB46 "2.Nooled ja klapp") -> COIL MB48 "2.Nool välja (mahupaaki)" | (CONTACT MB48 "2.Nool välja (mahupaaki)" | CONTACT MB34 "F5-1Tagasivool(2.MP.)") -> COIL MB47 "1. Nool välja")

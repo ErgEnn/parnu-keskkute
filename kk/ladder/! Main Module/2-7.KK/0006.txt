@@ -1,0 +1,2 @@
+// Errori ahelad
+(RISE_CONTACT MB2282 "F2-7-5. errori impulss" -> CONTACT MB90 "F2-4 kell sees/väljas" -> STORE_DIRECT(D#1) => MI11 "Errori tekstid" -> STORE_DIRECT(D#7) => MI12 "Täpsustav error" -> JUMP_TO_HMI_PAGE PAGE "3.Error" -> COIL MB2288 "KK.2temp.5kell vea teade lisaekraani jaoks" | RISE_CONTACT MB2283 "F2-7-6. errori impulss" -> CONTACT MB90 "F2-4 kell sees/väljas" -> STORE_DIRECT(D#1) => MI11 "Errori tekstid" -> STORE_DIRECT(D#8) => MI12 "Täpsustav error" -> JUMP_TO_HMI_PAGE PAGE "3.Error" -> COIL MB2289 "KK.2temp.6kell vea teade lisaekraani jaoks")

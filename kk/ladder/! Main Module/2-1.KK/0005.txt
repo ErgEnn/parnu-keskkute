@@ -1,0 +1,2 @@
+// Kolmikud joonisel
+(INVERTED_CONTACT MB28 "Kollektori nooled" -> STORE_DIRECT(D#0) => MI365 "F2-1Sisendi kolmik joonisel" -> STORE_DIRECT(D#0) => MI366 "F2-1Väljundi kolmik joonisel" | (CONTACT MB315 "KK.3T kraan avatud" | CONTACT MB317 "KK.3T kraan osaliselt avatud") -> CONTACT MB8 "KK.pumba lülitamine joonisel" -> (STORE_DIRECT(D#1) => MI365 "F2-1Sisendi kolmik joonisel" | STORE_DIRECT(D#1) => MI366 "F2-1Väljundi kolmik joonisel"))

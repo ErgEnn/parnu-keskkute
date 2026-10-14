@@ -1,0 +1,2 @@
+// Legionella reziimi lõpu järgne paus.SP.lülitatakse pausile.(22 min.)
+CONTACT MB1453 "Legionellatõrrje reziimi järgse pausi lüliti" -> FALL_CONTACT MB523 "Legionella režiimis olek SET/RES" -> SET_COIL MB524 "Leg. reziimi järgse pausi SET/RES"

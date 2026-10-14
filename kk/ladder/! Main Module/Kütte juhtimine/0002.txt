@@ -1,0 +1,1 @@
+(CONTACT MB399 "KK.temp.saatmine SP.sisendi piiraja.(60C°)" -> STORE_DIRECT(MI399 "KK.temp.saatmine SP.sisendi piirajale.(60C°)") => MI314 "kk.kütte temp.+lisakraadid SP.sisendi jaoks" | INVERTED_CONTACT MB399 "KK.temp.saatmine SP.sisendi piiraja.(60C°)" -> STORE_DIRECT(D#56) => MI314 "kk.kütte temp.+lisakraadid SP.sisendi jaoks")

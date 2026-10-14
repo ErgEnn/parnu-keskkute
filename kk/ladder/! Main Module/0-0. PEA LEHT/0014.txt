@@ -1,0 +1,2 @@
+// MIN/MAX Temperatuuride salvestamine
+((RISE_CONTACT MB1162 "Mahupaak temp min nupp" | LESS_THAN(MI202 "M.Paak temp. peale korrektsiooni", MI1162 "Mahupaak temp min")) -> STORE_DIRECT(MI202 "M.Paak temp. peale korrektsiooni") => MI1162 "Mahupaak temp min" | (RISE_CONTACT MB1163 "Mahupaak temp max nupp" | GREATER_THAN(MI202 "M.Paak temp. peale korrektsiooni", MI1163 "Mahupaak temp max")) -> STORE_DIRECT(MI202 "M.Paak temp. peale korrektsiooni") => MI1163 "Mahupaak temp max")

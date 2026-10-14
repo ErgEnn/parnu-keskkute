@@ -1,0 +1,2 @@
+// MIN/MAX Temperatuuride salvestamine
+((RISE_CONTACT MB1170 "V.M.Paagi temp min nupp" | LESS_THAN(MI206 "V.M.Paagi temp. 0-100,0°C", MI1170 "V.M.paagi temp.min")) -> STORE_DIRECT(MI206 "V.M.Paagi temp. 0-100,0°C") => MI1170 "V.M.paagi temp.min" | (RISE_CONTACT MB1171 "V.M.Paagi temp max nupp" | GREATER_THAN(MI206 "V.M.Paagi temp. 0-100,0°C", MI1171 "V.M.paagi temp.max")) -> STORE_DIRECT(MI206 "V.M.Paagi temp. 0-100,0°C") => MI1171 "V.M.paagi temp.max")

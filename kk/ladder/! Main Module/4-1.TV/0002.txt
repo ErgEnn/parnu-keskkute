@@ -1,0 +1,2 @@
+// PK ahela info
+CONTACT MB15 "PK.pumba lülitamine joonisel" -> LINEAR(D#819, D#0, D#4095, D#100, MI62 "P.K. 3T Ventiil (väljund O2.0)") => MI7 "PK.Kraani asend (0-100%)" -> GREATER_EQUAL(MI7 "PK.Kraani asend (0-100%)", D#5) -> COIL MB417 "PK.3T kraan osaliselt avatud"

@@ -1,0 +1,2 @@
+// Pump joonisel
+(CONTACT MB22 "TV.pumba lülitamine joonisel" -> RISE_CONTACT SB7 "100 mS pulse" -> INCREMENT_ELEMENT => MI519 "F4-1Tsirk.pump joonisel" -> GREATER_EQUAL(MI519 "F4-1Tsirk.pump joonisel", D#4) -> STORE_ZERO_NUMERIC MI519 "F4-1Tsirk.pump joonisel" | INVERTED_CONTACT MB22 "TV.pumba lülitamine joonisel" -> INVERTED_CONTACT I82 "SP.3Tventiil KK/PK suunas avatud" -> STORE_DIRECT(D#4) => MI519 "F4-1Tsirk.pump joonisel")

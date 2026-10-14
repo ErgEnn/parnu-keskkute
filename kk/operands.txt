@@ -1,0 +1,877 @@
+MB0 "Alati sisse lülitatud."
+MB1 "Ekraani luku välja lülitamine"
+MB3 "Täistunni impulss."
+MB7 "Informatsiooni reziimi staatus"
+MB8 "KK.pumba lülitamine joonisel"
+MB10 "KK.Pump joonisel"
+MB11 "KK.3TKraan joonisel"
+MB12 "KK.Nool-nurk"
+MB13 "KK.Nooled Si-Vä"
+MB14 "KK.Nooled Sees"
+MB15 "PK.pumba lülitamine joonisel"
+MB16 "PK.Põranda lülitamine joonisel"
+MB17 "PK.Pump joonisel"
+MB18 "PK.3T Kraan joonisel"
+MB19 "PK.Nool nurk"
+MB20 "PK.Nooled Si-Vä"
+MB21 "PK.Nooled Sees"
+MB22 "TV.pumba lülitamine joonisel"
+MB23 "TV.Boileri temp. joonisel (35°C)" FormatView=3
+MB24 "TV.Pump joonisel"
+MB25 "TV.Nooled"
+MB26 "Kollektori ringvoolu ahel ja KK ahel" FormatView=3
+MB27 "Kollektori ringvoolu ahel" FormatView=3
+MB28 "Kollektori nooled"
+MB29 "nool välja"
+MB30 "TV.Tagasivool (MP-sse)"
+MB31 "TV.1.Pealevool(MP-st)" FormatView=3
+MB32 "TV.2.Pealevool (SP-st)"
+MB33 "2.MP.Temp.alla 30°C"
+MB34 "F5-1Tagasivool(2.MP.)" FormatView=3
+MB35 "TV.Tagasivool (SP-sse)"
+MB38 "SP.pumba lülitamine joonisel"
+MB39 "F5-1 Kütte pealevool (v.mahupaagist)"
+MB40 "SP. pump joonisel"
+MB41 "SP. Mootorkraan"
+MB42 "SP. 3T kraan"
+MB43 "Nooled SP.st TV.le"
+MB45 "1.Nool ja klapp"
+MB46 "2.Nooled ja klapp"
+MB47 "1. Nool välja"
+MB48 "2.Nool välja (mahupaaki)" FormatView=3
+MB49 "Nool nurk"
+MB50 "SP. nooled"
+MB51 "hüüumärk"
+MB52 "SP.Vilkuv tekst (F5-2 SULATUS)"
+MB53 "hüüumärgi lüliti"
+MB54 "Katla pumba lülitamine joonisel"
+MB55 "Katla pump joonisel" FormatView=3
+MB56 "Nooled"
+MB58 "Noolte vilkumise takt"
+MB59 "Katla õhusiibri reset impulss"
+MB60 "F5-1 TV.Tagasivool (SP-sse)"
+MB61 "F5-1 käsikraanid (1 ja 2 lahti/kinni) )"
+MB62 "F5-1 käsikraanid (3 -5 lahti/kinni) )"
+MB65 "F2-4 errori aknast vigasesse aknasse"
+MB66 "F2-5 errori aknast vigasesse aknasse"
+MB67 "F3-4 errori aknast vigasesse aknasse"
+MB68 "F3-5 errori aknast vigasesse aknasse"
+MB69 "F4-3 errori aknast vigasesse aknasse"
+MB70 "F4-4 errori aknast vigasesse aknasse"
+MB71 "F5-1 errori aknast vigasesse aknasse"
+MB75 "F2-4 1temp. 1.kell sees,väljas"
+MB76 "F2-4 1temp. 2.kell sees,väljas"
+MB77 "F2-5 2.temp. 1.kell sees,väljas"
+MB78 "F2-5  2.temp. 2.kell sees,väljas"
+MB80 "F3-4 1temp. 1.kell sees,väljas" FormatView=3
+MB81 "F3-4 1temp. 2.kell sees,väljas" FormatView=3
+MB82 "F3-5 2 .temp. 1.kell sees,väljas" FormatView=3
+MB83 "F3-5  2.temp. 2.kell sees,väljas" FormatView=3
+MB84 "F3-6 PK.kell sees,väljas"
+MB85 "F4-3 1temp. 1.kell sees,väljas" FormatView=3
+MB86 "F4-3 1temp. 2.kell sees,väljas" FormatView=3
+MB87 "F4-4  2 .temp. 1.kell sees,väljas" FormatView=3
+MB88 "F4-4  2.temp. 2.kell sees,väljas" FormatView=3
+MB90 "F2-4 kell sees/väljas"
+MB91 "F2-5,F2-6,F2-7 kell sees/väljas" FormatView=3
+MB92 "F2-4-F2-5 kell sees/väljas" FormatView=3
+MB93 "F3-4 kell sees/väljas" FormatView=3
+MB94 "F3-5 kell sees/väljas" FormatView=3
+MB95 "F3-4-F3-5 kell sees/väljas" FormatView=3
+MB96 "F4-3 kell sees/väljas" FormatView=3
+MB97 "F4-4 kell sees/väljas" FormatView=3
+MB98 "F4-3-F4-4 kell sees/väljas" FormatView=3
+MB100 "F2-4-1. errori impulss" FormatView=3
+MB101 "F2-4-2. errori impulss" FormatView=3
+MB102 "F2-5-1. errori impulss" FormatView=3
+MB103 "F2-5-2. errori impulss" FormatView=3
+MB105 "F3-4 errori impulss"
+MB106 "F3-4 errori impulss"
+MB107 "F3-5 errori impulss"
+MB108 "F3-5 errori impulss"
+MB110 "F4-3 errori impulss"
+MB111 "F4-3 errori impulss" FormatView=3
+MB112 "F4-4 errori impulss" FormatView=3
+MB113 "F4-4 errori impulss" FormatView=3
+MB118 "F5-3 SP.tsirk.pumba kiirus KK.,PK.asendis SEES/VÄLJAS"
+MB119 "F5-3 SP.tsirk.pumba kiirus TV.asendis SEES/VÄLJAS"
+MB122 "F6-2 MP.sees/väljas (KK.,PK.)" FormatView=3
+MB123 "F6-2MP.sees/väljas (TV.)" FormatView=3
+MB124 "F6-2MP.sees/väljas (TV.Legionella 60C°)"
+MB125 "MP manuaal blokeering"
+MB130 "KK.korrektori+joonisel"
+MB131 "KK.korrektori -joonisel"
+MB180 "F3-4 errori impuiss"
+MB181 "F3-4 1.temp.taimer"
+MB182 "F3-5 errori impuiss"
+MB183 "F3-5  2.temp.taimer"
+MB184 "F4-3 errori impuiss"
+MB185 "F4-3 1.temp.taimer"
+MB186 "F4-4 errori impuiss"
+MB187 "F4-4  2.temp.taimer"
+MB190 "F4-6 des.aeg sees/väljas (nädal+kell)"
+MB192 "F4-6 des.aeg sees,väljas"
+MB200 "Kõrgema temp.valija KK.võiPK."
+MB202 "M.Paak tähelepanu vilkumine"
+MB205 "KK.või PK.töötab (5-2 SP info aknas)"
+MB206 "TV.töötab (5-2SP jnfo aknas)"
+MB207 "SP.kasutamise ajaline piiraja käivitus TV.küttel."
+MB208 "SP.kasutamise ajaline piiramine TV.küttel." FormatView=3
+MB210 " TV.kütte alustamise temp.lülitamine"
+MB300 "KK.korrektori+"
+MB301 "KK.korrektori -"
+MB302 "KK.korrektori+(pidev)"
+MB304 "Temp.korrektsioon +/-1°C"
+MB305 "KK lüliti peale kliima seadet ja ooterežiimi."
+MB306 "Kliima tekst KK.joonistel"
+MB307 "Küte ooterežiimil"
+MB310 "PID: Action: 0: Reverse(Heating-default) 1: Direct(Cooling)"
+MB311 "AUTO TUNE tehtud"
+MB312 "AUTO TUNE töötab"
+MB315 "KK.3T kraan avatud" FormatView=3
+MB316 "KK.3T kraan suletud"
+MB317 "KK.3T kraan osaliselt avatud" FormatView=3
+MB320 "KK.valitud temp.SP-le"
+MB321 "KK.PIDi väljundi juhtimine"
+MB322 "KK.3T ventiil suletud"
+MB324 "KK.PIDi error"
+MB327 "TE15 aja pikendaja"
+MB328 "Toa temp. näidik"
+MB330 "KK.PIDi vea teade lisaekraani jaoks"
+MB331 "KK.1temp.1kell vea teade lisaekraani jaoks"
+MB332 "KK.1temp.2kell vea teade lisaekraani jaoks"
+MB334 "KK.2temp.1kell vea teade lisaekraani jaoks"
+MB335 "KK.2temp.2kell vea teade lisaekraani jaoks"
+MB338 "KK.errorid"
+MB339 "KK.errori kood"
+MB340 "KK.errori koodi loendurile"
+MB341 "KK Lisaekraani valgustus"
+MB342 "Toa temp. korrek. +" FormatView=3
+MB343 "Toa temp. korrek. -"
+MB347 "Vee miinimum temp.piiraja (17°C)"
+MB348 "Vee miinimum temp.piiraja (18°C)"
+MB349 "Vee miinimum temp.piiraja (19°C)"
+MB370 "KK.Tsirkulatsioonipumba aegrelee"
+MB390 "KK.kellade kasutamise piiramine,sõltuvalt õue temperatuurist.(-15C°)"
+MB391 "1.Temp.muutja +poole piiramine."
+MB392 "2.Temp.muutja +poole piiramine."
+MB399 "KK.temp.saatmine SP.sisendi piiraja.(60C°)"
+MB401 "PK. graafiku korrektsiooni piiraja (max 50,0°C)"
+MB404 "PK lüliti kella"
+MB405 "PK lüliti peale kõiki blokeeringuid"
+MB406 "Elektrilise PK.tekst PK.joonisel"
+MB407 "Kellaga lülitamise tekst PK.joonisel" FormatView=3
+MB410 "PID: Action: 0: Reverse(Heating-default) 1: Direct(Cooling)"
+MB411 "AUTO TUNE tehtud"
+MB412 "AUTO TUNE töötab"
+MB415 "PK.3Tkraan avatud"
+MB416 "PK.3T kraan suletud"
+MB417 "PK.3T kraan osaliselt avatud" FormatView=3
+MB420 "PK.valitud temp.SP-le"
+MB421 "PK.PIDi väljundi juhtimine"
+MB422 "PK.3T ventiil suletud"
+MB424 "PK.PIDi error"
+MB430 "PK.PIDi vea teade lisaekraani jaoks"
+MB431 "PK.1temp.1kell vea teade lisaekraani jaoks"
+MB432 "PK.1temp.2kell vea teade lisaekraani jaoks"
+MB433 "PK.1temp.taimeri vea teade lisaekraani jaoks"
+MB434 "PK.2temp.1kell vea teade lisaekraani jaoks"
+MB435 "PK.2temp.2kell vea teade lisaekraani jaoks"
+MB436 "PK.2temp.taimeri vea teade lisaekraani jaoks"
+MB438 "PK.errorid"
+MB439 "PK.errori kood"
+MB440 "PK.errori koodi loendurile"
+MB441 "PK Lisaekraani valgustus"
+MB460 "PK valik vesi või elektriküte"
+MB461 "PK.vesi või elektriküte valiku plokeerija."
+MB470 "PK.Tsirk.pumba aegrelee"
+MB499 "PK.temp.saatmine SP.sisendi piiraja.(60C°)"
+MB500 "TV.kütte diferents (SP.-le)"
+MB501 "TV.kütte diferents (tsirk.pumbale ja EL.küttele)"
+MB503 "des.temp.saatmine diferentsiaalile"
+MB518 "TV.kütmise alustamise abi temp."
+MB519 "TV.kütmise alustamise abi temp.SP.-le"
+MB520 "TV.valitud temp.SP-le"
+MB521 "Legionella tõrje käivitus käsk SP-le."
+MB522 "Legionella tõrje imp.sees/väljas"
+MB523 "Legionella režiimis olek SET/RES" FormatView=3
+MB524 "Leg. reziimi järgse pausi SET/RES"
+MB525 "TV.kütmise abi temp.valik (kõrgem)"
+MB527 "Leg.järgse pausi tekst."
+MB531 "TV.1temp.1kell vea teade lisaekraani jaoks"
+MB532 "TV.1temp.2kell vea teade lisaekraani jaoks"
+MB533 "TV.1temp.taimeri vea teade lisaekraani jaoks"
+MB534 "TV.2temp.1kell vea teade lisaekraani jaoks"
+MB535 "TV.2temp.2kell vea teade lisaekraani jaoks"
+MB536 "TV.2temp.taimeri vea teade lisaekraani jaoks"
+MB538 "TV.errorid"
+MB539 "TV.errori kood"
+MB540 "TV.errori koodi loendurile"
+MB541 "TV  Lisaekraani valgustus"
+MB570 "TV.Tsirk.pumba aegrelee"
+MB615 "Veevoolu min.kiirus (tekst)"
+MB617 "SP.kompressori hädaseis (SET/RES.)"
+MB630 "Veemõõtja vea teade lisaekraani jaoks"
+MB638 "SP.veemõõtja error"
+MB639 "SP.veemõõtja errori kood"
+MB640 ".SP.veemõõtja errori koodi loendurile"
+MB641 "SP Lisaekraani valgustus"
+MB670 "SP.Tsirk.pumba aegrelee"
+MB1001 "Ekraani lukk"
+MB1002 "Avaleht"
+MB1003 "3.Error"
+MB1004 "Seadmete valik"
+MB1005 "Täielik joonis"
+MB1006 "Veakoodid 1."
+MB1007 "Veakoodid 2."
+MB1011 "F1-1."
+MB1012 "F1-2."
+MB1021 "F2-1.KK.Joonis"
+MB1022 "F2-2.KK.PID"
+MB1023 "F2-3.KK.Temp.seade"
+MB1024 "F2-4.KK.Kella seade"
+MB1025 "F2-5.KK.Kella seade" FormatView=3
+MB1026 "F2-6.KK.Kella seade" FormatView=3
+MB1027 "F2-7.KK.Kella seade" FormatView=3
+MB1031 "F3-1.PK.Joonis"
+MB1032 "F3-2.PK.PID"
+MB1033 "F3-3.PK.Temp.seade"
+MB1034 "F3-4.PK.Kella seade"
+MB1035 "F3-5.PK.Kella seade" OprndPowerUp=1 OprndEnablePowerUp=-1
+MB1036 "F3-6.PK.Lülitamine kellaga"
+MB1037 "F3-6PK Lisa funk."
+MB1041 "F4-1.TV.Joonis"
+MB1042 "F4-2.TV.Temp.seade"
+MB1043 "F4-3.TV.Kella seade"
+MB1044 "F4-4.TV.Kella seade"
+MB1045 "F4-5.TV.Lisa funk." FormatView=3
+MB1046 "F4-6.TV Legionella" FormatView=3
+MB1051 "F5-1.SP.Joonis"
+MB1052 "F5-2.SP.Seaded"
+MB1053 "F5-3.SP.Pumba seaded" FormatView=3
+MB1061 "F6-1.MP.ja Korstna joonis"
+MB1062 "F6-2.MP.Temp.seade"
+MB1063 "F6-3.Korstna Temp.seade"
+MB1100 "taba asend"
+MB1101 "taba vajutus"
+MB1102 "Tagasi eelmisse aknasse"
+MB1103 "tagasi luku aknasse"
+MB1110 "Temperatuurid nupp"
+MB1111 "Keskkütte nupp"
+MB1112 "Põrandakütte nupp"
+MB1113 "Tarbevesi nupp"
+MB1114 "Soojuspump nupp"
+MB1115 "Mahupaak nupp"
+MB1116 "Seadmete valikud nupp"
+MB1117 "Joonise nupp"
+MB1120 "KK lüliti"
+MB1121 "PK.Lüliti"
+MB1122 "TV.Lüliti" FormatView=3
+MB1123 "SP.Lüliti" FormatView=3
+MB1124 "ECO lüliti"
+MB1125 "Legionellatõrje reziimi lüliti"
+MB1126 "Õhusiibri avamine lüliti"
+MB1132 "Tagasi nupp"
+MB1133 "Enter nupp"
+MB1140 "SP.kompressori hädaseisu nullimine"
+MB1141 "peidab nullimise nupu"
+MB1142 "Nupp errori aknast tagasi vigasesse aknasse"
+MB1143 "Nupu peitmine"
+MB1150 "Õue temp min nupp"
+MB1151 "Õue temp max nupp"
+MB1152 "Toa temp min nupp"
+MB1153 "Toa temp max nupp"
+MB1156 "Keskütte temp min nupp"
+MB1157 "Keskkütte temp max nupp"
+MB1158 "Põrandakütte temp min nupp"
+MB1159 "Põrandakütte temp max nupp"
+MB1160 "Tarbevee küte min nupp"
+MB1161 "Tarbevee küte max nupp"
+MB1162 "Mahupaak temp min nupp"
+MB1163 "Mahupaak temp max nupp"
+MB1164 "Korstna temp min nupp"
+MB1165 "Korstna temp max nupp"
+MB1166 "Trassi vee temp min nupp"
+MB1167 "Trassi vee temp max nupp"
+MB1168 "Soojuspumba temp min nupp"
+MB1169 "Soojuspumba temp max nupp"
+MB1170 "V.M.Paagi temp min nupp"
+MB1171 "V.M.Paagi temp max nupp"
+MB1174 "Voolumõõtja Kw/h min.nupp"
+MB1175 "Voolumõõtja Kw/h max nupp"
+MB1176 "Voolumõõtja impulss"
+MB1210 "Alustab AUTO TUNEt"
+MB1211 "Nupp PID KK.aknast esimesse infoaknasse"
+MB1220 "F2-3 (1.kellaga temp.seade miinuse nupp)"
+MB1221 "F2-3 (1.kellaga temp.seade miinuse nupu peitmine)"
+MB1222 "F2-3 (1.kellaga temp.seade plussi nupp)"
+MB1223 "F2-3 (1.kellaga temp.seade plussi nupu peitmine)"
+MB1224 "F2-3 (2.kellaga temp.seade miinuse nupp)"
+MB1225 "F2-3 (2.kellaga temp.seade miinuse nupu peitmine)"
+MB1226 "F2-3 (2.kellaga temp.seade plussi nupp)"
+MB1227 "F2-3 (2.kellaga temp.seade plussi nupu peitmine)"
+MB1228 "F2-3 (käsi valik temp.seade miinuse nupp)"
+MB1229 "F2-3 (käsi valik temp.seade miinuse nupu peit"
+MB1230 "F2-3 (käsi valik temp.seade plussi nupp)"
+MB1231 "F2-3 (käsi valik temp.seade plussi nupu peitmine)"
+MB1234 "1.Temp.valiku 1.kella SET/RES nupp"
+MB1235 "1.Temp.valiku 2.kella SET/RES nupp"
+MB1240 "2.Temp.valiku 1.kella SET/RES nupp"
+MB1241 "2.Temp.valiku 2.kella SET/RES nupp"
+MB1242 "2.Temp.valiku 3.kella SET/RES nupp"
+MB1243 "2.Temp.valiku 4.kella SET/RES nupp"
+MB1244 "2.Temp.valiku 5.kella SET/RES nupp"
+MB1245 "2.Temp.valiku 6.kella SET/RES nupp"
+MB1310 "Alustab AUTO TUNEt"
+MB1311 "Nupp PID PK.aknast esimesse infoaknasse"
+MB1320 "F3-3 (1.kellaga temp.seade miinuse nupp)"
+MB1321 "F3-3 (1.kellaga temp.seade miinuse nupu peitmine)"
+MB1322 "F3-3 (1.kellaga temp.seade plussi nupp)"
+MB1323 "F3-3 (1.kellaga temp.seade plussi nupu peitmine)"
+MB1324 "F3-3 (2.kellaga temp.seade miinuse nupp)"
+MB1325 "F3-3 (2.kellaga temp.seade miinuse nupu peitmine)"
+MB1326 "F3-3 (2.kellaga temp.seade plussi nupp)"
+MB1327 "F3-3 (2.kellaga temp.seade plussi nupu peitmine)"
+MB1328 "F3-3 (temp.seade miinuse nupp)"
+MB1329 "F3-3 (temp.seade miinuse nupu peitmine)"
+MB1330 "F3-3 (temp.seade plussi nupp)"
+MB1331 "F3-3 (temp.seade plussi nupu peitmine)"
+MB1340 "1.Temp.valiku 1.kella SET/RES nupp"
+MB1341 "1.Temp.valiku 2.kella SET/RES nupp"
+MB1350 "2.Temp.valiku 1.kella SET/RES nupp"
+MB1351 "2.Temp.valiku 2.kella SET/RES nupp"
+MB1360 "Lüliti PK.kellaga juhtimiseks"
+MB1361 "F3-6 kella SET/RES nupp"
+MB1370 "Lüliti vesi PK.ja vesi/elekter PK."
+MB1410 "F4-2 (1.kellaga temp.seade miinuse nupp)"
+MB1411 "F4-2 (1.kellaga temp.seade miinuse nupu peitmine)"
+MB1412 "F4-2 (1.kellaga temp.seade plussi nupp)"
+MB1413 "F4-2 (1.kellaga temp.seade plussi nupu peitmine)"
+MB1414 "F4-2 (2.kellaga temp.seade miinuse nupp)"
+MB1415 "F4-2 (2.kellaga temp.seade miinuse nupu peitmine)"
+MB1416 "F4-2 (2.kellaga temp.seade plussi nupp)"
+MB1417 "F4-2 (2.kellaga temp.seade plussi nupu peitmine)"
+MB1418 "F4-2 (temp.seade miinuse nupp)"
+MB1419 "F4-2 (temp.seade miinuse nupu peitmine)"
+MB1420 "F4-2 (temp.seade plussi nupp)"
+MB1421 "F4-2 (temp.seade plussi nupu peitmine)"
+MB1430 "1.Temp.valiku 1.kella SET/RES nupp"
+MB1431 "1.Temp.valiku 2.kella SET/RES nupp"
+MB1440 "2.Temp.valiku 1.kella SET/RES nupp"
+MB1441 "2.Temp.valiku 2.kella SET/RES nupp"
+MB1450 "TV. Kütmise abi (Valiku lüliti)"
+MB1451 "TV.küte (ilma SP.-ta ) lüliti"
+MB1453 "Legionellatõrrje reziimi järgse pausi lüliti"
+MB1460 "TV.paagi desinfitseerimise käivitus nupp"
+MB1510 "F5-1Veevoolumõõtja blokeerimine"
+MB1511 "F5-1  1.käsikraani (avamine/sulgemine joonisel)"
+MB1512 "F5-1  3.käsikraani (avamine/sulgemine joonisel)"
+MB1520 "F5-3 (SP.tsirk.pumba KK.,PK.seade miinuse nupp)"
+MB1521 "F5-3 (SP.tsirk.pumba KK.,PK.seade miinuse nupu peitmine)"
+MB1522 "F5-3 (SP.tsirk.pumba KK.,PK.seade pluss nupp)"
+MB1523 "F5-3 (SP.tsirk.pumba KK.,PK.seade plussi nupu peitmine)"
+MB1524 "F5-3 (SP.tsirk.pumba TV.seade miinuse nupp)"
+MB1525 "F5-3 (SP.tsirk.pumba TV.seade miinuse nupu peitmine)"
+MB1526 "F5-3 (SP.tsirk.pumba TV.seade pluss nupp)"
+MB1527 "F5-3 (SP.tsirk.pumba TV.seade plussi nupu peitmine)"
+MB1530 "F5-3 (SP.lisakraadide.seade miinuse nupp)"
+MB1531 "F5-3 (SP.lisakraadide miinuse nupu peitmine)"
+MB1532 "F5-3 (SP.lisakraadide.seade pluss nupp)"
+MB1533 "F5-3 (SP.lisakraadide plussi nupu peitmine)"
+MB2270 "F2-6 2.temp. 3.kell sees,väljas"
+MB2271 "F2-6  2.temp. 4.kell sees,väljas"
+MB2272 "F2-7  2.temp. 5.kell sees,väljas"
+MB2273 "F2-7  2.temp. 6.kell sees,väljas"
+MB2280 "F2-6-3. errori impulss"
+MB2281 "F2-6-4. errori impulss"
+MB2282 "F2-7-5. errori impulss"
+MB2283 "F2-7-6. errori impulss"
+MB2286 "KK.2temp.3kell vea teade lisaekraani jaoks"
+MB2287 "KK.2temp.4kell vea teade lisaekraani jaoks"
+MB2288 "KK.2temp.5kell vea teade lisaekraani jaoks"
+MB2289 "KK.2temp.6kell vea teade lisaekraani jaoks"
+MB2290 "F2-6 errori aknast vigasesse aknasse"
+MB2291 "F2-7 errori aknast vigasesse aknasse"
+SB2 "Power-up bit" FormatView=3
+SB3 "1 second pulse ( a squarewave of 1 second duration, with a 50% duty cycle)" FormatView=3
+SB7 "100 mS pulse" FormatView=3
+SB8 "Battery low (1=low)" FormatView=3
+SB13 "ON at Rising Edge of SB3 (1sec pulse)" FormatView=3
+SB16 "Touchscreen is Active (has been touched] (Touch models only)" FormatView=3
+SB92 "Keypad Entry in Progress (ON during entry) (Enhanced Vision)" FormatView=3
+SB94 "Keypad Entry Var Complete (ON for 1 scan) (Enhanced Vision)" FormatView=3
+SB168 "To activate \"Link lost, auto-recover\": Set SB 168 (Power-up Value =1)" OprndPowerUp=2 OprndEnablePowerUp=-1 FormatView=3
+SB310 "Buzzer (290/570/350/530)" FormatView=3
+MI3 "Noolte vilkumise takt" FormatView=3
+MI5 "KK.Kraani asend (0-100%)" FormatView=3
+MI7 "PK.Kraani asend (0-100%)" FormatView=3
+MI10 "PID akna aadres" FormatView=3
+MI11 "Errori tekstid" FormatView=3
+MI12 "Täpsustav error" FormatView=3
+MI20 "Voolumõõtja loendur" FormatView=3
+MI21 "Hetke näit Kw/h" FormatView=3
+MI22 "Aeg viimasest impulsist" FormatView=3
+MI23 "Vatid viimasest impulsist" FormatView=3
+MI24 "Eelmised vatid" FormatView=3
+MI25 "Vatid ekraanile" FormatView=3
+MI27 "Informatsiooni reziimi salaõna" OprndPowerUp=1111 OprndEnablePowerUp=-1 FormatView=3
+MI32 "Õue temp." FormatView=3
+MI33 "Toa temp." FormatView=3
+MI34 "K.Kütte temp." FormatView=3
+MI35 "P.Kütte temp." FormatView=3
+MI36 "Toa Seade (0-10V)" FormatView=3
+MI37 "T.V.Küte (4-20mA)" FormatView=3
+MI38 "M.Paak (T/C type K)" FormatView=3
+MI39 "Korsten (T/C type K)" FormatView=3
+MI40 "Trassivesi (T/C tipe K)" FormatView=3
+MI41 "S. Pump  (T/C type K)" FormatView=3
+MI42 "V.M.paak(4-20mA)" FormatView=3
+MI43 "Vaba (4-20mA)" FormatView=3
+MI50 "SP.töörezimi näitamine" FormatView=3
+MI51 "SP.analoog sisendi temp.(4-20mA-10-60°C)" FormatView=3
+MI52 "SP.tekstid (SULATUS)" FormatView=3
+MI53 "Lisakütte taimeri aja näit" FormatView=3
+MI54 "Taimeri aja teisendamine (sek.>min.)" FormatView=3
+MI55 "2.Liivakell F5-2" FormatView=3
+MI56 "Leg. järgse pausi taimeri aja näit" FormatView=3
+MI57 "1.Liivakell F5-2" FormatView=3
+MI58 "Tööreziimi näit (F5-1)" FormatView=3
+MI59 "SP.-le saadetava temperatuuri näit.(aken F1-1)" FormatView=3
+MI60 "Soojuspumbale" FormatView=3
+MI61 "K.K. 3T Ventiil (väljund O1.1)" FormatView=3
+MI62 "P.K. 3T Ventiil (väljund O2.0)" FormatView=3
+MI63 "Toa temp.ja seade temp. (väljund)" FormatView=3
+MI64 "SP.tsirk.pumba võimsuse juhtimine (0-20mA)" FormatView=3
+MI75 "Toa seade seisund joonisel" FormatView=3
+MI77 "F2-4 nädal1." FormatView=3
+MI78 "F2-4 tunnid sisse 1." FormatView=4
+MI79 "F2-4 tunnid nullimine1." FormatView=4
+MI80 "F2-4 nädal 1." FormatView=3
+MI81 "F2-4 tunnid välja 1." FormatView=4
+MI82 "F2-4 tunnid nullimine 1." FormatView=4
+MI83 "F2-4 nädal 2." FormatView=3
+MI84 "F2-4 tunnid sisse 2." FormatView=4
+MI85 "F2-4 tunnid nullimine 2." FormatView=4
+MI86 "F2-4 nädal 2." FormatView=3
+MI87 "F2-4 tunnid välja 2." FormatView=4
+MI88 "F2-4 tunnid nullimine 2." FormatView=4
+MI89 "F2-5 nädal 1." FormatView=3
+MI90 "F2-5 tunnid sisse 1." FormatView=4
+MI91 "F2-5 tunnid nullimine 1." FormatView=4
+MI92 "F2-5 nädal 1." FormatView=3
+MI93 "F2-5 tunnid välja 1." FormatView=4
+MI94 "F2-5 tunnid nullimine 1." FormatView=4
+MI95 "F2-5 nädal 2." FormatView=3
+MI96 "F2-5 tunnid sisse 2." FormatView=4
+MI97 "F2-5 tunnid nullimine 2." FormatView=4
+MI98 "F2-5 nädal 2." FormatView=3
+MI99 "F2-5 tunnid välja 2." FormatView=4
+MI100 "F2-5 tunnid nullimine 2." FormatView=4
+MI102 "F3-4 nädal1." FormatView=3
+MI103 "F3-4 tunnid sisse1." FormatView=4
+MI104 "F3-4 tunnid nullimine1." FormatView=4
+MI105 "F3-4 nädal 1." FormatView=3
+MI106 "F3-4 tunnid välja 1." FormatView=4
+MI107 "F3-4 tunnid nullimine 1." FormatView=4
+MI108 "F3-4 nädal 2" FormatView=3
+MI109 "F3-4 tunnid sisse 2." FormatView=4
+MI110 "F3-4 tunnid nullimine 2." FormatView=4
+MI111 "F3-4 nädal 2." FormatView=3
+MI112 "F3-4 tunnid välja 2." FormatView=4
+MI113 "F3-4 tunnid nullimine 2." FormatView=4
+MI114 "F3-5 nädal 1." FormatView=3
+MI115 "F3-5 tunnid sisse 1." FormatView=4
+MI116 "F3-5 tunnid nullimine 1." FormatView=4
+MI117 "F3-5 nädal 1." FormatView=3
+MI118 "F3-5 tunnid välja 1." FormatView=4
+MI119 "F3-5 tunnid nullimine 1." FormatView=4
+MI120 "F3-5 nädal 2." FormatView=3
+MI121 "F3-5 tunnid sisse 2." FormatView=4
+MI122 "F3-5 tunnid nullimine 2." FormatView=4
+MI123 "F3-5 nädal 2." FormatView=3
+MI124 "F3-5 tunnid välja 2." FormatView=4
+MI125 "F3-5 tunnid nullimine 2." FormatView=4
+MI127 "F4-3 nädal1." FormatView=3
+MI128 "F4-3 tunnid sisse1." FormatView=4
+MI129 "F4-3 tunnid nullimine1." FormatView=4
+MI130 "F4-3 nädal 1." FormatView=3
+MI131 "F4-3 tunnid välja 1." FormatView=4
+MI132 "F4-3 tunnid nullimine 1." FormatView=4
+MI133 "F4-3 nädal 2." FormatView=3
+MI134 "F4-3 tunnid sisse 2." FormatView=4
+MI135 "F4-3 tunnid nullimine 2." FormatView=4
+MI136 "F4-3 nädal 2." FormatView=3
+MI137 "F4-3 tunnid välja 2." FormatView=4
+MI138 "F4-3 tunnid nullimine 2." FormatView=4
+MI139 "F4-4 nädal 1." FormatView=3
+MI140 "F4-4 tunnid sisse 1." FormatView=4
+MI141 "F4-4 tunnid nullimine 1." FormatView=4
+MI142 "F4-4 nädal 1." FormatView=3
+MI143 "F4-4 tunnid välja 1." FormatView=4
+MI144 "F4-4 tunnid nullimine 1." FormatView=4
+MI145 "F4-4 nädal 2." FormatView=3
+MI146 "F4-4 tunnid sisse 2." FormatView=4
+MI147 "F4-4 tunnid nullimine 2." FormatView=4
+MI148 "F4-4 nädal 2." FormatView=3
+MI149 "F4-4 tunnid välja 2." FormatView=4
+MI150 "F4-4 tunnid nullimine 2." FormatView=4
+MI151 "F4-6 nädal" FormatView=3
+MI152 "F4-6 tunnid sisse" FormatView=3
+MI153 "F4-6 tunnid nullimine" FormatView=3
+MI154 "F4-6 des.tsükli vahe" FormatView=3
+MI156 "PK. korrektsioon temp.+,-" FormatView=3
+MI157 "PK.1.Temp.seade+,-" FormatView=3
+MI158 "PK.2.Temp. seade+,-" FormatView=3
+MI160 "TV.Ajatu temp.seade" FormatView=3
+MI161 "TV.1.Temp.seade" FormatView=3
+MI162 "TV.2.Temp.seade" FormatView=3
+MI164 "MP.SISSE lülitamise temp.seade" FormatView=3
+MI165 "MP.VÄLJA lülitamise temp.seade" FormatView=3
+MI167 "Katla pumba SISSE lülitamise temp.seade" FormatView=3
+MI168 "Katla pumba VÄLJA lülitamise temp.seade" FormatView=3
+MI169 "Katla pump joonisel" FormatView=3
+MI170 "Katla joonis" FormatView=3
+MI171 "Mahupaak joonisel" FormatView=3
+MI172 "Kolmik MP. joonisel" FormatView=3
+MI175 "TV. diferentsiaali muutmine (5-20°C)" FormatView=3
+MI177 "TV.Lubatud kütmise aeg (SP-ga)" FormatView=3
+MI178 "TV.kütmise piirangu aeg (SP-ga)" FormatView=3
+MI179 "TV.Kütmise aeg (sekundites)" FormatView=3
+MI180 "TV.Kütmise piirangu aeg (sekundites)" FormatView=3
+MI181 "SP.kasutamise ajaline piiramine TV.küttel.(1.)" FormatView=3
+MI182 "TV.kütmise ja piirangu aeg liidetuna." FormatView=3
+MI184 "TV.kütmise ajaline piiramine" FormatView=3
+MI190 "K.K.Seade (temp.graafik 55,0-28,0°C)" FormatView=3
+MI191 "PK.Seade (temp.graafik 45,0-35,0°C)" FormatView=3
+MI192 "PK.Seade (temp.graafiktäis kraadides 45-35°C)" FormatView=3
+MI195 "TV. temp. teisendamine täis kraadideks" FormatView=3
+MI196 "Õue temp. peale korrektsiooni" FormatView=3
+MI197 "Toa temp. peale korrektsiooni" FormatView=3
+MI198 "K.kütte temp. peale korrektsiooni" FormatView=3
+MI199 "P.Kütte temp. peale korrektsiooni" FormatView=3
+MI200 "Toa Seade 11,0-30,0°C" FormatView=3
+MI201 "T.V.Küte  temp. 0-100,0°C" FormatView=3
+MI202 "M.Paak temp. peale korrektsiooni" FormatView=3
+MI203 "Korsten temp. peale korrektsiooni" FormatView=3
+MI204 "Trassivee temp. peale korrektsiooni" FormatView=3
+MI205 "S.Pumba temp. peale korrektsiooni" FormatView=3
+MI206 "V.M.Paagi temp. 0-100,0°C" FormatView=3
+MI207 "vaba 0-100,0°C" FormatView=3
+MI217 "S.Pumba temp. teisendamine täis kraadideks" FormatView=3
+MI218 "M.Paagi temp.teisendus täis kraadideks" FormatView=3
+MI219 "Korstna temp.teisendus täis kraadideks" FormatView=3
+MI220 "KK.võiPK.temp" FormatView=3
+MI221 "KK.võiPK.temp+lisatud kraadid (MP.SISSE)" FormatView=3
+MI222 "TV.temp.+lisatud kraadid(MP.SISSE)" FormatView=3
+MI223 "TV.temp.+lisatud kraadid(MP.VÄLJA)" FormatView=3
+MI251 "F4-6 des.aja nullimiseks" FormatView=3
+MI260 "Leg.järgse taimeri aja liitmine." FormatView=3
+MI261 "Leg.pausi taimeri aja teisendamine (sek.>min.)" FormatView=3
+MI300 "K.K.S.+/-" OprndEnablePowerUp=-1 FormatView=3
+MI301 "Toa seade korrektsioon kellaga" FormatView=3
+MI302 "1.Temp.muutmine +/-3,0°C" FormatView=3
+MI303 "1.Temp.valik" FormatView=3
+MI304 "2.Temp.muutmine +/-3°C" FormatView=3
+MI305 "2.Temp.valik" FormatView=3
+MI306 "Toa seade korrektsioon +0,5°C" FormatView=3
+MI307 "Toa seade korrektsioon -0,5°C" FormatView=3
+MI308 "Toa seade korrektsioon +2°C" FormatView=3
+MI309 "Toa seade korrektsioon -2°C" FormatView=3
+MI310 "KK.korrigeeritud temp.(10,0-65,0°C)" FormatView=3
+MI311 "KK.valitud temp.teisendatud (4-20mA)" FormatView=3
+MI312 "KK.korrigeeritud temp.lüliti" FormatView=3
+MI313 "KK.korrigeeritud temp.teisendamine täis kraadideks" FormatView=3
+MI314 "kk.kütte temp.+lisakraadid SP.sisendi jaoks" FormatView=3
+MI315 "PID: Proportional band - defined in units of 0.1% (P gain)" OprndPowerUp=200 OprndEnablePowerUp=-1 FormatView=3
+MI316 "PID: Integral time - defined in units of 1 second (I gain)" OprndPowerUp=240 OprndEnablePowerUp=-1 FormatView=3
+MI317 "PID: Derivative time - defined in units of 1 second (D gain)" OprndPowerUp=10 OprndEnablePowerUp=-1 FormatView=3
+MI318 "PID: Sample Time - defined in units of 10 mSec .Recommended value=10 to 100 (0.1 to 1 sec)" FormatView=3
+MI319 "PID: sisendi vahemik (madal)" OprndPowerUp=100 OprndEnablePowerUp=-1 FormatView=3
+MI320 "PID: sisendi vahemik (kõrge)" OprndPowerUp=700 OprndEnablePowerUp=-1 FormatView=3
+MI321 "PID: väljundi vahemik (madal)" OprndPowerUp=819 OprndEnablePowerUp=-1 FormatView=3
+MI322 "PID: väljundi vahemik (kõrge)" OprndPowerUp=4095 OprndEnablePowerUp=-1 FormatView=3
+MI323 "PID: väljund väärtus 2-10V" FormatView=3
+MI324 "PID: PID Status" FormatView=3
+MI325 "Auto-tune parameters, 32 MIs - 1 of 32" FormatView=3
+MI357 "Resolution Factor" FormatView=3
+MI358 "Control Value - The P Output" FormatView=3
+MI359 "Control Value - The I Output" FormatView=3
+MI360 "Liivakell F2-2" FormatView=3
+MI362 "Toa Seade 15,0-30,0°C" FormatView=3
+MI363 "Toa Seade 15,0-30,0°C peale valijat" FormatView=3
+MI364 "Control Value - The D Output" FormatView=3
+MI365 "F2-1Sisendi kolmik joonisel" FormatView=3
+MI366 "F2-1Väljundi kolmik joonisel" FormatView=3
+MI367 "F2-1Väikese ringi kolmik joonisel" FormatView=3
+MI368 "F2-1 3T ventiil joonisel" FormatView=3
+MI369 "F2-1 Tsirk. pump joonisel" FormatView=3
+MI370 "KK.Tsirkulatsioonipumba aegrelee" FormatView=3
+MI375 "KK.errori kodeerija" FormatView=3
+MI381 "Toa temp.miinus 1,0°C" FormatView=3
+MI382 "Toa temp.miinus 2,0°C" FormatView=3
+MI383 "Toa temp.miinus 3,0°C" FormatView=3
+MI399 "KK.temp.saatmine SP.sisendi piirajale.(60C°)" FormatView=3
+MI400 "PK.graafiku korrektsioon+/-10,0°C" FormatView=3
+MI401 "PK. graafiku korrektsioon kellaga (25,0-50,0°C)" FormatView=3
+MI402 "1.Temp.valik" FormatView=3
+MI403 "2.Temp.valik" FormatView=3
+MI404 "PK.korrigeeritud temp.lüliti" FormatView=3
+MI405 "PK. graafiku korrektsioon kellaga (25,0-55,0°C" FormatView=3
+MI406 "PK. korrektsioon temp.+,-" FormatView=3
+MI407 "PK.1.Temp.seade+,-" FormatView=3
+MI408 "PK.2.Temp. seade+,-" FormatView=3
+MI409 "PK.kütte temp.+lisakraadid SP.sisendi jaoks" FormatView=3
+MI410 "P.Kütte temp. teisendamine täis kraadideks" FormatView=3
+MI411 "PK.valitud temp.teisendatud (4-20mA)" FormatView=3
+MI412 "PK. graafiku korrektsioon kellaga (25-55°C" FormatView=3
+MI415 "PID: Proportional band - defined in units of 0.1% (P gain)" OprndPowerUp=600 OprndEnablePowerUp=-1 FormatView=3
+MI416 "PID: Integral time - defined in units of 1 second (I gain)" OprndPowerUp=340 OprndEnablePowerUp=-1 FormatView=3
+MI417 "PID: Derivative time - defined in units of 1 second (D gain)" OprndPowerUp=10 OprndEnablePowerUp=-1 FormatView=3
+MI418 "PID: Sample Time - defined in units of 10 mSec .Recommended value=10 to 100 (0.1 to 1 sec)" FormatView=3
+MI419 "PID: sisendi vahemik (madal)" OprndPowerUp=100 OprndEnablePowerUp=-1 FormatView=3
+MI420 "PID: sisendi vahemik (kõrge)" OprndPowerUp=700 OprndEnablePowerUp=-1 FormatView=3
+MI421 "PID: väljundi vahemik (madal)" OprndPowerUp=819 OprndEnablePowerUp=-1 FormatView=3
+MI422 "PID: väljundi vahemik (kõrge)" OprndPowerUp=4095 OprndEnablePowerUp=-1 FormatView=3
+MI423 "PID: väljund väärtus 2-10V" FormatView=3
+MI424 "PID: PID Status" FormatView=3
+MI425 "Auto-tune parameters, 32 MIs - 1 of 32" FormatView=3
+MI457 "Resolution Factor" FormatView=3
+MI458 "Control Value - The P Output" FormatView=3
+MI459 "Control Value - The I Output" FormatView=3
+MI460 "Liivakell F3-2" FormatView=3
+MI461 "Control Value - The D Output" FormatView=3
+MI465 "F3-1Sisendi kolmik joonisel" FormatView=3
+MI466 "F3-1Väljundi kolmik joonisel" FormatView=3
+MI467 "F3-1Väljundi ringi kolmik joonisel" FormatView=3
+MI468 "F3-1 3T ventiil joonisel" FormatView=3
+MI469 "F3-1 Tsirk. pump joonisel" FormatView=3
+MI470 "PK.Tsirk.pumba aegrelee" FormatView=3
+MI475 "PK.errori kodeerija" FormatView=3
+MI480 "F3-6 nädal sisse" FormatView=3
+MI481 "F3-6 tunnid sisse" FormatView=3
+MI482 "F3-6 tunnid nullimine" FormatView=3
+MI483 "F3-6 nädal välja" FormatView=3
+MI484 "F3-6 tunnid välja" FormatView=3
+MI485 "F3-6 tunnid nullimine" FormatView=3
+MI490 "EL.põrandaküte SEES" FormatView=3
+MI491 "KK.+lisatud kraadid elektri PKsisse lülitamiseks" FormatView=3
+MI492 "EL.põrandaküte VÄLJAS" FormatView=3
+MI493 "KK.+lisatud kraadid elektri PKvälja lülitamiseks" FormatView=3
+MI495 "P Kütte temp.+MP sisse" FormatView=3
+MI499 "PK.temp.saatmine SP.sisendi piirajale.(60C°)" FormatView=3
+MI500 "TV.kütte temp. kellaga või ajatu" FormatView=3
+MI501 "TV.kütte temp. miinus 5-20°C (diferents)" FormatView=3
+MI503 "TV.kütte temp. kellaga, ajatu või des.temp." FormatView=3
+MI505 "TV.kütte temp. miinus 5-20°C (diferents MP.-le)" FormatView=3
+MI510 "TV.valitud temp.teisendatud (4-20mA)" FormatView=3
+MI512 "TV. kütte alustamise abi temp." FormatView=3
+MI513 "TV.kütmise alustamiseks valitud kõrgem temp." FormatView=3
+MI515 "TV.kütmise abiks valitud temp.teisendatud (4-20mA)" FormatView=3
+MI519 "F4-1Tsirk.pump joonisel" FormatView=3
+MI521 "F4-1 Kolmik (tagasivool)" FormatView=3
+MI522 "F4-1Kolmik (tagasivool)" FormatView=3
+MI523 "F4-1Kolmik (pealeivool)" FormatView=3
+MI525 "F4-1 Boiler joonisel" FormatView=3
+MI570 "TV.Tsirk.pumba aegrelee" FormatView=3
+MI575 "TV.errori kodeerija" FormatView=3
+MI585 "1. lisaküte logimiseks" FormatView=3
+MI586 "2. lisaküte logimiseks" FormatView=3
+MI587 "TV lisaküte logimiseks" FormatView=3
+MI600 "Õue temp.(täis kraadides)" FormatView=3
+MI601 FormatView=3
+MI602 "Sulatuse lisakütte aeg (sekundites)" FormatView=3
+MI603 "Taimeri aja liitjast" FormatView=3
+MI610 "Veemõõtja (joonisel F5-1)" FormatView=3
+MI611 "Veemõõtja näit L/Min" FormatView=3
+MI612 "Sisendi sagedus Hz (vee voolu)" FormatView=3
+MI616 "Veevoolu min. kiiruse astmed" FormatView=3
+MI617 "F5-1ventiil joonisel" FormatView=3
+MI618 "F5-1 3T/2Tventiilid (joonisel)" FormatView=3
+MI619 "F5-1Tsirk.pump (joonisel)" FormatView=3
+MI622 "F5-1kolmik (tagasivool)" FormatView=3
+MI623 "F5-1Soojuspump (joonisel)" FormatView=3
+MI625 "F5-1lisakütte tenn joonisel" FormatView=3
+MI626 "Väike mahupaak" FormatView=3
+MI629 "F5-1 kolmik (tarbe.tagasivool SP-sse)" FormatView=3
+MI630 "F5-1 (1. käsikraan)" FormatView=3
+MI631 "F5-1 (2. käsikraan)" FormatView=3
+MI632 "F5-1 (3. käsikraan)" FormatView=3
+MI633 "F5-1 (4. käsikraan)" FormatView=3
+MI634 "F5-1 (5. käsikraan)" FormatView=3
+MI670 "SP.Tsirk.pumba aegrelee" FormatView=3
+MI671 "SP.tsirk.pumba kiirus KK.,PK.asendis (0-100%)" FormatView=3
+MI672 "SP.tsirk.pumba kiirus TV.asendis (0-100%)" FormatView=3
+MI673 "SP.tsirk.pumba kiirus KK.,PK.asendis (0-20mA)" FormatView=3
+MI674 "SP.tsirk.pumba kiirus TV.asendis (0-20mA)" FormatView=3
+MI675 "SP.veemõõtja errori kodeerija" FormatView=3
+MI676 "SP.lisakraadid" FormatView=3
+MI1150 "Õue temp min" FormatView=3
+MI1151 "Õue temp max" FormatView=3
+MI1152 "Tao temp min" FormatView=3
+MI1153 "Toa temp max" FormatView=3
+MI1156 "Keskkütte temp min" FormatView=3
+MI1157 "Keskkütte temp max" FormatView=3
+MI1158 "Põrandakütte temp min" FormatView=3
+MI1159 "Põrandakütte temp max" FormatView=3
+MI1160 "Tarbevee küte min" FormatView=3
+MI1161 "Tarbevee küte max" FormatView=3
+MI1162 "Mahupaak temp min" FormatView=3
+MI1163 "Mahupaak temp max" FormatView=3
+MI1164 "Korstna temp min" FormatView=3
+MI1165 "Korstna temp max" FormatView=3
+MI1166 "Trassi vee temp min" FormatView=3
+MI1167 "Trassi vee temp max" FormatView=3
+MI1168 "Soojuspumba temp min" FormatView=3
+MI1169 "Soojuspumba temp max" FormatView=3
+MI1170 "V.M.paagi temp.min" FormatView=3
+MI1171 "V.M.paagi temp.max" FormatView=3
+MI1174 "Voolumõõtja Kw/h min." FormatView=3
+MI1175 "Voolumõõtja Kw/h max" FormatView=3
+MI2270 "F2-6 nädal 3." FormatView=3
+MI2271 "F2-6 tunnid sisse 3." FormatView=3
+MI2272 "F2-6 tunnid nullimine 3." FormatView=3
+MI2273 "F2-6 nädal 3." FormatView=3
+MI2274 "F2-6 tunnid välja 3." FormatView=3
+MI2275 "F2-6 tunnid nullimine 3." FormatView=3
+MI2276 "F2-6 nädal 4." FormatView=3
+MI2277 "F2-6 tunnid sisse 4." FormatView=3
+MI2278 "F2-6 tunnid nullimine 4." FormatView=3
+MI2279 "F2-6 nädal 4." FormatView=3
+MI2280 "F2-6 tunnid välja 4." FormatView=3
+MI2281 "F2-6 tunnid nullimine 4." FormatView=3
+MI2282 "F2-7 nädal 5." FormatView=3
+MI2283 "F2-7 tunnid sisse 5." FormatView=3
+MI2284 "F2-7 tunnid nullimine 5." FormatView=3
+MI2285 "F2-7 nädal 5." FormatView=3
+MI2286 "F2-7 tunnid välja 5." FormatView=3
+MI2287 "F2-7 tunnid nullimine 5." FormatView=3
+MI2288 "F2-7 nädal 6." FormatView=3
+MI2289 "F2-7 tunnid sisse 6" FormatView=3
+MI2290 "F2-7 tunnid nullimine 6." FormatView=3
+MI2291 "F2-7 nädal 6." FormatView=3
+MI2292 "F2-7 tunnid välja 6." FormatView=3
+MI2293 "F2-7 tunnid nullimine 6." FormatView=3
+MI4086 "Interneti salasõna staatus" FormatView=3
+MI4087 "Interneti salasõna" OprndPowerUp=16720 OprndEnablePowerUp=-1 FormatView=4
+MI4088 "Interneti salasõna" OprndPowerUp=21331 OprndEnablePowerUp=-1 FormatView=4
+MI4089 "Interneti salasõna" OprndPowerUp=12849 OprndEnablePowerUp=-1 FormatView=4
+MI4090 "Interneti salasõna" OprndPowerUp=13363 OprndEnablePowerUp=-1 FormatView=4
+MI4091 "Interneti salasõna" OprndEnablePowerUp=-1 FormatView=3
+MI4092 "Interneti salasõna" OprndEnablePowerUp=-1 FormatView=3
+MI4093 "Interneti salasõna" OprndEnablePowerUp=-1 FormatView=3
+MI4094 "Interneti salasõna" OprndEnablePowerUp=-1 FormatView=3
+SI9 "LCD Backlight intensity" FormatView=3
+SI30 "Current second - according to RTC (SS)" FormatView=3
+SI34 "Current day - according to RTC (1-7)" FormatView=3
+SI36 "RTC Current Minute, 0-59" FormatView=3
+SI40 "Touchscreen is being touched - X coordinates" FormatView=3
+SI42 "Active Keypad Entry variable, contains number of active var. Write to activate another var." FormatView=3
+SI252 "Current HMI Display Number (Standard Vision only)" FormatView=3
+SI285 OprndEnablePowerUp=-1 FormatView=3
+ML0 "F2-3 1.Temp.seade" FormatView=3
+ML1 "F2-3 2.Temp.seade" FormatView=3
+ML2 "F2-3 3.Temp.seade" FormatView=3
+ML10 "F3-3 1.Temp.seade" FormatView=3
+ML11 "F3-3 2.Temp.seade" FormatView=3
+ML13 "F3-3 Korrektsioon käsitsi" FormatView=3
+ML20 "F4-2 1.Temp.seade" FormatView=3
+ML21 "F4-2 2.Temp.seade" FormatView=3
+ML23 "F4-2 Käsitsi" FormatView=3
+ML30 "F5-3 SP.tsirk.pumba kiirus KK.,PK.asendis" FormatView=3
+ML31 "F5-3 SP.tsirk.pumba kiirus TV.asendis" FormatView=3
+ML33 "F5-3 SP.lisakraadid" FormatView=3
+ML40 "Mahupaagi sisse lülitamise lisa kraadid" FormatView=3
+ML41 "Tarbevee kütmiseks lisatavad min. kraadid" FormatView=3
+ML45 "Katla pumba sisse lülitamise temp." FormatView=3
+ML46 "Katla pumba välja lülitamise temp." FormatView=3
+ML250 "F4-6 kella nullimiseks" FormatView=3
+I80 "SP.tsirk.pumba käivitamise käsk"
+I81 "3T Ventii suure MP. asendis"
+I82 "SP.3Tventiil KK/PK suunas avatud"
+I83 "SP.Sulatus" FormatView=3
+I84 "Kliimaseadmest"
+I85 "1.Lisaküte (booster) sees" FormatView=3
+I86 "2.Lisaküte (booster) sees" FormatView=3
+I87 "TV.Lisaküte sees (Immersion heater)" FormatView=3
+I88 "TV.Lisakütte käsirežiim" FormatView=3
+I89 "MP.Elektriküte sees" FormatView=3
+I90 "Toa temp.korrektori+" FormatView=3
+I91 "Toa temp.korrektori-" FormatView=3
+I92 "Toa seade aktiveerimine ja veateadete nullimine"
+I94 "Voolumõõtja"
+I95 "SP.vee tsirkulatsiooni kontroll (sisendi sagedus Hz)"
+O96 "SP.kütte sisendile"
+O97 "küte ECO"
+O98 "SP.tarbevee kütte sisendile"
+O99 "SP. sees/väljas (vee tsirk. viga)"
+O100 "KK.Tsirk.pump"
+O101 "PK.Tsirk.pump"
+O102 "TV.Tsirk.pump"
+O103 "SP.Tsirk.pump"
+O104 "Katla pump sees/väljas"
+O105 "SP. Ventiil (sulgeb SP.ja avaneb S.MP.suunas)"
+O106 "Sulatuse lisaküte"
+O107 "Katla õhusiiber"
+O108 "Lisaekraani valgustus"
+O109 "EL.Põrandaküte"
+O110 "TV.lisaküte"
+O111 "Legionella bakteri hävitus"
+T0 "Ekraani luku viide" OprndPowerUp=100 FormatView=1
+T1 "Heledus taimer" OprndPowerUp=12000 FormatView=1 TimerType=2
+T3 "KK.kütte plokeeringu viide (kliima)" OprndPowerUp=6000 FormatView=1
+T10 "Oote aeg" OprndPowerUp=90000 FormatView=1
+T11 "Imppulsi aeg" OprndPowerUp=100 FormatView=1
+T12 "Oote aeg" OprndPowerUp=180000 FormatView=1
+T13 "Imppulsi aeg" OprndPowerUp=100 FormatView=1
+T15 "Toa temp. korrektor töötab" OprndPowerUp=1000 FormatView=1 TimerType=2
+T16 "Näitab toa seade muutmist kellaga" OprndPowerUp=600 FormatView=1 TimerType=2
+T20 "KK.võiPK. temp.lülitamise viide" OprndPowerUp=100 FormatView=1 ResetTimerOnPowerUp=-1
+T21 " TV.kütte alustamise temp.lülitamise viide" OprndPowerUp=100 FormatView=1 ResetTimerOnPowerUp=-1
+T22 "SP.lülitamise viide KK.või PK.järgi (kütmine)" OprndPowerUp=100 FormatView=1 ResetTimerOnPowerUp=-1
+T23 "SP.tarbevee kütte sisse lülitamise viide" OprndPowerUp=100 FormatView=1 ResetTimerOnPowerUp=-1
+T24 "TV.Legionella tõrje imp.lõpetamine" OprndPowerUp=40 FormatView=1 ResetTimerOnPowerUp=-1
+T25 "Leg.reziimi järgus pausi alustamise viide.(2min.)" OprndPowerUp=12000 FormatView=1
+T26 "Leg.reziimi järgus pausi aeg.(20min.)" OprndPowerUp=120000 FormatView=1
+T30 "KK.Tsirk.pumba aegrelee" OprndPowerUp=8640000 FormatView=1 ResetTimerOnPowerUp=-1
+T31 "KK.Tsirk.pumba aegrelee" OprndPowerUp=50 FormatView=1 ResetTimerOnPowerUp=-1
+T32 "KK.Tsirk.pumba aegrelee (pumba intervall 1kuu)" OprndPowerUp=1000 FormatView=1 ResetTimerOnPowerUp=-1 TimerType=2
+T33 "PK.Tsirk.pumba aegrelee" OprndPowerUp=8640000 FormatView=1 ResetTimerOnPowerUp=-1
+T34 "PK.Tsirk.pumba aegrelee" OprndPowerUp=50 FormatView=1 ResetTimerOnPowerUp=-1
+T35 "PK.Tsirk.pumba aegrelee (pumba intervall 1kuu)" OprndPowerUp=1000 FormatView=1 ResetTimerOnPowerUp=-1 TimerType=2
+T36 "TV.Tsirk.pumba aegrelee" OprndPowerUp=8640000 FormatView=1
+T37 "TV.Tsirk.pumba aegrelee" OprndPowerUp=50 FormatView=1
+T38 "TV.Tsirk.pumba aegrelee (pump töötab)" OprndPowerUp=1000 FormatView=1 ResetTimerOnPowerUp=-1 TimerType=2
+T39 "SP.Tsirk.pumba aegrelee" OprndPowerUp=8640000 FormatView=1 ResetTimerOnPowerUp=-1
+T40 "SP.Tsirk.pumba aegrelee" OprndPowerUp=50 FormatView=1
+T41 ".Tsirk.pumba aegrelee (pumba intervall 1kuu)" OprndPowerUp=1000 FormatView=1 ResetTimerOnPowerUp=-1 TimerType=2
+T42 "MP. sees/väljas viide" OprndPowerUp=6000 FormatView=1
+T43 "Õhusiibri käsitsi avamine" OprndPowerUp=360000 FormatView=1 ResetTimerOnPowerUp=-1 TimerType=2
+T46 "TV.küttmise RESi viide (1min) MP.-le" OprndPowerUp=6000 FormatView=1
+T47 "TV.Legionella alustamise lua viide (1min)" OprndPowerUp=6000 FormatView=1 ResetTimerOnPowerUp=-1
+T50 "SP.Tsirk.pumba stopi viide" OprndPowerUp=18000 FormatView=1 ResetTimerOnPowerUp=-1 TimerType=2
+T55 "vee voolu min.kiiruse viide" OprndPowerUp=18000 FormatView=1
+T58 "Veemõõtja sümboli keerutaja" OprndPowerUp=30 FormatView=1
+T59 "Veemõõtja sümboli keerutaja (RES)" OprndPowerUp=10 FormatView=1
+T70 "PK. 1.temp. korrektsioon kellaga plussi nupp" OprndPowerUp=100 FormatView=1
+T71 "PK. 1.temp. korrektsioon kellaga miinuse nupp" OprndPowerUp=100 FormatView=1
+T72 "PK. 2.temp. korrektsioon kellaga plussi nupp" OprndPowerUp=100 FormatView=1
+T73 "PK. 2.temp. korrektsioon kellaga miinuse nupp" OprndPowerUp=100 FormatView=1
+T74 "PK. temp. korrektsiooni plussi nupp" OprndPowerUp=100 FormatView=1
+T75 "PK. temp. korrektsiooni miinuse nupp" OprndPowerUp=100 FormatView=1
+T76 "F3-4  1.Temp.taimer" FormatView=1 TimerType=2
+T77 "F3-5  2.Temp.taimer" FormatView=1 TimerType=2
+T80 "TV. 1.temp. korrektsioon kellaga plussi nupp" OprndPowerUp=100 FormatView=1
+T81 "TV. 1.temp. korrektsioon kellaga miinuse nupp" OprndPowerUp=100 FormatView=1
+T82 "TV. 2.temp. korrektsioon kellaga plussi nupp" OprndPowerUp=100 FormatView=1
+T83 "TV. 2.temp. korrektsioon kellaga miinuse nupp" OprndPowerUp=100 FormatView=1
+T84 "TV.ajatu temp.valiku plussi nupp" OprndPowerUp=100 FormatView=1
+T85 "TV.ajatu temp.valiku miinuse nupp" OprndPowerUp=100 FormatView=1
+T86 "F4-3  1.Temp.taimer" FormatView=1 TimerType=2
+T87 "F4-4  2.Temp.taimer" FormatView=1 TimerType=2
+T90 "TV.kütte temp.lülitamise viide" OprndPowerUp=24000 FormatView=1 ResetTimerOnPowerUp=-1
+DW0 "Hetke aeg sajandi algusest sekundites" FormatView=3
+DW1 "TV. pumba viimase käivituse aeg." FormatView=3
+DW2 "Katla pumba viimase käivituse aeg." FormatView=3
+DW20 "Voolumõõtja viimase impulsi ajahetk" FormatView=3
+DW21 "Viimase voolumõõtja impulsi kaugus praegusest hetkes" FormatView=3
+SDW43 "10mS Timer Counter, Stable, updates at beginning of program scan only" FormatView=3

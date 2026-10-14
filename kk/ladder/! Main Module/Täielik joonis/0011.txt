@@ -1,0 +1,2 @@
+// Kollektori ringi nooled
+(CONTACT MB13 "KK.Nooled Si-Vä" -> COIL MB26 "Kollektori ringvoolu ahel ja KK ahel" | (CONTACT MB26 "Kollektori ringvoolu ahel ja KK ahel" | CONTACT MB20 "PK.Nooled Si-Vä") -> COIL MB28 "Kollektori nooled" | (CONTACT MB25 "TV.Nooled" | CONTACT MB28 "Kollektori nooled") -> COIL MB29 "nool välja")

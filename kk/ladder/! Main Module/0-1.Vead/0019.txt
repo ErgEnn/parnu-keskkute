@@ -1,0 +1,1 @@
+CONTACT MB630 "Veemõõtja vea teade lisaekraani jaoks" -> RESET_COIL MB338 "KK.errorid" -> RESET_COIL MB438 "PK.errorid" -> RESET_COIL MB538 "TV.errorid" -> SET_COIL MB638 "SP.veemõõtja error"

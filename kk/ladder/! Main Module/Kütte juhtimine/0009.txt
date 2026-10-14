@@ -1,0 +1,2 @@
+// SP.Analoog sisendi signaali valimine ja3Tventiilide juhtimise valimine (KK.või PK.temp. jargi)
+(GREATER_THAN(MI312 "KK.korrigeeritud temp.lüliti", MI404 "PK.korrigeeritud temp.lüliti") -> SET_COIL MB200 "Kõrgema temp.valija KK.võiPK." | LESS_THAN(MI312 "KK.korrigeeritud temp.lüliti", MI404 "PK.korrigeeritud temp.lüliti") -> RESET_COIL MB200 "Kõrgema temp.valija KK.võiPK.")

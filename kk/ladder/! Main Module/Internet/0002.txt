@@ -1,0 +1,2 @@
+// Digitaalsete andmete teisendamine logimiseks.
+(CONTACT I87 "TV.Lisaküte sees (Immersion heater)" -> STORE_DIRECT(D#10) => MI587 "TV lisaküte logimiseks" | INVERTED_CONTACT I87 "TV.Lisaküte sees (Immersion heater)" -> STORE_ZERO_NUMERIC MI587 "TV lisaküte logimiseks")

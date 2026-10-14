@@ -1,0 +1,2 @@
+// Kellade temp.valiku pluss poole piiramine.
+(GREATER_THAN(MI302 "1.Temp.muutmine +/-3,0°C", D#0) -> SET_COIL MB391 "1.Temp.muutja +poole piiramine." | LESS_EQUAL(MI302 "1.Temp.muutmine +/-3,0°C", D#0) -> RESET_COIL MB391 "1.Temp.muutja +poole piiramine." | GREATER_THAN(MI304 "2.Temp.muutmine +/-3°C", D#0) -> SET_COIL MB392 "2.Temp.muutja +poole piiramine." | LESS_EQUAL(MI304 "2.Temp.muutmine +/-3°C", D#0) -> RESET_COIL MB392 "2.Temp.muutja +poole piiramine.")

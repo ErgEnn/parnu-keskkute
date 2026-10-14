@@ -1,0 +1,2 @@
+// Seadistab programmi esimese jooksu ajal interneti kaardi ja avab vajaliku pesa
+CONTACT SB2 "Power-up bit" -> ETH_COM_INIT [bin <20 bytes sha1:e19806e1eed3>] -> SET_PLC_NETWORK_ID(D#0) -> SET_PLC_NAME [bin <10 bytes sha1:44212851bcda>] -> ETH_SOCKET_INIT [bin <12 bytes sha1:7b70741f1ba6>] -> ETH_SOCKET_INIT [bin <12 bytes sha1:f826713aaa8f>] -> SET_ETH_PASS(MI4087 "Interneti salasõna") => MI4086 "Interneti salasõna staatus" [bin <2 bytes sha1:1489f923c4dc>]

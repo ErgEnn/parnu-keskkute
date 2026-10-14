@@ -1,0 +1,2 @@
+// Kolmikud joonisel
+(INVERTED_CONTACT MB25 "TV.Nooled" -> INVERTED_CONTACT MB30 "TV.Tagasivool (MP-sse)" -> STORE_DIRECT(D#0) => MI521 "F4-1 Kolmik (tagasivool)" | CONTACT MB25 "TV.Nooled" -> INVERTED_CONTACT MB30 "TV.Tagasivool (MP-sse)" -> STORE_DIRECT(D#1) => MI521 "F4-1 Kolmik (tagasivool)" | CONTACT MB25 "TV.Nooled" -> CONTACT MB30 "TV.Tagasivool (MP-sse)" -> STORE_DIRECT(D#2) => MI521 "F4-1 Kolmik (tagasivool)")

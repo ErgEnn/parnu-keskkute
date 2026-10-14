@@ -1,0 +1,2 @@
+// SP.tsirkulatsioonipumba kiiruse valimine TV.asendis.
+(RISE_CONTACT MB1526 "F5-3 (SP.tsirk.pumba TV.seade pluss nupp)" -> LESS_THAN(MI672 "SP.tsirk.pumba kiirus TV.asendis (0-100%)", D#100) -> ADD(MI672 "SP.tsirk.pumba kiirus TV.asendis (0-100%)", D#10) => MI672 "SP.tsirk.pumba kiirus TV.asendis (0-100%)" | GREATER_EQUAL(MI672 "SP.tsirk.pumba kiirus TV.asendis (0-100%)", D#100) -> COIL MB1527 "F5-3 (SP.tsirk.pumba TV.seade plussi nupu peitmine)" -> STORE_DIRECT(D#100) => MI672 "SP.tsirk.pumba kiirus TV.asendis (0-100%)")

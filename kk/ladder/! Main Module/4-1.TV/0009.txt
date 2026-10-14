@@ -1,0 +1,2 @@
+// TV.Boiler joonisel
+GREATER_EQUAL(MI195 "TV. temp. teisendamine täis kraadideks", D#35) -> COIL MB23 "TV.Boileri temp. joonisel (35°C)"

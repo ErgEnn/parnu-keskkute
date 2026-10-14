@@ -1,0 +1,1 @@
+RISE_CONTACT MB1311 "Nupp PID PK.aknast esimesse infoaknasse" -> STORE_DIRECT(SI252 "Current HMI Display Number (Standard Vision only)") => MI10 "PID akna aadres"

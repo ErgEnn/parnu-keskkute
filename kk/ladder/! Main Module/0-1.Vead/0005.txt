@@ -1,0 +1,2 @@
+// Errori aknast tagasi vigasesse aknasse F2-6,F2-7
+EQUAL(SI252 "Current HMI Display Number (Standard Vision only)", D#100) -> RISE_CONTACT MB1142 "Nupp errori aknast tagasi vigasesse aknasse" -> ((EQUAL(MI12 "Täpsustav error", D#5) | EQUAL(MI12 "Täpsustav error", D#6)) -> COIL MB2290 "F2-6 errori aknast vigasesse aknasse" -> RESET_COIL MB338 "KK.errorid" | (EQUAL(MI12 "Täpsustav error", D#7) | EQUAL(MI12 "Täpsustav error", D#8)) -> COIL MB2291 "F2-7 errori aknast vigasesse aknasse" -> RESET_COIL MB338 "KK.errorid")

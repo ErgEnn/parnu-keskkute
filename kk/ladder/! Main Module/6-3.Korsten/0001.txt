@@ -1,0 +1,2 @@
+// Katla pumba sisse ja välja lülitamise temp. teisendamine (MI>MLiks)
+(STORE_DIRECT(MI167 "Katla pumba SISSE lülitamise temp.seade") => ML45 "Katla pumba sisse lülitamise temp." | STORE_DIRECT(MI168 "Katla pumba VÄLJA lülitamise temp.seade") => ML46 "Katla pumba välja lülitamise temp.")

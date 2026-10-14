@@ -1,0 +1,2 @@
+// Nooled joonisel
+((CONTACT MB316 "KK.3T kraan suletud" | CONTACT MB317 "KK.3T kraan osaliselt avatud") -> CONTACT MB8 "KK.pumba lülitamine joonisel" -> COIL MB12 "KK.Nool-nurk" | (CONTACT MB315 "KK.3T kraan avatud" | CONTACT MB317 "KK.3T kraan osaliselt avatud") -> CONTACT MB8 "KK.pumba lülitamine joonisel" -> COIL MB13 "KK.Nooled Si-Vä" | CONTACT MB8 "KK.pumba lülitamine joonisel" -> COIL MB14 "KK.Nooled Sees")

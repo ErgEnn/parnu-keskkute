@@ -1,0 +1,1 @@
+CONTACT O107 "Katla õhusiiber" -> RISE_CONTACT MB1126 "Õhusiibri avamine lüliti" -> CONTACT MB59 "Katla õhusiibri reset impulss" -> RESET_COIL T43 "Õhusiibri käsitsi avamine"

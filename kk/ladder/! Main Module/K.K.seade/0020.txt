@@ -1,0 +1,2 @@
+// KK.kütte lüliti plokeerimine KLIIMA SEADME töötamisel jahutus reziimis või kui vajalik küttevee temp.on alla toa temperatuuri.
+INVERTED_CONTACT I84 "Kliimaseadmest" -> COIL T3 "KK.kütte plokeeringu viide (kliima)"

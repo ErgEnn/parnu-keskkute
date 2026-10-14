@@ -1,0 +1,2 @@
+// Erinevate errorite eristamine lisaekraani jaoks
+(CONTACT MB330 "KK.PIDi vea teade lisaekraani jaoks" | CONTACT MB331 "KK.1temp.1kell vea teade lisaekraani jaoks" | CONTACT MB332 "KK.1temp.2kell vea teade lisaekraani jaoks" | CONTACT MB334 "KK.2temp.1kell vea teade lisaekraani jaoks" | CONTACT MB335 "KK.2temp.2kell vea teade lisaekraani jaoks") -> RESET_COIL MB438 "PK.errorid" -> RESET_COIL MB538 "TV.errorid" -> RESET_COIL MB638 "SP.veemõõtja error" -> SET_COIL MB338 "KK.errorid"

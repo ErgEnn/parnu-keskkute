@@ -1,0 +1,2 @@
+// M.Paagi sisse/välja lülitamine
+(DIV(MI202 "M.Paak temp. peale korrektsiooni", D#10) => MI218 "M.Paagi temp.teisendus täis kraadideks" -> ADD(MI220 "KK.võiPK.temp", MI164 "MP.SISSE lülitamise temp.seade") => MI221 "KK.võiPK.temp+lisatud kraadid (MP.SISSE)" | ADD(MI503 "TV.kütte temp. kellaga, ajatu või des.temp.", MI165 "MP.VÄLJA lülitamise temp.seade") => MI223 "TV.temp.+lisatud kraadid(MP.VÄLJA)" -> ADD(MI503 "TV.kütte temp. kellaga, ajatu või des.temp.", MI164 "MP.SISSE lülitamise temp.seade") => MI222 "TV.temp.+lisatud kraadid(MP.SISSE)")

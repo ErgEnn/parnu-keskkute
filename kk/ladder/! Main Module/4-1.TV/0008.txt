@@ -1,0 +1,1 @@
+(INVERTED_CONTACT MB31 "TV.1.Pealevool(MP-st)" -> (INVERTED_CONTACT MB32 "TV.2.Pealevool (SP-st)" -> STORE_DIRECT(D#0) => MI523 "F4-1Kolmik (pealeivool)" | CONTACT MB32 "TV.2.Pealevool (SP-st)" -> STORE_DIRECT(D#1) => MI523 "F4-1Kolmik (pealeivool)") | CONTACT MB31 "TV.1.Pealevool(MP-st)" -> STORE_DIRECT(D#2) => MI523 "F4-1Kolmik (pealeivool)")

@@ -1,0 +1,2 @@
+// Vee voolu min.kiiruse muutmine
+LESS_THAN(MI611 "Veemõõtja näit L/Min", MI616 "Veevoolu min. kiiruse astmed") -> CONTACT SB3 "1 second pulse ( a squarewave of 1 second duration, with a 50% duty cycle)" -> COIL MB615 "Veevoolu min.kiirus (tekst)"

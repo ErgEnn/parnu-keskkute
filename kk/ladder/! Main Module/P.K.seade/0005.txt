@@ -1,0 +1,2 @@
+// PK.korrigeeritud väljundi lüliti (väljund valijasse mis valib kütte temperatuuri KK või PK järgi)
+(CONTACT MB405 "PK lüliti peale kõiki blokeeringuid" -> STORE_DIRECT(MI410 "P.Kütte temp. teisendamine täis kraadideks") => MI404 "PK.korrigeeritud temp.lüliti" | INVERTED_CONTACT MB405 "PK lüliti peale kõiki blokeeringuid" -> STORE_DIRECT(D#10) => MI404 "PK.korrigeeritud temp.lüliti")

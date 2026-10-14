@@ -1,0 +1,1 @@
+(INVERTED_CONTACT MB1122 "TV.Lüliti" | RISE_CONTACT T46 "TV.küttmise RESi viide (1min) MP.-le" | CONTACT I88 "TV.Lisakütte käsirežiim" | CONTACT I82 "SP.3Tventiil KK/PK suunas avatud" | FALL_CONTACT O102 "TV.Tsirk.pump" -> INVERTED_CONTACT MB1451 "TV.küte (ilma SP.-ta ) lüliti") -> RESET_COIL MB501 "TV.kütte diferents (tsirk.pumbale ja EL.küttele)"

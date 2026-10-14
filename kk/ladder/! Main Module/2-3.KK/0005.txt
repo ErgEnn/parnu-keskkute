@@ -1,0 +1,2 @@
+// KK.vee temperatuuri valimine käsitsi.(indikaator)
+GREATER_EQUAL(MI300 "K.K.S.+/-", D#100) -> COIL MB1231 "F2-3 (käsi valik temp.seade plussi nupu peitmine)"

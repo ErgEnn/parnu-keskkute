@@ -1,0 +1,8 @@
+// SP. ringi nooled
+[L] INVERTED_CONTACT T55 "vee voolu min.kiiruse viide" -> CONTACT MB38 "SP.pumba lülitamine joonisel" [J2]
+[J2] (COIL MB50 "SP. nooled" | INVERTED_CONTACT I82 "SP.3Tventiil KK/PK suunas avatud" -> INVERTED_CONTACT MB61 "F5-1 käsikraanid (1 ja 2 lahti/kinni) )" -> COIL MB49 "Nool nurk") [R]
+[J2] CONTACT I82 "SP.3Tventiil KK/PK suunas avatud" [J3]
+[J3] COIL MB43 "Nooled SP.st TV.le" -> COIL MB35 "TV.Tagasivool (SP-sse)" [R]
+[J3] INVERTED_CONTACT MB62 "F5-1 käsikraanid (3 -5 lahti/kinni) )" [J4]
+[J4] COIL MB60 "F5-1 TV.Tagasivool (SP-sse)" [R]
+[J2] CONTACT MB62 "F5-1 käsikraanid (3 -5 lahti/kinni) )" -> (CONTACT MB34 "F5-1Tagasivool(2.MP.)" | CONTACT MB35 "TV.Tagasivool (SP-sse)") [J4]

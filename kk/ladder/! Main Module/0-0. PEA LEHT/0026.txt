@@ -1,0 +1,1 @@
+CONTACT I94 "Voolumõõtja" -> COIL MB1176 "Voolumõõtja impulss"

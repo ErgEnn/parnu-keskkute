@@ -1,0 +1,32 @@
+ID=1 Storage_Name="String_Library_1" Version=1 CRC=1736719843 IsCurrentStorage=true
+ID=10 Storage_Name="String_Library_10" Version=1 CRC=1736719843
+ID=11 Storage_Name="String_Library_11" Version=1 CRC=1736719843
+ID=12 Storage_Name="String_Library_12" Version=1 CRC=1736719843
+ID=13 Storage_Name="String_Library_13" Version=1 CRC=1736719843
+ID=14 Storage_Name="String_Library_14" Version=1 CRC=1736719843
+ID=15 Storage_Name="String_Library_15" Version=1 CRC=1736719843
+ID=16 Storage_Name="String_Library_16" Version=1 CRC=1736719843
+ID=17 Storage_Name="String_Library_17" Version=1
+ID=18 Storage_Name="String_Library_18" Version=1
+ID=19 Storage_Name="String_Library_19" Version=1
+ID=2 Storage_Name="String_Library_2" Version=1 CRC=1736719843
+ID=20 Storage_Name="String_Library_20" Version=1
+ID=21 Storage_Name="String_Library_21" Version=1
+ID=22 Storage_Name="String_Library_22" Version=1
+ID=23 Storage_Name="String_Library_23" Version=1
+ID=24 Storage_Name="String_Library_24" Version=1
+ID=25 Storage_Name="String_Library_25" Version=1
+ID=26 Storage_Name="String_Library_26" Version=1
+ID=27 Storage_Name="String_Library_27" Version=1
+ID=28 Storage_Name="String_Library_28" Version=1
+ID=29 Storage_Name="String_Library_29" Version=1
+ID=3 Storage_Name="String_Library_3" Version=1 CRC=1736719843
+ID=30 Storage_Name="String_Library_30" Version=1
+ID=31 Storage_Name="String_Library_31" Version=1
+ID=32 Storage_Name="String_Library_32" Version=1
+ID=4 Storage_Name="String_Library_4" Version=1 CRC=1736719843
+ID=5 Storage_Name="String_Library_5" Version=1 CRC=1736719843
+ID=6 Storage_Name="String_Library_6" Version=1 CRC=1736719843
+ID=7 Storage_Name="String_Library_7" Version=1 CRC=1736719843
+ID=8 Storage_Name="String_Library_8" Version=1 CRC=1736719843
+ID=9 Storage_Name="String_Library_9" Version=1 CRC=1736719843

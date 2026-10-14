@@ -1,0 +1,2 @@
+// T.Vee temp. teisendamine täis kraadideks
+DIV(MI201 "T.V.Küte  temp. 0-100,0°C", D#10) => MI195 "TV. temp. teisendamine täis kraadideks"

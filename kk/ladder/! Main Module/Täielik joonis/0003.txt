@@ -1,0 +1,2 @@
+// KK.Nooled joonisel
+(INVERTED_CONTACT MB11 "KK.3TKraan joonisel" -> CONTACT MB8 "KK.pumba lülitamine joonisel" -> COIL MB12 "KK.Nool-nurk" | CONTACT MB11 "KK.3TKraan joonisel" -> COIL MB13 "KK.Nooled Si-Vä" | (CONTACT MB12 "KK.Nool-nurk" | CONTACT MB13 "KK.Nooled Si-Vä") -> COIL MB14 "KK.Nooled Sees")

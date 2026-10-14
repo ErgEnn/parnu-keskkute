@@ -1,0 +1,6 @@
+ElementID=1 GeneralType=1 ElementModel="V-570" RailIndex=-1 ElementPosition=-1 ExtenConfig="11111111"
+ElementID=10 GeneralType=3 ElementModel="IO-AO6X" RailIndex=1 ElementPosition=3 InputsPNPStatus="0X2" OutputsPNPstatus="0X2" BinaryData=0x0000 VAC_Value="0" ExtenConfig="11111111"
+ElementID=11 GeneralType=3 ElementModel="IO-DI16" RailIndex=1 ElementPosition=4 InputsPNPStatus="8X1,8X1" OutputsPNPstatus="0X2" BinaryData=0x0000 VAC_Value="0" ExtenConfig="11111111"
+ElementID=15 GeneralType=3 ElementModel="IO-TO16" RailIndex=1 ElementPosition=5 InputsPNPStatus="0X2" OutputsPNPstatus="8X2,8X2" BinaryData=0x0000 VAC_Value="0" ExtenConfig="11111111"
+ElementID=2 GeneralType=3 ElementModel="IO-PT4x" RailIndex=1 ElementPosition=1 InputsPNPStatus="0X2" OutputsPNPstatus="0X2" BinaryData=0x0000 VAC_Value="0" ExtenConfig="11111111"
+ElementID=9 GeneralType=3 ElementModel="IO-ATC8" RailIndex=1 ElementPosition=2 InputsPNPStatus="0X2" OutputsPNPstatus="0X2" BinaryData=0x0000 VAC_Value="0" ExtenConfig="11111111"

@@ -1,0 +1,2 @@
+// SP.Sulatuse lisakütte reziimid
+((INVERTED_CONTACT I83 "SP.Sulatus" -> INVERTED_CONTACT O106 "Sulatuse lisaküte" | CONTACT MB52 "SP.Vilkuv tekst (F5-2 SULATUS)") -> STORE_DIRECT(D#0) => MI52 "SP.tekstid (SULATUS)" | CONTACT I83 "SP.Sulatus" -> (INVERTED_CONTACT MB52 "SP.Vilkuv tekst (F5-2 SULATUS)" -> STORE_DIRECT(D#1) => MI52 "SP.tekstid (SULATUS)" | CONTACT SB3 "1 second pulse ( a squarewave of 1 second duration, with a 50% duty cycle)" -> COIL MB52 "SP.Vilkuv tekst (F5-2 SULATUS)"))

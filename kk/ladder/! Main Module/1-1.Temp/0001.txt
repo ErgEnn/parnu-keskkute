@@ -1,0 +1,2 @@
+// Toa seade muutuuse näitamine joonisel
+(LESS_THAN(MI306 "Toa seade korrektsioon +0,5°C", MI197 "Toa temp. peale korrektsiooni") -> COIL MB131 "KK.korrektori -joonisel" -> STORE_DIRECT(D#0) => MI75 "Toa seade seisund joonisel" | INVERTED_CONTACT MB130 "KK.korrektori+joonisel" -> INVERTED_CONTACT MB131 "KK.korrektori -joonisel" -> STORE_DIRECT(D#1) => MI75 "Toa seade seisund joonisel" | GREATER_THAN(MI307 "Toa seade korrektsioon -0,5°C", MI197 "Toa temp. peale korrektsiooni") -> COIL MB130 "KK.korrektori+joonisel" -> STORE_DIRECT(D#2) => MI75 "Toa seade seisund joonisel")

@@ -1,0 +1,2 @@
+// Katla pilt joonisel
+(CONTACT MB54 "Katla pumba lülitamine joonisel" -> RISE_CONTACT SB7 "100 mS pulse" -> INCREMENT_ELEMENT => MI170 "Katla joonis" -> GREATER_EQUAL(MI170 "Katla joonis", D#5) -> STORE_ZERO_NUMERIC MI170 "Katla joonis" | INVERTED_CONTACT MB54 "Katla pumba lülitamine joonisel" -> STORE_DIRECT(D#5) => MI170 "Katla joonis")

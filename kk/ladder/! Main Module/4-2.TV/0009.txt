@@ -1,0 +1,1 @@
+(CONTACT MB1418 "F4-2 (temp.seade miinuse nupp)" -> COIL T85 "TV.ajatu temp.valiku miinuse nupp" | CONTACT MB1420 "F4-2 (temp.seade plussi nupp)" -> COIL T84 "TV.ajatu temp.valiku plussi nupp")

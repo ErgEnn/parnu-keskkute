@@ -1,0 +1,1 @@
+(CONTACT I85 "1.Lisaküte (booster) sees" -> STORE_DIRECT(D#11) => MI585 "1. lisaküte logimiseks" | INVERTED_CONTACT I85 "1.Lisaküte (booster) sees" -> STORE_DIRECT(D#1) => MI585 "1. lisaküte logimiseks")

@@ -1,0 +1,1 @@
+CONTACT MB328 "Toa temp. näidik" -> (RISE_CONTACT MB342 "Toa temp. korrek. +" -> LESS_THAN(MI362 "Toa Seade 15,0-30,0°C", D#300) -> ADD(MI362 "Toa Seade 15,0-30,0°C", D#5) => MI362 "Toa Seade 15,0-30,0°C" | RISE_CONTACT MB343 "Toa temp. korrek. -" -> GREATER_THAN(MI362 "Toa Seade 15,0-30,0°C", D#150) -> SUB(MI362 "Toa Seade 15,0-30,0°C", D#5) => MI362 "Toa Seade 15,0-30,0°C")

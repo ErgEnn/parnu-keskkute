@@ -1,0 +1,1 @@
+(CONTACT MB638 "SP.veemõõtja error" -> RISE_CONTACT MB640 ".SP.veemõõtja errori koodi loendurile" -> INCREMENT_ELEMENT => MI675 "SP.veemõõtja errori kodeerija" | INVERTED_CONTACT MB639 "SP.veemõõtja errori kood" -> GREATER_EQUAL(MI675 "SP.veemõõtja errori kodeerija", D#7) -> STORE_ZERO_NUMERIC MI675 "SP.veemõõtja errori kodeerija")

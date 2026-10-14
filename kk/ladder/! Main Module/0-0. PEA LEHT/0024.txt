@@ -1,0 +1,1 @@
+GREATER_THAN(MI22 "Aeg viimasest impulsist", D#0) -> DIV(D#720000, MI22 "Aeg viimasest impulsist") => MI23 "Vatid viimasest impulsist"

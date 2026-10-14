@@ -1,0 +1,1 @@
+(INVERTED_CONTACT MB1123 "SP.Lüliti" | INVERTED_CONTACT I81 "3T Ventii suure MP. asendis") -> COIL T50 "SP.Tsirk.pumba stopi viide"

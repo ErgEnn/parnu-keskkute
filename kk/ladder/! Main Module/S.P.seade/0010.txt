@@ -1,0 +1,2 @@
+// Sulatuse lisaküte (taimeri RES.)
+(MUL(MI601, D#60) => MI602 "Sulatuse lisakütte aeg (sekundites)" | INVERTED_CONTACT I83 "SP.Sulatus" -> (RISE_CONTACT SB3 "1 second pulse ( a squarewave of 1 second duration, with a 50% duty cycle)" -> INCREMENT_ELEMENT => MI603 "Taimeri aja liitjast" | GREATER_EQUAL(MI603 "Taimeri aja liitjast", MI602 "Sulatuse lisakütte aeg (sekundites)") -> STORE_ZERO_NUMERIC MI601 -> STORE_ZERO_NUMERIC MI603 "Taimeri aja liitjast" -> RESET_COIL O106 "Sulatuse lisaküte"))

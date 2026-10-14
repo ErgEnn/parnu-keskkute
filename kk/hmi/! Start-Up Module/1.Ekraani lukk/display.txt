@@ -1,0 +1,4 @@
+DISPLAY "1.Ekraani lukk" MODULE "! Start-Up Module" LADDER "0.1.Lukk" LOCKED
+  ColorBack=74 PaletteID=1 GUID=775 DownLoadDirtyBit=-1 ColorDisabledGradient=102 ColorDisabledText=68 ColorFocusGradient=98 ColorFocusText=6 ColorMarkingGradient=98 ColorMarkingText=6 IsDisplayedOpType=1 IsDisplayedOpAddress=1001
+  IMAGE 0118_Winter-HD-Wallpaper1.bmp 
+  VAR @129,187 64x53 "Variable 338" link=MB1100 "taba asend" touch=MB1101 "taba vajutus" GroupID=-1 ColorBack=-1 HatchStyle=4 Binary=<72 bytes sha1:4886799741a8> TouchOprndAddr=1101 VarType=1 Alignment=4 VarOprndType=1 VarOprndAddr=1100 DefaultDisplay=2 GUID=776 DownLoadDirtyBit=-1 EnabledOpAddr=-1 VisibleOpAddr=-1 HighlightOpAddr=-1 KeypadSuccessOpAddr=-1 TabIndex=255 ColorBackTouch=103 StrStorageOprndAddr=-1 StrStorageFont=282392660 image=0095_stock_lock2.bmp,0096_stock_lock open2.bmp

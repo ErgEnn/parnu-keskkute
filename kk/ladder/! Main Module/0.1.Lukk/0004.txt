@@ -1,0 +1,1 @@
+RISE_CONTACT MB1102 "Tagasi eelmisse aknasse" -> RESET_COIL MB1100 "taba asend" -> LOAD_LAST_HMI_PAGE

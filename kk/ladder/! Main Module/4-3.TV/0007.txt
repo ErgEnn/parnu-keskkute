@@ -1,0 +1,2 @@
+// 1.Temp.valiku kellad sees/väljas
+((CONTACT MB85 "F4-3 1temp. 1.kell sees,väljas" | CONTACT MB86 "F4-3 1temp. 2.kell sees,väljas") -> INVERTED_CONTACT MB187 "F4-4  2.temp.taimer" | CONTACT MB185 "F4-3 1.temp.taimer") -> COIL MB96 "F4-3 kell sees/väljas"

@@ -1,0 +1,2 @@
+// KK. 3Tventiili juhtimine
+(CONTACT MB305 "KK lüliti peale kliima seadet ja ooterežiimi." -> COIL MB321 "KK.PIDi väljundi juhtimine" | INVERTED_CONTACT MB305 "KK lüliti peale kliima seadet ja ooterežiimi." -> COIL MB322 "KK.3T ventiil suletud")

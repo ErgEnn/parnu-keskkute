@@ -1,0 +1,2 @@
+// PK.korrigeeritud temp.teisendamine (4-20 mA) ja saatmine SP.le
+DIV(MI401 "PK. graafiku korrektsioon kellaga (25,0-50,0°C)", D#10) => MI410 "P.Kütte temp. teisendamine täis kraadideks" -> ADD(MI410 "P.Kütte temp. teisendamine täis kraadideks", MI676 "SP.lisakraadid") => MI499 "PK.temp.saatmine SP.sisendi piirajale.(60C°)" -> LESS_THAN(MI499 "PK.temp.saatmine SP.sisendi piirajale.(60C°)", D#56) -> COIL MB499 "PK.temp.saatmine SP.sisendi piiraja.(60C°)"

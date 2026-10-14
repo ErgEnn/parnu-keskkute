@@ -1,0 +1,2 @@
+// 1.Temp.valiku kellad sees/väljas
+(CONTACT MB75 "F2-4 1temp. 1.kell sees,väljas" | CONTACT MB76 "F2-4 1temp. 2.kell sees,väljas") -> COIL MB90 "F2-4 kell sees/väljas"

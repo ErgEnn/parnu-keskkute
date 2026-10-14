@@ -1,0 +1,2 @@
+// Nullimise nupu näitamine/peitmine
+(EQUAL(MI11 "Errori tekstid", D#2) -> RESET_COIL MB1141 "peidab nullimise nupu" | NOT_EQUAL(MI11 "Errori tekstid", D#2) -> SET_COIL MB1141 "peidab nullimise nupu")

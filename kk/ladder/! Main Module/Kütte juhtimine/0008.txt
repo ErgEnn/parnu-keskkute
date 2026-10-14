@@ -1,0 +1,2 @@
+// PK.3T ventiili juhtimine
+(CONTACT MB421 "PK.PIDi väljundi juhtimine" -> STORE_DIRECT(MI423 "PID: väljund väärtus 2-10V") => MI62 "P.K. 3T Ventiil (väljund O2.0)" | CONTACT MB422 "PK.3T ventiil suletud" -> STORE_DIRECT(D#819) => MI62 "P.K. 3T Ventiil (väljund O2.0)")

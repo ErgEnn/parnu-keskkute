@@ -1,0 +1,1 @@
+RISE_CONTACT MB1103 "tagasi luku aknasse" -> EQUAL(SI9 "LCD Backlight intensity", D#0) -> JUMP_TO_HMI_PAGE PAGE "1.Ekraani lukk"

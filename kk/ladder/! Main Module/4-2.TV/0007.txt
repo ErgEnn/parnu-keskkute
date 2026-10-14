@@ -1,0 +1,2 @@
+// Ajatu temperatuuri valimine
+((RISE_CONTACT MB1420 "F4-2 (temp.seade plussi nupp)" -> INVERTED_CONTACT T84 "TV.ajatu temp.valiku plussi nupp" | RISE_CONTACT SB7 "100 mS pulse" -> CONTACT T84 "TV.ajatu temp.valiku plussi nupp") -> LESS_THAN(MI160 "TV.Ajatu temp.seade", D#60) -> INCREMENT_ELEMENT => MI160 "TV.Ajatu temp.seade" | GREATER_EQUAL(MI160 "TV.Ajatu temp.seade", D#60) -> COIL MB1421 "F4-2 (temp.seade plussi nupu peitmine)" -> STORE_DIRECT(D#60) => MI160 "TV.Ajatu temp.seade")

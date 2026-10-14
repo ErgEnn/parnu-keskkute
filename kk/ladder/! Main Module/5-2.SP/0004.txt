@@ -1,0 +1,2 @@
+// Liivakell seisab
+INVERTED_CONTACT T25 "Leg.reziimi järgus pausi alustamise viide.(2min.)" -> STORE_DIRECT(D#14) => MI57 "1.Liivakell F5-2"

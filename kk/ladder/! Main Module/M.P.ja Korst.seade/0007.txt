@@ -1,0 +1,2 @@
+// Õhusiibri avamine/sulgemine nupust
+INVERTED_CONTACT T43 "Õhusiibri käsitsi avamine" -> RISE_CONTACT MB59 "Katla õhusiibri reset impulss" -> RESET_COIL O107 "Katla õhusiiber"

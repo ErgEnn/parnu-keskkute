@@ -1,0 +1,2 @@
+// KK.Tsirkulatsioonipump
+(CONTACT MB305 "KK lüliti peale kliima seadet ja ooterežiimi." -> (INVERTED_CONTACT I81 "3T Ventii suure MP. asendis" | CONTACT MB1123 "SP.Lüliti") | CONTACT T32 "KK.Tsirk.pumba aegrelee (pumba intervall 1kuu)") -> COIL O100 "KK.Tsirk.pump" -> COIL MB8 "KK.pumba lülitamine joonisel"

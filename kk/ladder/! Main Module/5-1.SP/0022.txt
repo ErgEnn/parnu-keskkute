@@ -1,0 +1,2 @@
+// Veemõõtja seisab
+(CONTACT MB53 "hüüumärgi lüliti" -> (INVERTED_CONTACT MB51 "hüüumärk" -> STORE_DIRECT(D#3) => MI610 "Veemõõtja (joonisel F5-1)" | CONTACT MB51 "hüüumärk" -> STORE_DIRECT(D#4) => MI610 "Veemõõtja (joonisel F5-1)") | INVERTED_CONTACT MB38 "SP.pumba lülitamine joonisel" -> STORE_DIRECT(D#3) => MI610 "Veemõõtja (joonisel F5-1)")

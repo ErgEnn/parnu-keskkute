@@ -1,0 +1,2 @@
+LABEL _Start
+STL <88 bytes sha1:3aef3ba5324a>

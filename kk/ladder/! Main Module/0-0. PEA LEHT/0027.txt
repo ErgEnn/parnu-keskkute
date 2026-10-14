@@ -1,0 +1,3 @@
+// Alati sees MB 0.
+// Kasutusel mitte vajaminevate nuppude jaoks
+SET_COIL MB0 "Alati sisse lülitatud."

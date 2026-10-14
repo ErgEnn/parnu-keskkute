@@ -1,0 +1,1 @@
+MAC="58102815513" DownloadDate=2024-06-30 00:00:00 UserName="Ergo" CardInit=true SetPassword=true

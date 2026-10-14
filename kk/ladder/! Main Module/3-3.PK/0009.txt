@@ -1,0 +1,1 @@
+(CONTACT MB1328 "F3-3 (temp.seade miinuse nupp)" -> COIL T75 "PK. temp. korrektsiooni miinuse nupp" | CONTACT MB1330 "F3-3 (temp.seade plussi nupp)" -> COIL T74 "PK. temp. korrektsiooni plussi nupp")

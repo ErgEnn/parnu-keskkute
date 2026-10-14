@@ -1,0 +1,2 @@
+// Errori akna tekstid
+(RISE_CONTACT MB617 "SP.kompressori hädaseis (SET/RES.)" -> STORE_DIRECT(D#2) => MI11 "Errori tekstid" -> STORE_DIRECT(D#22) => MI12 "Täpsustav error" -> JUMP_TO_HMI_PAGE PAGE "3.Error" -> COIL MB630 "Veemõõtja vea teade lisaekraani jaoks" | RISE_CONTACT MB1140 "SP.kompressori hädaseisu nullimine" -> STORE_DIRECT(D#0) => MI11 "Errori tekstid")

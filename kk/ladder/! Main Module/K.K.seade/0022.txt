@@ -1,0 +1,2 @@
+// KK.korrigeeritud väljundi lüliti (väljund valijasse mis valib kütte temperatuuri KK või PK järgi)
+(CONTACT MB305 "KK lüliti peale kliima seadet ja ooterežiimi." -> STORE_DIRECT(MI313 "KK.korrigeeritud temp.teisendamine täis kraadideks") => MI312 "KK.korrigeeritud temp.lüliti" | INVERTED_CONTACT MB305 "KK lüliti peale kliima seadet ja ooterežiimi." -> STORE_DIRECT(D#10) => MI312 "KK.korrigeeritud temp.lüliti")

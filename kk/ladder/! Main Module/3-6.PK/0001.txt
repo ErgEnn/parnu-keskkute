@@ -1,0 +1,2 @@
+// PK.lülitamine kellaga
+((RISE_CONTACT MB1361 "F3-6 kella SET/RES nupp" -> INVERTED_CONTACT MB84 "F3-6 PK.kell sees,väljas" | IN_DIR_DAY_OF_THE_WEEK(MI480 "F3-6 nädal sisse") -> IN_DIR_TIME(MI481 "F3-6 tunnid sisse", MI482 "F3-6 tunnid nullimine")) -> SET_COIL MB84 "F3-6 PK.kell sees,väljas" | (RISE_CONTACT MB1361 "F3-6 kella SET/RES nupp" -> CONTACT MB84 "F3-6 PK.kell sees,väljas" | IN_DIR_DAY_OF_THE_WEEK(MI483 "F3-6 nädal välja") -> IN_DIR_TIME(MI484 "F3-6 tunnid välja", MI485 "F3-6 tunnid nullimine")) -> RESET_COIL MB84 "F3-6 PK.kell sees,väljas")

@@ -1,0 +1,2 @@
+// TV.
+CONTACT MB538 "TV.errorid" -> LESS_THAN(MI575 "TV.errori kodeerija", D#4) -> COIL MB539 "TV.errori kood" -> CONTACT SB3 "1 second pulse ( a squarewave of 1 second duration, with a 50% duty cycle)" -> COIL MB541 "TV  Lisaekraani valgustus"

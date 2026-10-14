@@ -1,0 +1,2 @@
+// KK.korrigeeritud temp.teisendamine (4-20 mA) ja saatmine SP.le
+DIV(MI310 "KK.korrigeeritud temp.(10,0-65,0°C)", D#10) => MI313 "KK.korrigeeritud temp.teisendamine täis kraadideks" -> ADD(MI313 "KK.korrigeeritud temp.teisendamine täis kraadideks", MI676 "SP.lisakraadid") => MI399 "KK.temp.saatmine SP.sisendi piirajale.(60C°)" -> LESS_THAN(MI399 "KK.temp.saatmine SP.sisendi piirajale.(60C°)", D#56) -> COIL MB399 "KK.temp.saatmine SP.sisendi piiraja.(60C°)"

@@ -1,0 +1,2 @@
+// TV.Tsirkulatsioonipumba aegrelee (intervall 1kuu)
+(INVERTED_CONTACT MB22 "TV.pumba lülitamine joonisel" -> INVERTED_CONTACT T37 "TV.Tsirk.pumba aegrelee" -> COIL T36 "TV.Tsirk.pumba aegrelee" | RISE_CONTACT MB570 "TV.Tsirk.pumba aegrelee" -> COIL T38 "TV.Tsirk.pumba aegrelee (pump töötab)")

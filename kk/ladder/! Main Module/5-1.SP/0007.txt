@@ -1,0 +1,2 @@
+// SP. Ventiili asend joonisel (ajami lisakontakti järgi I81)
+(INVERTED_CONTACT MB8 "KK.pumba lülitamine joonisel" | CONTACT MB316 "KK.3T kraan suletud") -> INVERTED_CONTACT MB317 "KK.3T kraan osaliselt avatud" -> (INVERTED_CONTACT MB15 "PK.pumba lülitamine joonisel" | CONTACT MB416 "PK.3T kraan suletud") -> INVERTED_CONTACT MB417 "PK.3T kraan osaliselt avatud" -> (INVERTED_CONTACT I81 "3T Ventii suure MP. asendis" -> STORE_DIRECT(D#0) => MI617 "F5-1ventiil joonisel" | CONTACT I81 "3T Ventii suure MP. asendis" -> STORE_DIRECT(D#1) => MI617 "F5-1ventiil joonisel")

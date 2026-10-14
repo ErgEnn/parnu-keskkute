@@ -1,0 +1,2 @@
+// 2.Temperatuuri valimine
+(RISE_CONTACT MB1226 "F2-3 (2.kellaga temp.seade plussi nupp)" -> LESS_THAN(MI304 "2.Temp.muutmine +/-3°C", D#30) -> ADD(MI304 "2.Temp.muutmine +/-3°C", D#5) => MI304 "2.Temp.muutmine +/-3°C" | GREATER_EQUAL(MI304 "2.Temp.muutmine +/-3°C", D#30) -> COIL MB1227 "F2-3 (2.kellaga temp.seade plussi nupu peitmine)" -> STORE_DIRECT(D#30) => MI304 "2.Temp.muutmine +/-3°C")

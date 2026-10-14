@@ -1,0 +1,2 @@
+// Ekraani valgustuse aktiveerija
+(RISE_CONTACT SB16 "Touchscreen is Active (has been touched] (Touch models only)" -> COIL SB310 "Buzzer (290/570/350/530)" -> COIL T1 "Heledus taimer" | CONTACT MB1 "Ekraani luku välja lülitamine" -> COIL T1 "Heledus taimer")

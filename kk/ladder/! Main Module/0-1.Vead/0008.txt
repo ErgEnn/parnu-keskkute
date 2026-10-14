@@ -1,0 +1,1 @@
+EQUAL(SI252 "Current HMI Display Number (Standard Vision only)", D#100) -> RISE_CONTACT MB1142 "Nupp errori aknast tagasi vigasesse aknasse" -> (EQUAL(MI12 "Täpsustav error", D#13) | EQUAL(MI12 "Täpsustav error", D#14) | EQUAL(MI12 "Täpsustav error", D#15)) -> COIL MB68 "F3-5 errori aknast vigasesse aknasse" -> RESET_COIL MB438 "PK.errorid"

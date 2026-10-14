@@ -1,0 +1,2 @@
+// Väikese ringi kolmik joonisel
+(INVERTED_CONTACT MB14 "KK.Nooled Sees" -> STORE_DIRECT(D#0) => MI367 "F2-1Väikese ringi kolmik joonisel" | CONTACT MB316 "KK.3T kraan suletud" -> CONTACT MB8 "KK.pumba lülitamine joonisel" -> STORE_DIRECT(D#1) => MI367 "F2-1Väikese ringi kolmik joonisel" | CONTACT MB315 "KK.3T kraan avatud" -> CONTACT MB8 "KK.pumba lülitamine joonisel" -> STORE_DIRECT(D#2) => MI367 "F2-1Väikese ringi kolmik joonisel" | CONTACT MB12 "KK.Nool-nurk" -> CONTACT MB13 "KK.Nooled Si-Vä" -> STORE_DIRECT(D#3) => MI367 "F2-1Väikese ringi kolmik joonisel")

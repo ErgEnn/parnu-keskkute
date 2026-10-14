@@ -1,0 +1,1 @@
+LINEAR(D#3277, D#0, D#16383, D#1000, MI42 "V.M.paak(4-20mA)") => MI206 "V.M.Paagi temp. 0-100,0°C" -> LINEAR(D#3277, D#0, D#16383, D#1000, MI43 "Vaba (4-20mA)") => MI207 "vaba 0-100,0°C"

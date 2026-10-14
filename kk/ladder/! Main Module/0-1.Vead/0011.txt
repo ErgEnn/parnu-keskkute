@@ -1,0 +1,1 @@
+EQUAL(SI252 "Current HMI Display Number (Standard Vision only)", D#100) -> RISE_CONTACT MB1142 "Nupp errori aknast tagasi vigasesse aknasse" -> (EQUAL(MI12 "Täpsustav error", D#19) | EQUAL(MI12 "Täpsustav error", D#20) | EQUAL(MI12 "Täpsustav error", D#21)) -> COIL MB70 "F4-4 errori aknast vigasesse aknasse" -> RESET_COIL MB538 "TV.errorid"

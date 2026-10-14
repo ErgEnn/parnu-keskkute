@@ -1,0 +1,1 @@
+RISE_CONTACT MB1100 "taba asend" -> REFRESH_HMI_VARS

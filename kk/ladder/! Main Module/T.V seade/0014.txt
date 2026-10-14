@@ -1,0 +1,2 @@
+// Pumba viimase töötamise aeg.
+CONTACT MB22 "TV.pumba lülitamine joonisel" -> RTC_TO_UTC(SI30 "Current second - according to RTC (SS)") => DW1 "TV. pumba viimase käivituse aeg."

@@ -1,0 +1,2 @@
+// Kellade kasutamise piiramine,sõltuvalt välistemperatuurist.(-15C°)
+(LESS_THAN(MI600 "Õue temp.(täis kraadides)", D#-15) -> SET_COIL MB390 "KK.kellade kasutamise piiramine,sõltuvalt õue temperatuurist.(-15C°)" | GREATER_THAN(MI600 "Õue temp.(täis kraadides)", D#-15) -> RESET_COIL MB390 "KK.kellade kasutamise piiramine,sõltuvalt õue temperatuurist.(-15C°)")

@@ -1,0 +1,2 @@
+// KK.Tsirkulatsioonipumba aegrelee (intervall 1kuu)
+(INVERTED_CONTACT MB8 "KK.pumba lülitamine joonisel" -> INVERTED_CONTACT T31 "KK.Tsirk.pumba aegrelee" -> COIL T30 "KK.Tsirk.pumba aegrelee" | RISE_CONTACT MB370 "KK.Tsirkulatsioonipumba aegrelee" -> COIL T32 "KK.Tsirk.pumba aegrelee (pumba intervall 1kuu)")

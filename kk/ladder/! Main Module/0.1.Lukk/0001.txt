@@ -1,0 +1,2 @@
+// Ekraani lukk
+CONTACT MB1101 "taba vajutus" -> COIL T0 "Ekraani luku viide"

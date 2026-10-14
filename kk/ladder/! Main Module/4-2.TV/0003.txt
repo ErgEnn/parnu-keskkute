@@ -1,0 +1,1 @@
+(CONTACT MB1410 "F4-2 (1.kellaga temp.seade miinuse nupp)" -> COIL T81 "TV. 1.temp. korrektsioon kellaga miinuse nupp" | CONTACT MB1412 "F4-2 (1.kellaga temp.seade plussi nupp)" -> COIL T80 "TV. 1.temp. korrektsioon kellaga plussi nupp")

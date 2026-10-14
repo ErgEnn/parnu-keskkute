@@ -1,0 +1,1 @@
+(GREATER_THAN(MI23 "Vatid viimasest impulsist", MI24 "Eelmised vatid") -> STORE_DIRECT(MI24 "Eelmised vatid") => MI25 "Vatid ekraanile" | LESS_EQUAL(MI23 "Vatid viimasest impulsist", MI24 "Eelmised vatid") -> RISE_CONTACT SB13 "ON at Rising Edge of SB3 (1sec pulse)" -> STORE_DIRECT(MI23 "Vatid viimasest impulsist") => MI25 "Vatid ekraanile")

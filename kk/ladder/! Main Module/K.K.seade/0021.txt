@@ -1,0 +1,1 @@
+CONTACT MB1120 "KK lüliti" -> INVERTED_CONTACT T3 "KK.kütte plokeeringu viide (kliima)" -> INVERTED_CONTACT MB307 "Küte ooterežiimil" -> COIL MB305 "KK lüliti peale kliima seadet ja ooterežiimi."

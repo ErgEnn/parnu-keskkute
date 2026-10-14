@@ -1,0 +1,1 @@
+ADD(MI152 "F4-6 tunnid sisse", D#1) => MI153 "F4-6 tunnid nullimine"

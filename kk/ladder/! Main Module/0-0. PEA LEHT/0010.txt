@@ -1,0 +1,2 @@
+// MIN/MAX Temperatuuride salvestamine
+((RISE_CONTACT MB1152 "Toa temp min nupp" | LESS_THAN(MI197 "Toa temp. peale korrektsiooni", MI1152 "Tao temp min")) -> STORE_DIRECT(MI197 "Toa temp. peale korrektsiooni") => MI1152 "Tao temp min" | (RISE_CONTACT MB1153 "Toa temp max nupp" | GREATER_THAN(MI197 "Toa temp. peale korrektsiooni", MI1153 "Toa temp max")) -> STORE_DIRECT(MI197 "Toa temp. peale korrektsiooni") => MI1153 "Toa temp max")

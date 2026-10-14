@@ -1,0 +1,2 @@
+// Toa temp.korrektori takti aeg 1sek
+(CONTACT T10 "Oote aeg" -> COIL T11 "Imppulsi aeg" | CONTACT T12 "Oote aeg" -> COIL T13 "Imppulsi aeg")

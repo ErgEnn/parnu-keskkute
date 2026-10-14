@@ -1,0 +1,1 @@
+CONTACT I81 "3T Ventii suure MP. asendis" -> CONTACT MB28 "Kollektori nooled" -> COIL MB34 "F5-1Tagasivool(2.MP.)" -> COIL MB39 "F5-1 Kütte pealevool (v.mahupaagist)"

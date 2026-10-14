@@ -1,0 +1,2 @@
+// Vee voolukiirus arvutamine (L/min.)
+FORMULA(MI612 "Sisendi sagedus Hz (vee voolu)") => MI611 "Veemõõtja näit L/Min", MI612 "Sisendi sagedus Hz (vee voolu)" [bin <68 bytes sha1:c5a48733a9a6>]

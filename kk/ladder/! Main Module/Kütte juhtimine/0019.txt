@@ -1,0 +1,2 @@
+// SP.lülitamine (väljundid)
+((CONTACT T22 "SP.lülitamise viide KK.või PK.järgi (kütmine)" | CONTACT T23 "SP.tarbevee kütte sisse lülitamise viide") -> (INVERTED_CONTACT MB1124 "ECO lüliti" -> COIL O96 "SP.kütte sisendile" | CONTACT MB1124 "ECO lüliti" -> COIL O97 "küte ECO") | CONTACT T23 "SP.tarbevee kütte sisse lülitamise viide" -> COIL O98 "SP.tarbevee kütte sisendile" | CONTACT MB522 "Legionella tõrje imp.sees/väljas" -> COIL O111 "Legionella bakteri hävitus")

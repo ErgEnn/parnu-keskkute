@@ -1,0 +1,1 @@
+CONTACT MB503 "des.temp.saatmine diferentsiaalile" -> STORE_DIRECT(D#60) => MI503 "TV.kütte temp. kellaga, ajatu või des.temp."

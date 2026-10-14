@@ -1,0 +1,50 @@
+ElementID=10 IOID=10 IOGeneralType=4 IOType=17 IOgeneralIndex=1 OperandIndex=1 HW_Elmnt_Oprnd_Type=3 HW_Elmnt_Oprnd_Adrs=60
+ElementID=10 IOID=11 IOGeneralType=4 IOType=42 IOgeneralIndex=2 OperandIndex=1 HW_Elmnt_Oprnd_Type=3 HW_Elmnt_Oprnd_Adrs=61
+ElementID=10 IOID=13 IOGeneralType=4 IOType=42 IOgeneralIndex=4 OperandIndex=1 HW_Elmnt_Oprnd_Type=3 HW_Elmnt_Oprnd_Adrs=63
+ElementID=10 IOID=34 IOGeneralType=4 IOType=42 IOgeneralIndex=3 OperandIndex=1 HW_Elmnt_Oprnd_Type=3 HW_Elmnt_Oprnd_Adrs=62
+ElementID=10 IOID=38 IOGeneralType=4 IOType=16 IOgeneralIndex=5 OperandIndex=1 HW_Elmnt_Oprnd_Type=3 HW_Elmnt_Oprnd_Adrs=64
+ElementID=11 IOID=-1 IOGeneralType=1 IOgeneralIndex=-1 OperandIndex=-1 HW_Elmnt_Oprnd_Type=9 HW_Elmnt_Oprnd_Adrs=80 Units=-1
+ElementID=11 IOID=-1 IOGeneralType=1 IOgeneralIndex=-1 OperandIndex=-1 HW_Elmnt_Oprnd_Type=9 HW_Elmnt_Oprnd_Adrs=81 Units=-1
+ElementID=11 IOID=-1 IOGeneralType=1 IOgeneralIndex=-1 OperandIndex=-1 HW_Elmnt_Oprnd_Type=9 HW_Elmnt_Oprnd_Adrs=82 Units=-1
+ElementID=11 IOID=-1 IOGeneralType=1 IOgeneralIndex=-1 OperandIndex=-1 HW_Elmnt_Oprnd_Type=9 HW_Elmnt_Oprnd_Adrs=83 Units=-1
+ElementID=11 IOID=-1 IOGeneralType=1 IOgeneralIndex=-1 OperandIndex=-1 HW_Elmnt_Oprnd_Type=9 HW_Elmnt_Oprnd_Adrs=84 Units=-1
+ElementID=11 IOID=-1 IOGeneralType=1 IOgeneralIndex=-1 OperandIndex=-1 HW_Elmnt_Oprnd_Type=9 HW_Elmnt_Oprnd_Adrs=85 Units=-1
+ElementID=11 IOID=-1 IOGeneralType=1 IOgeneralIndex=-1 OperandIndex=-1 HW_Elmnt_Oprnd_Type=9 HW_Elmnt_Oprnd_Adrs=86 Units=-1
+ElementID=11 IOID=-1 IOGeneralType=1 IOgeneralIndex=-1 OperandIndex=-1 HW_Elmnt_Oprnd_Type=9 HW_Elmnt_Oprnd_Adrs=87 Units=-1
+ElementID=11 IOID=-1 IOGeneralType=1 IOgeneralIndex=-1 OperandIndex=-1 HW_Elmnt_Oprnd_Type=9 HW_Elmnt_Oprnd_Adrs=88 Units=-1
+ElementID=11 IOID=-1 IOGeneralType=1 IOgeneralIndex=-1 OperandIndex=-1 HW_Elmnt_Oprnd_Type=9 HW_Elmnt_Oprnd_Adrs=89 Units=-1
+ElementID=11 IOID=-1 IOGeneralType=1 IOgeneralIndex=-1 OperandIndex=-1 HW_Elmnt_Oprnd_Type=9 HW_Elmnt_Oprnd_Adrs=90 Units=-1
+ElementID=11 IOID=-1 IOGeneralType=1 IOgeneralIndex=-1 OperandIndex=-1 HW_Elmnt_Oprnd_Type=9 HW_Elmnt_Oprnd_Adrs=91 Units=-1
+ElementID=11 IOID=-1 IOGeneralType=1 IOgeneralIndex=-1 OperandIndex=-1 HW_Elmnt_Oprnd_Type=9 HW_Elmnt_Oprnd_Adrs=92 Units=-1
+ElementID=11 IOID=-1 IOGeneralType=1 IOgeneralIndex=-1 OperandIndex=-1 HW_Elmnt_Oprnd_Type=9 HW_Elmnt_Oprnd_Adrs=93 Units=-1
+ElementID=11 IOID=-1 IOGeneralType=1 IOgeneralIndex=-1 OperandIndex=-1 HW_Elmnt_Oprnd_Type=9 HW_Elmnt_Oprnd_Adrs=94 Units=-1
+ElementID=11 IOID=-1 IOGeneralType=1 IOgeneralIndex=-1 OperandIndex=-1 HW_Elmnt_Oprnd_Type=9 HW_Elmnt_Oprnd_Adrs=95 Units=-1
+ElementID=11 IOID=39 IOGeneralType=5 IOType=10 IOgeneralIndex=1 OperandIndex=1 HW_Elmnt_Oprnd_Type=3 HW_Elmnt_Oprnd_Adrs=612
+ElementID=15 IOID=-1 IOGeneralType=2 IOgeneralIndex=-1 OperandIndex=-1 HW_Elmnt_Oprnd_Type=10 HW_Elmnt_Oprnd_Adrs=100 Units=-1
+ElementID=15 IOID=-1 IOGeneralType=2 IOgeneralIndex=-1 OperandIndex=-1 HW_Elmnt_Oprnd_Type=10 HW_Elmnt_Oprnd_Adrs=101 Units=-1
+ElementID=15 IOID=-1 IOGeneralType=2 IOgeneralIndex=-1 OperandIndex=-1 HW_Elmnt_Oprnd_Type=10 HW_Elmnt_Oprnd_Adrs=102 Units=-1
+ElementID=15 IOID=-1 IOGeneralType=2 IOgeneralIndex=-1 OperandIndex=-1 HW_Elmnt_Oprnd_Type=10 HW_Elmnt_Oprnd_Adrs=103 Units=-1
+ElementID=15 IOID=-1 IOGeneralType=2 IOgeneralIndex=-1 OperandIndex=-1 HW_Elmnt_Oprnd_Type=10 HW_Elmnt_Oprnd_Adrs=104 Units=-1
+ElementID=15 IOID=-1 IOGeneralType=2 IOgeneralIndex=-1 OperandIndex=-1 HW_Elmnt_Oprnd_Type=10 HW_Elmnt_Oprnd_Adrs=105 Units=-1
+ElementID=15 IOID=-1 IOGeneralType=2 IOgeneralIndex=-1 OperandIndex=-1 HW_Elmnt_Oprnd_Type=10 HW_Elmnt_Oprnd_Adrs=106 Units=-1
+ElementID=15 IOID=-1 IOGeneralType=2 IOgeneralIndex=-1 OperandIndex=-1 HW_Elmnt_Oprnd_Type=10 HW_Elmnt_Oprnd_Adrs=107 Units=-1
+ElementID=15 IOID=-1 IOGeneralType=2 IOgeneralIndex=-1 OperandIndex=-1 HW_Elmnt_Oprnd_Type=10 HW_Elmnt_Oprnd_Adrs=108 Units=-1
+ElementID=15 IOID=-1 IOGeneralType=2 IOgeneralIndex=-1 OperandIndex=-1 HW_Elmnt_Oprnd_Type=10 HW_Elmnt_Oprnd_Adrs=109 Units=-1
+ElementID=15 IOID=-1 IOGeneralType=2 IOgeneralIndex=-1 OperandIndex=-1 HW_Elmnt_Oprnd_Type=10 HW_Elmnt_Oprnd_Adrs=110 Units=-1
+ElementID=15 IOID=-1 IOGeneralType=2 IOgeneralIndex=-1 OperandIndex=-1 HW_Elmnt_Oprnd_Type=10 HW_Elmnt_Oprnd_Adrs=111 Units=-1
+ElementID=15 IOID=-1 IOGeneralType=2 IOgeneralIndex=-1 OperandIndex=-1 HW_Elmnt_Oprnd_Type=10 HW_Elmnt_Oprnd_Adrs=96 Units=-1
+ElementID=15 IOID=-1 IOGeneralType=2 IOgeneralIndex=-1 OperandIndex=-1 HW_Elmnt_Oprnd_Type=10 HW_Elmnt_Oprnd_Adrs=97 Units=-1
+ElementID=15 IOID=-1 IOGeneralType=2 IOgeneralIndex=-1 OperandIndex=-1 HW_Elmnt_Oprnd_Type=10 HW_Elmnt_Oprnd_Adrs=98 Units=-1
+ElementID=15 IOID=-1 IOGeneralType=2 IOgeneralIndex=-1 OperandIndex=-1 HW_Elmnt_Oprnd_Type=10 HW_Elmnt_Oprnd_Adrs=99 Units=-1
+ElementID=2 IOID=25 IOGeneralType=6 IOType=52 IOgeneralIndex=4 OperandIndex=1 HW_Elmnt_Oprnd_Type=3 HW_Elmnt_Oprnd_Adrs=35
+ElementID=2 IOID=3 IOGeneralType=6 IOType=52 IOgeneralIndex=3 OperandIndex=1 HW_Elmnt_Oprnd_Type=3 HW_Elmnt_Oprnd_Adrs=34
+ElementID=2 IOID=32 IOGeneralType=6 IOType=51 IOgeneralIndex=1 OperandIndex=1 HW_Elmnt_Oprnd_Type=3 HW_Elmnt_Oprnd_Adrs=32
+ElementID=2 IOID=33 IOGeneralType=6 IOType=51 IOgeneralIndex=2 OperandIndex=1 HW_Elmnt_Oprnd_Type=3 HW_Elmnt_Oprnd_Adrs=33
+ElementID=9 IOID=16 IOGeneralType=3 IOType=12 IOgeneralIndex=1 OperandIndex=1 HW_Elmnt_Oprnd_Type=3 HW_Elmnt_Oprnd_Adrs=36
+ElementID=9 IOID=28 IOGeneralType=3 IOType=33 IOgeneralIndex=3 OperandIndex=1 HW_Elmnt_Oprnd_Type=3 HW_Elmnt_Oprnd_Adrs=38 FilterType=3
+ElementID=9 IOID=29 IOGeneralType=3 IOType=33 IOgeneralIndex=4 OperandIndex=1 HW_Elmnt_Oprnd_Type=3 HW_Elmnt_Oprnd_Adrs=39 FilterType=3
+ElementID=9 IOID=30 IOGeneralType=3 IOType=33 IOgeneralIndex=5 OperandIndex=1 HW_Elmnt_Oprnd_Type=3 HW_Elmnt_Oprnd_Adrs=40 FilterType=3
+ElementID=9 IOID=31 IOGeneralType=3 IOType=33 IOgeneralIndex=6 OperandIndex=1 HW_Elmnt_Oprnd_Type=3 HW_Elmnt_Oprnd_Adrs=41 FilterType=3
+ElementID=9 IOID=35 IOGeneralType=3 IOType=14 IOgeneralIndex=2 OperandIndex=1 HW_Elmnt_Oprnd_Type=3 HW_Elmnt_Oprnd_Adrs=37 FilterType=3
+ElementID=9 IOID=36 IOGeneralType=3 IOType=14 IOgeneralIndex=7 OperandIndex=1 HW_Elmnt_Oprnd_Type=3 HW_Elmnt_Oprnd_Adrs=42 FilterType=3
+ElementID=9 IOID=37 IOGeneralType=3 IOType=14 IOgeneralIndex=8 OperandIndex=1 HW_Elmnt_Oprnd_Type=3 HW_Elmnt_Oprnd_Adrs=43 FilterType=3

@@ -1,0 +1,2 @@
+// PK.
+CONTACT MB438 "PK.errorid" -> LESS_THAN(MI475 "PK.errori kodeerija", D#3) -> COIL MB439 "PK.errori kood" -> CONTACT SB3 "1 second pulse ( a squarewave of 1 second duration, with a 50% duty cycle)" -> COIL MB441 "PK Lisaekraani valgustus"

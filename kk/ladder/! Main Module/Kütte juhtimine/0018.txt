@@ -1,0 +1,1 @@
+(CONTACT T24 "TV.Legionella tõrje imp.lõpetamine" -> RESET_COIL MB522 "Legionella tõrje imp.sees/väljas" | (INVERTED_CONTACT MB1125 "Legionellatõrje reziimi lüliti" | FALL_CONTACT I82 "SP.3Tventiil KK/PK suunas avatud") -> RESET_COIL MB523 "Legionella režiimis olek SET/RES")

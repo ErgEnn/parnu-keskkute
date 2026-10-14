@@ -1,0 +1,1 @@
+CONTACT MB438 "PK.errorid" -> INVERTED_CONTACT SB3 "1 second pulse ( a squarewave of 1 second duration, with a 50% duty cycle)" -> COIL MB440 "PK.errori koodi loendurile"

@@ -1,0 +1,2 @@
+// Leg reziimi järgse taimeri töö näitamine (liivakell töötab)
+CONTACT T25 "Leg.reziimi järgus pausi alustamise viide.(2min.)" -> RISE_CONTACT SB3 "1 second pulse ( a squarewave of 1 second duration, with a 50% duty cycle)" -> (INCREMENT_ELEMENT => MI57 "1.Liivakell F5-2" | GREATER_EQUAL(MI57 "1.Liivakell F5-2", D#14) -> STORE_ZERO_NUMERIC MI57 "1.Liivakell F5-2")

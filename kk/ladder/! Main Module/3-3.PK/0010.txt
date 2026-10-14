@@ -1,0 +1,1 @@
+DIV(MI191 "PK.Seade (temp.graafik 45,0-35,0°C)", D#10) => MI192 "PK.Seade (temp.graafiktäis kraadides 45-35°C)"

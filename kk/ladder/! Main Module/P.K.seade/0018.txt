@@ -1,0 +1,2 @@
+// PK. 3Tventiili juhtimine
+(CONTACT MB405 "PK lüliti peale kõiki blokeeringuid" -> COIL MB421 "PK.PIDi väljundi juhtimine" | INVERTED_CONTACT MB405 "PK lüliti peale kõiki blokeeringuid" -> COIL MB422 "PK.3T ventiil suletud")

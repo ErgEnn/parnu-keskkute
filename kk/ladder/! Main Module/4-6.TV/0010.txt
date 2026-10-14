@@ -1,0 +1,2 @@
+// 5-2.SP.Leg reziimi järgse pausi taimeri aja näitamiseks.
+CONTACT T25 "Leg.reziimi järgus pausi alustamise viide.(2min.)" -> RISE_CONTACT SB3 "1 second pulse ( a squarewave of 1 second duration, with a 50% duty cycle)" -> INCREMENT_ELEMENT => MI260 "Leg.järgse taimeri aja liitmine."
